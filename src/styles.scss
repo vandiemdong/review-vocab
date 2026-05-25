@@ -1,1 +1,454 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f4f7fb;
+  font-family: Arial, sans-serif;
+  color: #111827;
+}
+
+.page {
+  max-width: 430px;
+  min-height: 100vh;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 18px;
+}
+
+.top-bar {
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18px;
+  font-size: 22px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.title small {
+  display: block;
+  font-size: 12px;
+  color: #6b7280;
+  margin-top: 4px;
+}
+
+.hero-card {
+  min-height: 170px;
+  border-radius: 22px;
+  padding: 24px;
+  background: linear-gradient(135deg, #2563eb, #7c3aed);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 12px 30px rgba(37, 99, 235, 0.25);
+}
+
+.hero-card h1,
+.hero-card h2,
+.hero-card p {
+  margin: 0 0 10px;
+}
+
+.panda {
+  font-size: 70px;
+}
+
+.progress-bg {
+  width: 100%;
+  height: 8px;
+  background: #e5e7eb;
+  border-radius: 99px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: #22c55e;
+  border-radius: 99px;
+}
+
+h3 {
+  margin: 24px 0 12px;
+}
+
+.continue-card,
+.lesson-card,
+.overview-card,
+.review-today,
+.weak-list {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+}
+
+.continue-card {
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.continue-card p {
+  margin: 8px 0;
+  color: #6b7280;
+  font-size: 13px;
+}
+
+.continue-card button {
+  border: none;
+  background: #2563eb;
+  color: white;
+  border-radius: 10px;
+  padding: 10px 14px;
+  font-weight: 700;
+}
+
+.small-progress {
+  width: 130px;
+  height: 5px;
+  background: #e5e7eb;
+  border-radius: 99px;
+  overflow: hidden;
+}
+
+.small-progress span {
+  display: block;
+  height: 100%;
+  background: #22c55e;
+}
+
+.action-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.action-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 14px 8px;
+  text-align: center;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+}
+
+.action-card div {
+  font-size: 26px;
+}
+
+.action-card b {
+  display: block;
+  margin: 8px 0 4px;
+  font-size: 13px;
+}
+
+.action-card small {
+  color: #6b7280;
+  font-size: 11px;
+}
+
+.tabs {
+  display: flex;
+  margin-bottom: 18px;
+}
+
+.tabs button {
+  flex: 1;
+  padding: 12px;
+  border: none;
+  background: transparent;
+  font-weight: 700;
+  color: #6b7280;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.tabs button.active {
+  color: #2563eb;
+  border-bottom-color: #2563eb;
+}
+
+.lesson-card {
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 14px;
+}
+
+.lesson-icon {
+  width: 54px;
+  height: 54px;
+  border-radius: 16px;
+  background: #f3f4f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  margin-right: 14px;
+}
+
+.lesson-info {
+  flex: 1;
+}
+
+.lesson-info h3 {
+  margin: 4px 0;
+}
+
+.lesson-info p {
+  margin: 0;
+  color: #6b7280;
+  font-size: 13px;
+}
+
+.circle-progress {
+  width: 52px;
+  height: 52px;
+  border: 4px solid #22c55e;
+  border-radius: 50%;
+  color: #22c55e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}
+
+.lock {
+  font-size: 24px;
+}
+
+.locked {
+  opacity: 0.55;
+}
+
+.flash-page {
+  background: linear-gradient(#eef8ff, #ffffff);
+}
+
+.flash-card {
+  min-height: 470px;
+  background: white;
+  border-radius: 28px;
+  margin: 28px 0;
+  padding: 30px;
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.12);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hanzi {
+  font-size: 76px;
+  font-family: serif;
+  margin-bottom: 20px;
+}
+
+.hanzi.small {
+  font-size: 60px;
+}
+
+.flash-card h3 {
+  margin: 0;
+  color: #2563eb;
+  font-size: 24px;
+}
+
+.flash-card h4 {
+  margin: 10px 0 24px;
+  font-size: 22px;
+}
+
+.flash-card hr {
+  width: 100%;
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 20px 0;
+}
+
+.sound {
+  border: none;
+  background: #2563eb;
+  color: white;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
+.cn {
+  font-size: 22px;
+}
+
+.py {
+  color: #2563eb;
+}
+
+.vi {
+  color: #6b7280;
+}
+
+.bottom-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  position: sticky;
+  bottom: 12px;
+}
+
+.bottom-actions button,
+.next-btn {
+  border: none;
+  border-radius: 14px;
+  padding: 15px;
+  color: white;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.danger {
+  background: #ef4444;
+}
+
+.success {
+  background: #22c55e;
+}
+
+.quiz-progress {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.quiz-progress .progress-bg {
+  flex: 1;
+}
+
+.quiz-progress span {
+  color: #6b7280;
+  font-weight: 700;
+}
+
+.question {
+  margin-top: 40px;
+  margin-bottom: 24px;
+}
+
+.answer-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 18px;
+  margin-bottom: 14px;
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.answer-card.correct {
+  border-color: #22c55e;
+  background: #f0fdf4;
+  color: #16a34a;
+  font-weight: 700;
+}
+
+.next-btn {
+  width: 100%;
+  background: #2563eb;
+  margin-top: 120px;
+}
+
+.overview-card {
+  padding: 18px;
+}
+
+.overview-card h3 {
+  margin-top: 0;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.stats div {
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 14px 8px;
+  text-align: center;
+}
+
+.stats b {
+  display: block;
+  font-size: 24px;
+}
+
+.stats small {
+  font-size: 11px;
+  color: #6b7280;
+}
+
+.green {
+  color: #22c55e;
+}
+
+.orange {
+  color: #f97316;
+}
+
+.red {
+  color: #ef4444;
+}
+
+.review-today {
+  margin-top: 16px;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.review-today p {
+  margin: 4px 0 0;
+  color: #6b7280;
+}
+
+.review-today > div:last-child {
+  margin-left: auto;
+  font-size: 26px;
+}
+
+.weak-list {
+  overflow: hidden;
+}
+
+.weak-item {
+  padding: 16px;
+  border-bottom: 1px solid #e5e7eb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.weak-item:last-child {
+  border-bottom: none;
+}
+
+.weak-item p {
+  margin: 4px 0 0;
+  color: #6b7280;
+}
+
+.weak-item span {
+  color: #ef4444;
+  font-size: 12px;
+  font-weight: 700;
+}/* You can add global styles to this file, and also import other style files */
