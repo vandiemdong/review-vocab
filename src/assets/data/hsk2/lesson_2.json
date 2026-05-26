@@ -1,0 +1,152 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "生病",
+        "Pinyin": "shēngbìng",
+        "MeaningVi": "bị bệnh",
+        "ExampleCn": "他生病了，需要休息。",
+        "ExamplePy": "Tā shēngbìng le, xūyào xiūxi.",
+        "ExampleVi": "Anh ấy bị bệnh rồi, cần nghỉ ngơi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "每",
+        "Pinyin": "měi",
+        "MeaningVi": "mỗi",
+        "ExampleCn": "我每天都跑步。",
+        "ExamplePy": "Wǒ měitiān dōu pǎobù.",
+        "ExampleVi": "Mỗi ngày tôi đều chạy bộ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "早上",
+        "Pinyin": "zǎoshang",
+        "MeaningVi": "buổi sáng",
+        "ExampleCn": "我早上七点起床。",
+        "ExamplePy": "Wǒ zǎoshang qī diǎn qǐchuáng.",
+        "ExampleVi": "Tôi dậy lúc 7 giờ sáng."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "跑步",
+        "Pinyin": "pǎobù",
+        "MeaningVi": "chạy bộ",
+        "ExampleCn": "她喜欢在公园跑步。",
+        "ExamplePy": "Tā xǐhuan zài gōngyuán pǎobù.",
+        "ExampleVi": "Cô ấy thích chạy bộ trong công viên."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "起床",
+        "Pinyin": "qǐchuáng",
+        "MeaningVi": "thức dậy",
+        "ExampleCn": "我很难早起床。",
+        "ExamplePy": "Wǒ hěn nán zǎo qǐchuáng.",
+        "ExampleVi": "Tôi rất khó dậy sớm."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "药",
+        "Pinyin": "yào",
+        "MeaningVi": "thuốc",
+        "ExampleCn": "吃点药，你会好得快一点。",
+        "ExamplePy": "Chī diǎn yào, nǐ huì hǎo de kuài yìdiǎn.",
+        "ExampleVi": "Uống chút thuốc đi, bạn sẽ mau khỏe hơn."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "身体",
+        "Pinyin": "shēntǐ",
+        "MeaningVi": "cơ thể, sức khỏe",
+        "ExampleCn": "你的身体怎么样？",
+        "ExamplePy": "Nǐ de shēntǐ zěnmeyàng?",
+        "ExampleVi": "Sức khỏe của bạn thế nào?"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "出院",
+        "Pinyin": "chūyuàn",
+        "MeaningVi": "xuất viện",
+        "ExampleCn": "他明天就能出院了。",
+        "ExamplePy": "Tā míngtiān jiù néng chūyuàn le.",
+        "ExampleVi": "Ngày mai anh ấy có thể xuất viện rồi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "出",
+        "Pinyin": "chū",
+        "MeaningVi": "ra, xuất",
+        "ExampleCn": "他出门去上班了。",
+        "ExamplePy": "Tā chūmén qù shàngbān le.",
+        "ExampleVi": "Anh ấy ra khỏi nhà đi làm rồi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "高",
+        "Pinyin": "gāo",
+        "MeaningVi": "cao",
+        "ExampleCn": "他个子很高。",
+        "ExamplePy": "Tā gèzi hěn gāo.",
+        "ExampleVi": "Anh ấy rất cao."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "米",
+        "Pinyin": "mǐ",
+        "MeaningVi": "mét, gạo",
+        "ExampleCn": "他一米八。",
+        "ExamplePy": "Tā yī mǐ bā.",
+        "ExampleVi": "Anh ấy cao 1m8."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "知道",
+        "Pinyin": "zhīdào",
+        "MeaningVi": "biết",
+        "ExampleCn": "我不知道他的名字。",
+        "ExamplePy": "Wǒ bù zhīdào tā de míngzi.",
+        "ExampleVi": "Tôi không biết tên anh ấy."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "休息",
+        "Pinyin": "xiūxi",
+        "MeaningVi": "nghỉ ngơi",
+        "ExampleCn": "你应该多休息。",
+        "ExamplePy": "Nǐ yīnggāi duō xiūxi.",
+        "ExampleVi": "Bạn nên nghỉ ngơi nhiều hơn."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "忙",
+        "Pinyin": "máng",
+        "MeaningVi": "bận",
+        "ExampleCn": "我最近很忙。",
+        "ExamplePy": "Wǒ zuìjìn hěn máng.",
+        "ExampleVi": "Gần đây tôi rất bận."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 2,
+        "HanZi": "时间",
+        "Pinyin": "shíjiān",
+        "MeaningVi": "thời gian",
+        "ExampleCn": "你有时间吗？",
+        "ExamplePy": "Nǐ yǒu shíjiān ma?",
+        "ExampleVi": "Bạn có thời gian không?"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "请假",
+        "Pinyin": "qǐngjià",
+        "MeaningVi": "xin nghỉ (phép, ốm...)",
+        "ExampleCn": "我明天要请假。",
+        "ExamplePy": "Wǒ míngtiān yào qǐngjià.",
+        "ExampleVi": "Ngày mai tôi muốn xin nghỉ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "一共",
+        "Pinyin": "yígòng",
+        "MeaningVi": "tổng cộng",
+        "ExampleCn": "一共多少钱？",
+        "ExamplePy": "Yígòng duōshǎo qián?",
+        "ExampleVi": "Tổng cộng bao nhiêu tiền?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "邻居",
+        "Pinyin": "línjū",
+        "MeaningVi": "hàng xóm",
+        "ExampleCn": "我的邻居很热情。",
+        "ExamplePy": "Wǒ de línjū hěn rèqíng.",
+        "ExampleVi": "Hàng xóm của tôi rất nhiệt tình."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "后来",
+        "Pinyin": "hòulái",
+        "MeaningVi": "sau đó (dùng kể lại quá khứ)",
+        "ExampleCn": "后来他去了北京。",
+        "ExamplePy": "Hòulái tā qù le Běijīng.",
+        "ExampleVi": "Sau đó anh ấy đã đi Bắc Kinh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "爱好",
+        "Pinyin": "àihào",
+        "MeaningVi": "sở thích",
+        "ExampleCn": "我的爱好是游泳。",
+        "ExamplePy": "Wǒ de àihào shì yóuyǒng.",
+        "ExampleVi": "Sở thích của tôi là bơi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "办法",
+        "Pinyin": "bànfǎ",
+        "MeaningVi": "cách, phương pháp",
+        "ExampleCn": "我有一个好办法。",
+        "ExamplePy": "Wǒ yǒu yí gè hǎo bànfǎ.",
+        "ExampleVi": "Tôi có một cách hay."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "饱",
+        "Pinyin": "bǎo",
+        "MeaningVi": "no (ăn no)",
+        "ExampleCn": "我吃饱了。",
+        "ExamplePy": "Wǒ chī bǎo le.",
+        "ExampleVi": "Tôi no rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "为了",
+        "Pinyin": "wèile",
+        "MeaningVi": "để, vì (mục đích)",
+        "ExampleCn": "为了考试，他每天学习。",
+        "ExamplePy": "Wèile kǎoshì, tā měitiān xuéxí.",
+        "ExampleVi": "Để thi, anh ấy học mỗi ngày."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "决定",
+        "Pinyin": "juédìng",
+        "MeaningVi": "quyết định",
+        "ExampleCn": "我决定去中国留学。",
+        "ExamplePy": "Wǒ juédìng qù Zhōngguó liúxué.",
+        "ExampleVi": "Tôi quyết định đi du học Trung Quốc."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "选择",
+        "Pinyin": "xuǎnzé",
+        "MeaningVi": "lựa chọn",
+        "ExampleCn": "你可以选择喜欢的颜色。",
+        "ExamplePy": "Nǐ kěyǐ xuǎnzé xǐhuan de yánsè.",
+        "ExampleVi": "Bạn có thể chọn màu mình thích."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "冬天",
+        "Pinyin": "dōngtiān",
+        "MeaningVi": "mùa đông",
+        "ExampleCn": "冬天很冷。",
+        "ExamplePy": "Dōngtiān hěn lěng.",
+        "ExampleVi": "Mùa đông rất lạnh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "必须",
+        "Pinyin": "bìxū",
+        "MeaningVi": "phải, bắt buộc",
+        "ExampleCn": "你必须早点来。",
+        "ExamplePy": "Nǐ bìxū zǎodiǎn lái.",
+        "ExampleVi": "Bạn phải đến sớm."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "根据",
+        "Pinyin": "gēnjù",
+        "MeaningVi": "dựa theo, căn cứ theo",
+        "ExampleCn": "根据情况再决定。",
+        "ExamplePy": "Gēnjù qíngkuàng zài juédìng.",
+        "ExampleVi": "Quyết định dựa theo tình hình."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "情况",
+        "Pinyin": "qíngkuàng",
+        "MeaningVi": "tình hình, hoàn cảnh",
+        "ExampleCn": "我不知道具体情况。",
+        "ExamplePy": "Wǒ bù zhīdào jùtǐ qíngkuàng.",
+        "ExampleVi": "Tôi không biết tình hình cụ thể."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "口",
+        "Pinyin": "kǒu",
+        "MeaningVi": "miệng (lượng từ: người)",
+        "ExampleCn": "三口人",
+        "ExamplePy": "sān kǒu rén",
+        "ExampleVi": "3 miệng ăn (3 người trong nhà)"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 17,
+        "HanZi": "渴",
+        "Pinyin": "kě",
+        "MeaningVi": "khát nước",
+        "ExampleCn": "我有点儿渴。",
+        "ExamplePy": "Wǒ yǒu diǎnr kě.",
+        "ExampleVi": "Tôi hơi khát."
+    }
+]

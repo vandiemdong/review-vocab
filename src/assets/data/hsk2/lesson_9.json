@@ -1,0 +1,112 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 9,
+        "HanZi": "错",
+        "Pinyin": "cuò",
+        "MeaningVi": "sai, sai lầm",
+        "ExampleCn": "你写错了。",
+        "ExamplePy": "Nǐ xiě cuò le.",
+        "ExampleVi": "Bạn viết sai rồi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 9,
+        "HanZi": "从",
+        "Pinyin": "cóng",
+        "MeaningVi": "từ (địa điểm/thời điểm)",
+        "ExampleCn": "我从中国来。",
+        "ExamplePy": "Wǒ cóng Zhōngguó lái.",
+        "ExampleVi": "Tôi đến từ Trung Quốc."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 9,
+        "HanZi": "跳舞",
+        "Pinyin": "tiàowǔ",
+        "MeaningVi": "nhảy múa",
+        "ExampleCn": "她喜欢跳舞。",
+        "ExamplePy": "Tā xǐhuan tiàowǔ.",
+        "ExampleVi": "Cô ấy thích nhảy múa."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 9,
+        "HanZi": "第一",
+        "Pinyin": "dì-yī",
+        "MeaningVi": "thứ nhất",
+        "ExampleCn": "他是第一名。",
+        "ExamplePy": "Tā shì dì-yī míng.",
+        "ExampleVi": "Anh ấy là hạng nhất."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 9,
+        "HanZi": "希望",
+        "Pinyin": "xīwàng",
+        "MeaningVi": "hy vọng",
+        "ExampleCn": "我希望明天会更好。",
+        "ExamplePy": "Wǒ xīwàng míngtiān huì gèng hǎo.",
+        "ExampleVi": "Tôi hy vọng ngày mai sẽ tốt hơn."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 9,
+        "HanZi": "问题",
+        "Pinyin": "wèntí",
+        "MeaningVi": "câu hỏi, vấn đề",
+        "ExampleCn": "你有什么问题吗？",
+        "ExamplePy": "Nǐ yǒu shénme wèntí ma?",
+        "ExampleVi": "Bạn có câu hỏi gì không?"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 9,
+        "HanZi": "欢迎",
+        "Pinyin": "huānyíng",
+        "MeaningVi": "hoan nghênh, chào mừng",
+        "ExampleCn": "欢迎你来我家。",
+        "ExamplePy": "Huānyíng nǐ lái wǒ jiā.",
+        "ExampleVi": "Chào mừng bạn đến nhà tôi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 9,
+        "HanZi": "上班",
+        "Pinyin": "shàngbān",
+        "MeaningVi": "đi làm",
+        "ExampleCn": "我八点上班。",
+        "ExamplePy": "Wǒ bā diǎn shàngbān.",
+        "ExampleVi": "Tôi đi làm lúc 8 giờ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 9,
+        "HanZi": "懂",
+        "Pinyin": "dǒng",
+        "MeaningVi": "hiểu",
+        "ExampleCn": "我听不懂。",
+        "ExamplePy": "Wǒ tīng bù dǒng.",
+        "ExampleVi": "Tôi nghe không hiểu."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 9,
+        "HanZi": "完",
+        "Pinyin": "wán",
+        "MeaningVi": "xong, hoàn thành",
+        "ExampleCn": "我做完作业了。",
+        "ExamplePy": "Wǒ zuò wán zuòyè le.",
+        "ExampleVi": "Tôi làm xong bài tập rồi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 9,
+        "HanZi": "题",
+        "Pinyin": "tí",
+        "MeaningVi": "đề (bài tập, câu hỏi)",
+        "ExampleCn": "这道题很难。",
+        "ExamplePy": "Zhè dào tí hěn nán.",
+        "ExampleVi": "Câu hỏi này rất khó."
+    }
+]

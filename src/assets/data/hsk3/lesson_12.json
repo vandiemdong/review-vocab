@@ -1,0 +1,132 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "太阳",
+        "Pinyin": "tàiyáng",
+        "MeaningVi": "mặt trời",
+        "ExampleCn": "太阳出来了。",
+        "ExamplePy": "Tàiyáng chūlái le.",
+        "ExampleVi": "Mặt trời đã lên."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "西",
+        "Pinyin": "xī",
+        "MeaningVi": "phía tây",
+        "ExampleCn": "太阳从东边升起，在西边落下。",
+        "ExamplePy": "Tàiyáng cóng dōngbiān shēngqǐ, zài xībiān luòxià.",
+        "ExampleVi": "Mặt trời mọc ở đông, lặn ở tây."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "生气",
+        "Pinyin": "shēngqì",
+        "MeaningVi": "tức giận",
+        "ExampleCn": "他生气了。",
+        "ExamplePy": "Tā shēngqì le.",
+        "ExampleVi": "Anh ấy nổi giận rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "行李箱",
+        "Pinyin": "xínglǐxiāng",
+        "MeaningVi": "vali hành lý",
+        "ExampleCn": "我的行李箱太重了。",
+        "ExamplePy": "Wǒ de xínglǐxiāng tài zhòng le.",
+        "ExampleVi": "Vali của tôi quá nặng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "自己",
+        "Pinyin": "zìjǐ",
+        "MeaningVi": "bản thân / tự mình",
+        "ExampleCn": "我自己来做。",
+        "ExamplePy": "Wǒ zìjǐ lái zuò.",
+        "ExampleVi": "Tôi tự làm."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "包",
+        "Pinyin": "bāo",
+        "MeaningVi": "túi",
+        "ExampleCn": "桌子上有一个包。",
+        "ExamplePy": "Zhuōzi shang yǒu yí gè bāo.",
+        "ExampleVi": "Trên bàn có một cái túi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "发现",
+        "Pinyin": "fāxiàn",
+        "MeaningVi": "phát hiện",
+        "ExampleCn": "我发现手机不见了。",
+        "ExamplePy": "Wǒ fāxiàn shǒujī bújiàn le.",
+        "ExampleVi": "Tôi phát hiện mất điện thoại."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "护照",
+        "Pinyin": "hùzhào",
+        "MeaningVi": "hộ chiếu",
+        "ExampleCn": "别忘了带护照。",
+        "ExamplePy": "Bié wàng le dài hùzhào.",
+        "ExampleVi": "Đừng quên mang hộ chiếu."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "起飞",
+        "Pinyin": "qǐfēi",
+        "MeaningVi": "cất cánh",
+        "ExampleCn": "飞机几点起飞？",
+        "ExamplePy": "Fēijī jǐ diǎn qǐfēi?",
+        "ExampleVi": "Máy bay mấy giờ cất cánh?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "司机",
+        "Pinyin": "sījī",
+        "MeaningVi": "tài xế",
+        "ExampleCn": "他是我们的司机。",
+        "ExamplePy": "Tā shì wǒmen de sījī.",
+        "ExampleVi": "Anh ấy là tài xế của chúng tôi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "教",
+        "Pinyin": "jiāo",
+        "MeaningVi": "dạy",
+        "ExampleCn": "他教我汉语。",
+        "ExamplePy": "Tā jiāo wǒ Hànyǔ.",
+        "ExampleVi": "Anh ấy dạy tôi tiếng Trung."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "需要",
+        "Pinyin": "xūyào",
+        "MeaningVi": "cần",
+        "ExampleCn": "我需要一个行李箱。",
+        "ExamplePy": "Wǒ xūyào yí gè xínglǐxiāng.",
+        "ExampleVi": "Tôi cần một cái vali."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 12,
+        "HanZi": "黑板",
+        "Pinyin": "hēibǎn",
+        "MeaningVi": "bảng đen",
+        "ExampleCn": "老师在黑板上写字。",
+        "ExamplePy": "Lǎoshī zài hēibǎn shang xiězì.",
+        "ExampleVi": "Thầy giáo viết chữ lên bảng đen."
+    }
+]

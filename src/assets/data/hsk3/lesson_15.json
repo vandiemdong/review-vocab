@@ -1,0 +1,222 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "留学",
+        "Pinyin": "liúxué",
+        "MeaningVi": "du học",
+        "ExampleCn": "他在中国留学。",
+        "ExamplePy": "Tā zài Zhōngguó liúxué.",
+        "ExampleVi": "Anh ấy du học ở Trung Quốc."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "水平",
+        "Pinyin": "shuǐpíng",
+        "MeaningVi": "trình độ",
+        "ExampleCn": "我的汉语水平很高。",
+        "ExamplePy": "Wǒ de Hànyǔ shuǐpíng hěn gāo.",
+        "ExampleVi": "Trình độ tiếng Trung của tôi rất cao."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "提高",
+        "Pinyin": "tígāo",
+        "MeaningVi": "nâng cao",
+        "ExampleCn": "我要提高中文水平。",
+        "ExamplePy": "Wǒ yào tígāo Zhōngwén shuǐpíng.",
+        "ExampleVi": "Tôi muốn nâng cao trình độ tiếng Trung."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "练习",
+        "Pinyin": "liànxí",
+        "MeaningVi": "luyện tập",
+        "ExampleCn": "我每天练习说中文。",
+        "ExamplePy": "Wǒ měitiān liànxí shuō Zhōngwén.",
+        "ExampleVi": "Tôi luyện nói tiếng Trung mỗi ngày."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "完成",
+        "Pinyin": "wánchéng",
+        "MeaningVi": "hoàn thành",
+        "ExampleCn": "我完成了作业。",
+        "ExamplePy": "Wǒ wánchéng le zuòyè.",
+        "ExampleVi": "Tôi đã hoàn thành bài tập."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "句子",
+        "Pinyin": "jùzi",
+        "MeaningVi": "câu",
+        "ExampleCn": "这个句子很长。",
+        "ExamplePy": "Zhège jùzi hěn cháng.",
+        "ExampleVi": "Câu này rất dài."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "其他",
+        "Pinyin": "qítā",
+        "MeaningVi": "cái khác, những cái khác",
+        "ExampleCn": "除了我，其他人都去了。",
+        "ExamplePy": "Chúle wǒ, qítā rén dōu qù le.",
+        "ExampleVi": "Ngoài tôi ra, những người khác đều đi rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "发",
+        "Pinyin": "fā",
+        "MeaningVi": "gửi, phát ra",
+        "ExampleCn": "我给你发邮件了。",
+        "ExamplePy": "Wǒ gěi nǐ fā yóujiàn le.",
+        "ExampleVi": "Tôi đã gửi email cho bạn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "要求",
+        "Pinyin": "yāoqiú",
+        "MeaningVi": "yêu cầu",
+        "ExampleCn": "老师对我们有很多要求。",
+        "ExamplePy": "Lǎoshī duì wǒmen yǒu hěn duō yāoqiú.",
+        "ExampleVi": "Thầy cô có nhiều yêu cầu với chúng tôi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "注意",
+        "Pinyin": "zhùyì",
+        "MeaningVi": "chú ý",
+        "ExampleCn": "请注意安全。",
+        "ExamplePy": "Qǐng zhùyì ānquán.",
+        "ExampleVi": "Xin hãy chú ý an toàn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "小云",
+        "Pinyin": "Xiǎo Yún",
+        "MeaningVi": "Tiểu Vân (tên người)",
+        "ExampleCn": "小云在上网。",
+        "ExamplePy": "Xiǎo Yún zài shàngwǎng.",
+        "ExampleVi": "Tiểu Vân đang lên mạng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "上网",
+        "Pinyin": "shàngwǎng",
+        "MeaningVi": "lên mạng",
+        "ExampleCn": "我喜欢上网。",
+        "ExamplePy": "Wǒ xǐhuan shàngwǎng.",
+        "ExampleVi": "Tôi thích lên mạng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "除了",
+        "Pinyin": "chúle",
+        "MeaningVi": "ngoài ra",
+        "ExampleCn": "除了中文，我还会英语。",
+        "ExamplePy": "Chúle Zhōngwén, wǒ hái huì Yīngyǔ.",
+        "ExampleVi": "Ngoài tiếng Trung, tôi còn biết tiếng Anh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "新闻",
+        "Pinyin": "xīnwén",
+        "MeaningVi": "tin tức",
+        "ExampleCn": "我每天看新闻。",
+        "ExamplePy": "Wǒ měitiān kàn xīnwén.",
+        "ExampleVi": "Tôi xem tin tức mỗi ngày."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "花",
+        "Pinyin": "huā",
+        "MeaningVi": "hoa; tiêu (tiền, thời gian)",
+        "ExampleCn": "我妈妈喜欢花。",
+        "ExamplePy": "Wǒ māma xǐhuan huā.",
+        "ExampleVi": "Mẹ tôi thích hoa."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "极了",
+        "Pinyin": "jí le",
+        "MeaningVi": "cực kỳ, vô cùng",
+        "ExampleCn": "今天的天气好极了。",
+        "ExamplePy": "Jīntiān de tiānqì hǎo jí le.",
+        "ExampleVi": "Thời tiết hôm nay cực kỳ đẹp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "节日",
+        "Pinyin": "jiérì",
+        "MeaningVi": "ngày lễ, lễ hội",
+        "ExampleCn": "中秋节是中国的节日。",
+        "ExamplePy": "Zhōngqiūjié shì Zhōngguó de jiérì.",
+        "ExampleVi": "Tết Trung thu là một lễ hội của Trung Quốc."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "举行",
+        "Pinyin": "jǔxíng",
+        "MeaningVi": "tổ chức",
+        "ExampleCn": "学校举行了运动会。",
+        "ExamplePy": "Xuéxiào jǔxíng le yùndònghuì.",
+        "ExampleVi": "Trường học đã tổ chức đại hội thể thao."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "世界",
+        "Pinyin": "shìjiè",
+        "MeaningVi": "thế giới",
+        "ExampleCn": "世界很大。",
+        "ExamplePy": "Shìjiè hěn dà.",
+        "ExampleVi": "Thế giới rất rộng lớn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "街道",
+        "Pinyin": "jiēdào",
+        "MeaningVi": "con đường, phố",
+        "ExampleCn": "这条街道很干净。",
+        "ExamplePy": "Zhè tiáo jiēdào hěn gānjìng.",
+        "ExampleVi": "Con đường này rất sạch."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "各",
+        "Pinyin": "gè",
+        "MeaningVi": "mỗi, các",
+        "ExampleCn": "各国都有自己的文化。",
+        "ExamplePy": "Gè guó dōu yǒu zìjǐ de wénhuà.",
+        "ExampleVi": "Mỗi quốc gia đều có văn hóa riêng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 15,
+        "HanZi": "文化",
+        "Pinyin": "wénhuà",
+        "MeaningVi": "văn hóa",
+        "ExampleCn": "我喜欢中国文化。",
+        "ExamplePy": "Wǒ xǐhuan Zhōngguó wénhuà.",
+        "ExampleVi": "Tôi thích văn hóa Trung Quốc."
+    }
+]

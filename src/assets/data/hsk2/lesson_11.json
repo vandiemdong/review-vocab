@@ -1,0 +1,112 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 11,
+        "HanZi": "唱歌",
+        "Pinyin": "chànggē",
+        "MeaningVi": "hát",
+        "ExampleCn": "她喜欢唱歌。",
+        "ExamplePy": "Tā xǐhuan chànggē.",
+        "ExampleVi": "Cô ấy thích hát."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 11,
+        "HanZi": "男",
+        "Pinyin": "nán",
+        "MeaningVi": "nam, con trai",
+        "ExampleCn": "他是男学生。",
+        "ExamplePy": "Tā shì nán xuéshēng.",
+        "ExampleVi": "Anh ấy là học sinh nam."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 11,
+        "HanZi": "女",
+        "Pinyin": "nǚ",
+        "MeaningVi": "nữ, con gái",
+        "ExampleCn": "她是女医生。",
+        "ExamplePy": "Tā shì nǚ yīshēng.",
+        "ExampleVi": "Cô ấy là bác sĩ nữ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 11,
+        "HanZi": "孩子",
+        "Pinyin": "háizi",
+        "MeaningVi": "trẻ con, đứa trẻ",
+        "ExampleCn": "那个孩子很可爱。",
+        "ExamplePy": "Nàge háizi hěn kě'ài.",
+        "ExampleVi": "Đứa trẻ đó rất dễ thương."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 11,
+        "HanZi": "右边",
+        "Pinyin": "yòubian",
+        "MeaningVi": "bên phải",
+        "ExampleCn": "商店在银行右边。",
+        "ExamplePy": "Shāngdiàn zài yínháng yòubian.",
+        "ExampleVi": "Cửa hàng ở bên phải ngân hàng."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 11,
+        "HanZi": "比",
+        "Pinyin": "bǐ",
+        "MeaningVi": "so với",
+        "ExampleCn": "今天比昨天冷。",
+        "ExamplePy": "Jīntiān bǐ zuótiān lěng.",
+        "ExampleVi": "Hôm nay lạnh hơn hôm qua."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 11,
+        "HanZi": "便宜",
+        "Pinyin": "piányi",
+        "MeaningVi": "rẻ",
+        "ExampleCn": "这个很便宜。",
+        "ExamplePy": "Zhège hěn piányi.",
+        "ExampleVi": "Cái này rất rẻ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 11,
+        "HanZi": "说话",
+        "Pinyin": "shuōhuà",
+        "MeaningVi": "nói chuyện",
+        "ExampleCn": "请不要说话。",
+        "ExamplePy": "Qǐng búyào shuōhuà.",
+        "ExampleVi": "Làm ơn đừng nói chuyện."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 11,
+        "HanZi": "可能",
+        "Pinyin": "kěnéng",
+        "MeaningVi": "có thể, có khả năng",
+        "ExampleCn": "他可能不来。",
+        "ExamplePy": "Tā kěnéng bù lái.",
+        "ExampleVi": "Anh ấy có thể sẽ không đến."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 11,
+        "HanZi": "去年",
+        "Pinyin": "qùnián",
+        "MeaningVi": "năm ngoái",
+        "ExampleCn": "去年我们去旅游了。",
+        "ExamplePy": "Qùnián wǒmen qù lǚyóu le.",
+        "ExampleVi": "Năm ngoái chúng tôi đi du lịch."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 11,
+        "HanZi": "姓",
+        "Pinyin": "xìng",
+        "MeaningVi": "họ (tên họ)",
+        "ExampleCn": "你姓什么？",
+        "ExamplePy": "Nǐ xìng shénme?",
+        "ExampleVi": "Bạn họ gì?"
+    }
+]

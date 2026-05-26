@@ -1,0 +1,82 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 15,
+        "HanZi": "日",
+        "Pinyin": "rì",
+        "MeaningVi": "ngày, mặt trời",
+        "ExampleCn": "今天是几月几日？",
+        "ExamplePy": "Jīntiān shì jǐ yuè jǐ rì?",
+        "ExampleVi": "Hôm nay là ngày tháng năm bao nhiêu?"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 15,
+        "HanZi": "新年",
+        "Pinyin": "xīnnián",
+        "MeaningVi": "năm mới",
+        "ExampleCn": "新年快乐！",
+        "ExamplePy": "Xīnnián kuàilè!",
+        "ExampleVi": "Chúc mừng năm mới!"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 15,
+        "HanZi": "票",
+        "Pinyin": "piào",
+        "MeaningVi": "vé",
+        "ExampleCn": "我买了电影票。",
+        "ExamplePy": "Wǒ mǎi le diànyǐng piào.",
+        "ExampleVi": "Tôi đã mua vé xem phim."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 15,
+        "HanZi": "火车站",
+        "Pinyin": "huǒchēzhàn",
+        "MeaningVi": "ga tàu hỏa",
+        "ExampleCn": "火车站离这里很近。",
+        "ExamplePy": "Huǒchēzhàn lí zhèlǐ hěn jìn.",
+        "ExampleVi": "Ga tàu hỏa cách đây rất gần."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 15,
+        "HanZi": "大家",
+        "Pinyin": "dàjiā",
+        "MeaningVi": "mọi người",
+        "ExampleCn": "大家好！",
+        "ExamplePy": "Dàjiā hǎo!",
+        "ExampleVi": "Chào mọi người!"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 15,
+        "HanZi": "更",
+        "Pinyin": "gèng",
+        "MeaningVi": "càng… hơn",
+        "ExampleCn": "今天更冷。",
+        "ExamplePy": "Jīntiān gèng lěng.",
+        "ExampleVi": "Hôm nay càng lạnh hơn."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 15,
+        "HanZi": "妹妹",
+        "Pinyin": "mèimei",
+        "MeaningVi": "em gái",
+        "ExampleCn": "我的妹妹很可爱。",
+        "ExamplePy": "Wǒ de mèimei hěn kě'ài.",
+        "ExampleVi": "Em gái tôi rất dễ thương."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 15,
+        "HanZi": "阴",
+        "Pinyin": "yīn",
+        "MeaningVi": "trời âm u, râm",
+        "ExampleCn": "今天是阴天。",
+        "ExamplePy": "Jīntiān shì yīntiān.",
+        "ExampleVi": "Hôm nay trời âm u."
+    }
+]

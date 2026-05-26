@@ -1,0 +1,92 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 10,
+        "HanZi": "课",
+        "Pinyin": "kè",
+        "MeaningVi": "bài học, tiết học",
+        "ExampleCn": "我们现在上中文课。",
+        "ExamplePy": "Wǒmen xiànzài shàng Zhōngwén kè.",
+        "ExampleVi": "Bây giờ chúng tôi đang học tiết tiếng Trung."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 10,
+        "HanZi": "帮助",
+        "Pinyin": "bāngzhù",
+        "MeaningVi": "giúp đỡ",
+        "ExampleCn": "谢谢你的帮助。",
+        "ExamplePy": "Xièxie nǐ de bāngzhù.",
+        "ExampleVi": "Cảm ơn sự giúp đỡ của bạn."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 10,
+        "HanZi": "别",
+        "Pinyin": "bié",
+        "MeaningVi": "đừng, chớ",
+        "ExampleCn": "别说话。",
+        "ExamplePy": "Bié shuōhuà.",
+        "ExampleVi": "Đừng nói chuyện."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 10,
+        "HanZi": "哥哥",
+        "Pinyin": "gēge",
+        "MeaningVi": "anh trai",
+        "ExampleCn": "我哥哥比我高。",
+        "ExamplePy": "Wǒ gēge bǐ wǒ gāo.",
+        "ExampleVi": "Anh trai tôi cao hơn tôi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 10,
+        "HanZi": "鸡蛋",
+        "Pinyin": "jīdàn",
+        "MeaningVi": "trứng gà",
+        "ExampleCn": "我喜欢吃鸡蛋。",
+        "ExamplePy": "Wǒ xǐhuan chī jīdàn.",
+        "ExampleVi": "Tôi thích ăn trứng gà."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 10,
+        "HanZi": "西瓜",
+        "Pinyin": "xīguā",
+        "MeaningVi": "dưa hấu",
+        "ExampleCn": "夏天我常吃西瓜。",
+        "ExamplePy": "Xiàtiān wǒ cháng chī xīguā.",
+        "ExampleVi": "Mùa hè tôi thường ăn dưa hấu."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 10,
+        "HanZi": "正在",
+        "Pinyin": "zhèngzài",
+        "MeaningVi": "đang (diễn tả hành động đang xảy ra)",
+        "ExampleCn": "我正在吃饭。",
+        "ExamplePy": "Wǒ zhèngzài chīfàn.",
+        "ExampleVi": "Tôi đang ăn cơm."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 10,
+        "HanZi": "手机",
+        "Pinyin": "shǒujī",
+        "MeaningVi": "điện thoại di động",
+        "ExampleCn": "我的手机不见了。",
+        "ExamplePy": "Wǒ de shǒujī bújiàn le.",
+        "ExampleVi": "Điện thoại của tôi mất rồi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 10,
+        "HanZi": "洗",
+        "Pinyin": "xǐ",
+        "MeaningVi": "rửa, giặt",
+        "ExampleCn": "我在洗衣服。",
+        "ExamplePy": "Wǒ zài xǐ yīfu.",
+        "ExampleVi": "Tôi đang giặt quần áo."
+    }
+]

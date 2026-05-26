@@ -1,0 +1,142 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "照相机",
+        "Pinyin": "zhàoxiàngjī",
+        "MeaningVi": "máy ảnh",
+        "ExampleCn": "我买了一个新的照相机。",
+        "ExamplePy": "Wǒ mǎi le yí gè xīn de zhàoxiàngjī.",
+        "ExampleVi": "Tôi mua một cái máy ảnh mới."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "被",
+        "Pinyin": "bèi",
+        "MeaningVi": "bị (bị động)",
+        "ExampleCn": "我的手机被偷了。",
+        "ExamplePy": "Wǒ de shǒujī bèi tōu le.",
+        "ExampleVi": "Điện thoại của tôi bị mất trộm."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "难过",
+        "Pinyin": "nánguò",
+        "MeaningVi": "buồn, đau lòng",
+        "ExampleCn": "别难过了。",
+        "ExamplePy": "Bié nánguò le.",
+        "ExampleVi": "Đừng buồn nữa."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "东",
+        "Pinyin": "dōng",
+        "MeaningVi": "hướng đông",
+        "ExampleCn": "太阳从东边出来。",
+        "ExamplePy": "Tàiyáng cóng dōngbiān chūlái.",
+        "ExampleVi": "Mặt trời mọc từ hướng đông."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "信用卡",
+        "Pinyin": "xìnyòngkǎ",
+        "MeaningVi": "thẻ tín dụng",
+        "ExampleCn": "我用信用卡买的。",
+        "ExamplePy": "Wǒ yòng xìnyòngkǎ mǎi de.",
+        "ExampleVi": "Tôi dùng thẻ tín dụng để mua."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "关心",
+        "Pinyin": "guānxīn",
+        "MeaningVi": "quan tâm",
+        "ExampleCn": "老师很关心学生。",
+        "ExamplePy": "Lǎoshī hěn guānxīn xuéshēng.",
+        "ExampleVi": "Thầy giáo rất quan tâm học sinh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "只有……才……",
+        "Pinyin": "zhǐyǒu... cái...",
+        "MeaningVi": "chỉ khi… mới…",
+        "ExampleCn": "只有努力学习，才会进步。",
+        "ExamplePy": "Zhǐyǒu nǔlì xuéxí, cái huì jìnbù.",
+        "ExampleVi": "Chỉ khi chăm học mới tiến bộ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "成绩",
+        "Pinyin": "chéngjì",
+        "MeaningVi": "thành tích, kết quả",
+        "ExampleCn": "我的成绩很好。",
+        "ExamplePy": "Wǒ de chéngjì hěn hǎo.",
+        "ExampleVi": "Thành tích của tôi rất tốt."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "碗",
+        "Pinyin": "wǎn",
+        "MeaningVi": "bát, chén",
+        "ExampleCn": "我买了三个碗。",
+        "ExamplePy": "Wǒ mǎi le sān gè wǎn.",
+        "ExampleVi": "Tôi mua ba cái bát."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "分 / 份",
+        "Pinyin": "fēn / fèn",
+        "MeaningVi": "phân chia / phần",
+        "ExampleCn": "请给我一份菜单。",
+        "ExamplePy": "Qǐng gěi wǒ yí fèn càidān.",
+        "ExampleVi": "Cho tôi một phần thực đơn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "解决",
+        "Pinyin": "jiějué",
+        "MeaningVi": "giải quyết",
+        "ExampleCn": "我们一起解决这个问题。",
+        "ExamplePy": "Wǒmen yìqǐ jiějué zhège wèntí.",
+        "ExampleVi": "Chúng ta cùng giải quyết vấn đề này."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "试",
+        "Pinyin": "shì",
+        "MeaningVi": "thử",
+        "ExampleCn": "我试一下这件衣服。",
+        "ExamplePy": "Wǒ shì yíxià zhè jiàn yīfu.",
+        "ExampleVi": "Tôi thử bộ quần áo này xem."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "真正",
+        "Pinyin": "zhēnzhèng",
+        "MeaningVi": "thật sự, chân chính",
+        "ExampleCn": "他是真正的朋友。",
+        "ExamplePy": "Tā shì zhēnzhèng de péngyou.",
+        "ExampleVi": "Anh ấy là người bạn thật sự."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 20,
+        "HanZi": "多么",
+        "Pinyin": "duōme",
+        "MeaningVi": "biết bao, thật là",
+        "ExampleCn": "今天天气多么好啊！",
+        "ExamplePy": "Jīntiān tiānqì duōme hǎo a!",
+        "ExampleVi": "Hôm nay thời tiết thật đẹp biết bao!"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "教室",
+        "Pinyin": "jiàoshì",
+        "MeaningVi": "lớp học, phòng học",
+        "ExampleCn": "我们在教室上课。",
+        "ExamplePy": "Wǒmen zài jiàoshì shàngkè.",
+        "ExampleVi": "Chúng tôi học bài trong phòng học."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "机场",
+        "Pinyin": "jīchǎng",
+        "MeaningVi": "sân bay",
+        "ExampleCn": "我在机场等你。",
+        "ExamplePy": "Wǒ zài jīchǎng děng nǐ.",
+        "ExampleVi": "Tôi đợi bạn ở sân bay."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "路",
+        "Pinyin": "lù",
+        "MeaningVi": "đường đi",
+        "ExampleCn": "这条路不太好走。",
+        "ExamplePy": "Zhè tiáo lù bú tài hǎo zǒu.",
+        "ExampleVi": "Con đường này không dễ đi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "离",
+        "Pinyin": "lí",
+        "MeaningVi": "cách (khoảng cách)",
+        "ExampleCn": "我家离公司很远。",
+        "ExamplePy": "Wǒ jiā lí gōngsī hěn yuǎn.",
+        "ExampleVi": "Nhà tôi cách công ty rất xa."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "公司",
+        "Pinyin": "gōngsī",
+        "MeaningVi": "công ty",
+        "ExampleCn": "我在一家大公司工作。",
+        "ExamplePy": "Wǒ zài yì jiā dà gōngsī gōngzuò.",
+        "ExampleVi": "Tôi làm việc ở một công ty lớn."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "远",
+        "Pinyin": "yuǎn",
+        "MeaningVi": "xa",
+        "ExampleCn": "学校离这里很远。",
+        "ExamplePy": "Xuéxiào lí zhèlǐ hěn yuǎn.",
+        "ExampleVi": "Trường học cách đây rất xa."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "公共汽车",
+        "Pinyin": "gōnggòngqìchē",
+        "MeaningVi": "xe buýt",
+        "ExampleCn": "我每天坐公共汽车上班。",
+        "ExamplePy": "Wǒ měitiān zuò gōnggòngqìchē shàngbān.",
+        "ExampleVi": "Mỗi ngày tôi đi làm bằng xe buýt."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "小时",
+        "Pinyin": "xiǎoshí",
+        "MeaningVi": "tiếng đồng hồ (giờ)",
+        "ExampleCn": "我等了你一个小时。",
+        "ExamplePy": "Wǒ děng le nǐ yí gè xiǎoshí.",
+        "ExampleVi": "Tôi đợi bạn 1 tiếng rồi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "慢",
+        "Pinyin": "màn",
+        "MeaningVi": "chậm",
+        "ExampleCn": "他走得很慢。",
+        "ExamplePy": "Tā zǒu de hěn màn.",
+        "ExampleVi": "Anh ấy đi rất chậm."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "快",
+        "Pinyin": "kuài",
+        "MeaningVi": "nhanh",
+        "ExampleCn": "你走得真快！",
+        "ExamplePy": "Nǐ zǒu de zhēn kuài!",
+        "ExampleVi": "Bạn đi thật nhanh!"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "过",
+        "Pinyin": "guò",
+        "MeaningVi": "qua, vượt qua",
+        "ExampleCn": "我们每天都要过这条路。",
+        "ExamplePy": "Wǒmen měitiān dōu yào guò zhè tiáo lù.",
+        "ExampleVi": "Mỗi ngày chúng tôi đều phải đi qua con đường này."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "走",
+        "Pinyin": "zǒu",
+        "MeaningVi": "đi bộ, rời đi",
+        "ExampleCn": "我们走吧。",
+        "ExamplePy": "Wǒmen zǒu ba.",
+        "ExampleVi": "Chúng ta đi thôi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 7,
+        "HanZi": "到",
+        "Pinyin": "dào",
+        "MeaningVi": "đến nơi",
+        "ExampleCn": "我到家了。",
+        "ExamplePy": "Wǒ dào jiā le.",
+        "ExampleVi": "Tôi về đến nhà rồi."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 8,
+        "HanZi": "再",
+        "Pinyin": "zài",
+        "MeaningVi": "lại, lần nữa",
+        "ExampleCn": "请你再说一遍。",
+        "ExamplePy": "Qǐng nǐ zài shuō yí biàn.",
+        "ExampleVi": "Làm ơn nói lại lần nữa."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 8,
+        "HanZi": "让",
+        "Pinyin": "ràng",
+        "MeaningVi": "khiến, để, bảo",
+        "ExampleCn": "妈妈让我早点回家。",
+        "ExamplePy": "Māma ràng wǒ zǎo diǎn huí jiā.",
+        "ExampleVi": "Mẹ bảo tôi về nhà sớm."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 8,
+        "HanZi": "告诉",
+        "Pinyin": "gàosu",
+        "MeaningVi": "nói cho biết, bảo",
+        "ExampleCn": "请告诉我你的名字。",
+        "ExamplePy": "Qǐng gàosu wǒ nǐ de míngzi.",
+        "ExampleVi": "Làm ơn cho tôi biết tên của bạn."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 8,
+        "HanZi": "等",
+        "Pinyin": "děng",
+        "MeaningVi": "đợi",
+        "ExampleCn": "请等一下。",
+        "ExamplePy": "Qǐng děng yíxià.",
+        "ExampleVi": "Làm ơn đợi một chút."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 8,
+        "HanZi": "找",
+        "Pinyin": "zhǎo",
+        "MeaningVi": "tìm, kiếm",
+        "ExampleCn": "我在找我的手机。",
+        "ExamplePy": "Wǒ zài zhǎo wǒ de shǒujī.",
+        "ExampleVi": "Tôi đang tìm điện thoại của mình."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 8,
+        "HanZi": "事情",
+        "Pinyin": "shìqing",
+        "MeaningVi": "sự việc, chuyện",
+        "ExampleCn": "你有什么事情吗？",
+        "ExamplePy": "Nǐ yǒu shénme shìqing ma?",
+        "ExampleVi": "Bạn có chuyện gì không?"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 8,
+        "HanZi": "服务员",
+        "Pinyin": "fúwùyuán",
+        "MeaningVi": "nhân viên phục vụ",
+        "ExampleCn": "服务员，请给我菜单。",
+        "ExamplePy": "Fúwùyuán, qǐng gěi wǒ càidān.",
+        "ExampleVi": "Nhân viên ơi, làm ơn cho tôi xem menu."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 8,
+        "HanZi": "白",
+        "Pinyin": "bái",
+        "MeaningVi": "màu trắng",
+        "ExampleCn": "我喜欢白颜色。",
+        "ExamplePy": "Wǒ xǐhuan bái yánsè.",
+        "ExampleVi": "Tôi thích màu trắng."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 8,
+        "HanZi": "黑",
+        "Pinyin": "hēi",
+        "MeaningVi": "màu đen",
+        "ExampleCn": "他穿黑衣服。",
+        "ExamplePy": "Tā chuān hēi yīfu.",
+        "ExampleVi": "Anh ấy mặc đồ màu đen."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 8,
+        "HanZi": "贵",
+        "Pinyin": "guì",
+        "MeaningVi": "đắt",
+        "ExampleCn": "这个太贵了。",
+        "ExamplePy": "Zhège tài guì le.",
+        "ExampleVi": "Cái này đắt quá."
+    }
+]

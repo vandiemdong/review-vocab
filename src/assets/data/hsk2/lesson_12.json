@@ -1,0 +1,92 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 12,
+        "HanZi": "得",
+        "Pinyin": "de",
+        "MeaningVi": "trợ từ (bổ ngữ khả năng/ mức độ)",
+        "ExampleCn": "他跑得很快。",
+        "ExamplePy": "Tā pǎo de hěn kuài.",
+        "ExampleVi": "Anh ấy chạy rất nhanh."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 12,
+        "HanZi": "妻子",
+        "Pinyin": "qīzi",
+        "MeaningVi": "vợ",
+        "ExampleCn": "他和妻子都在中国工作。",
+        "ExamplePy": "Tā hé qīzi dōu zài Zhōngguó gōngzuò.",
+        "ExampleVi": "Anh ấy và vợ đều làm việc ở Trung Quốc."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 12,
+        "HanZi": "雪",
+        "Pinyin": "xuě",
+        "MeaningVi": "tuyết",
+        "ExampleCn": "下雪了！",
+        "ExamplePy": "Xià xuě le!",
+        "ExampleVi": "Tuyết rơi rồi!"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 12,
+        "HanZi": "零",
+        "Pinyin": "líng",
+        "MeaningVi": "số 0",
+        "ExampleCn": "今天零下五度。",
+        "ExamplePy": "Jīntiān língxià wǔ dù.",
+        "ExampleVi": "Hôm nay âm 5 độ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 12,
+        "HanZi": "度",
+        "Pinyin": "dù",
+        "MeaningVi": "độ (nhiệt độ)",
+        "ExampleCn": "今天三十度。",
+        "ExamplePy": "Jīntiān sānshí dù.",
+        "ExampleVi": "Hôm nay 30 độ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 12,
+        "HanZi": "穿",
+        "Pinyin": "chuān",
+        "MeaningVi": "mặc, mang (quần áo)",
+        "ExampleCn": "她喜欢穿红色的衣服。",
+        "ExamplePy": "Tā xǐhuan chuān hóngsè de yīfu.",
+        "ExampleVi": "Cô ấy thích mặc đồ màu đỏ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 12,
+        "HanZi": "进",
+        "Pinyin": "jìn",
+        "MeaningVi": "vào",
+        "ExampleCn": "请进！",
+        "ExamplePy": "Qǐng jìn!",
+        "ExampleVi": "Mời vào!"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 12,
+        "HanZi": "弟弟",
+        "Pinyin": "dìdi",
+        "MeaningVi": "em trai",
+        "ExampleCn": "我的弟弟很高。",
+        "ExamplePy": "Wǒ de dìdi hěn gāo.",
+        "ExampleVi": "Em trai tôi rất cao."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 12,
+        "HanZi": "近",
+        "Pinyin": "jìn",
+        "MeaningVi": "gần",
+        "ExampleCn": "我家离公司很近。",
+        "ExamplePy": "Wǒ jiā lí gōngsī hěn jìn.",
+        "ExampleVi": "Nhà tôi cách công ty rất gần."
+    }
+]

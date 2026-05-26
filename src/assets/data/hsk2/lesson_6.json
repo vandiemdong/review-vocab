@@ -1,0 +1,132 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "们",
+        "Pinyin": "men",
+        "MeaningVi": "(hậu tố chỉ số nhiều)",
+        "ExampleCn": "我们都是朋友。",
+        "ExamplePy": "Wǒmen dōu shì péngyou.",
+        "ExampleVi": "Chúng tôi đều là bạn."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "外",
+        "Pinyin": "wài",
+        "MeaningVi": "ngoài, bên ngoài",
+        "ExampleCn": "他在外工作。",
+        "ExamplePy": "Tā zài wài gōngzuò.",
+        "ExampleVi": "Anh ấy làm việc ở bên ngoài."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "自行车",
+        "Pinyin": "zìxíngchē",
+        "MeaningVi": "xe đạp",
+        "ExampleCn": "她每天骑自行车上班。",
+        "ExamplePy": "Tā měitiān qí zìxíngchē shàngbān.",
+        "ExampleVi": "Cô ấy đi làm bằng xe đạp mỗi ngày."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "羊肉",
+        "Pinyin": "yángròu",
+        "MeaningVi": "thịt dê",
+        "ExampleCn": "我不喜欢吃羊肉。",
+        "ExamplePy": "Wǒ bù xǐhuan chī yángròu.",
+        "ExampleVi": "Tôi không thích ăn thịt dê."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "好吃",
+        "Pinyin": "hǎochī",
+        "MeaningVi": "ngon (chỉ đồ ăn)",
+        "ExampleCn": "这个菜很好吃。",
+        "ExamplePy": "Zhège cài hěn hǎochī.",
+        "ExampleVi": "Món ăn này rất ngon."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "面条",
+        "Pinyin": "miàntiáo",
+        "MeaningVi": "mì sợi",
+        "ExampleCn": "我常常吃面条。",
+        "ExamplePy": "Wǒ chángcháng chī miàntiáo.",
+        "ExampleVi": "Tôi thường ăn mì."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "打篮球",
+        "Pinyin": "dǎ lánqiú",
+        "MeaningVi": "chơi bóng rổ",
+        "ExampleCn": "他们下午打篮球。",
+        "ExamplePy": "Tāmen xiàwǔ dǎ lánqiú.",
+        "ExampleVi": "Chiều nay họ chơi bóng rổ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "因为",
+        "Pinyin": "yīnwèi",
+        "MeaningVi": "bởi vì",
+        "ExampleCn": "我不能去，因为我太忙了。",
+        "ExamplePy": "Wǒ bù néng qù, yīnwèi wǒ tài máng le.",
+        "ExampleVi": "Tôi không thể đi vì tôi quá bận."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "所以",
+        "Pinyin": "suǒyǐ",
+        "MeaningVi": "cho nên",
+        "ExampleCn": "天气很好，所以我们出去玩。",
+        "ExamplePy": "Tiānqì hěn hǎo, suǒyǐ wǒmen chūqù wán.",
+        "ExampleVi": "Thời tiết rất đẹp nên chúng tôi ra ngoài chơi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "游泳",
+        "Pinyin": "yóuyǒng",
+        "MeaningVi": "bơi",
+        "ExampleCn": "我会游泳。",
+        "ExamplePy": "Wǒ huì yóuyǒng.",
+        "ExampleVi": "Tôi biết bơi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "经常",
+        "Pinyin": "jīngcháng",
+        "MeaningVi": "thường xuyên",
+        "ExampleCn": "她经常看书。",
+        "ExamplePy": "Tā jīngcháng kàn shū.",
+        "ExampleVi": "Cô ấy thường xuyên đọc sách."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "公斤",
+        "Pinyin": "gōngjīn",
+        "MeaningVi": "kilogram",
+        "ExampleCn": "我今天买了三公斤苹果。",
+        "ExamplePy": "Wǒ jīntiān mǎi le sān gōngjīn píngguǒ.",
+        "ExampleVi": "Hôm nay tôi mua ba ký táo."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 6,
+        "HanZi": "姐姐",
+        "Pinyin": "jiějie",
+        "MeaningVi": "chị gái",
+        "ExampleCn": "我姐姐在中国工作。",
+        "ExamplePy": "Wǒ jiějie zài Zhōngguó gōngzuò.",
+        "ExampleVi": "Chị gái tôi làm việc ở Trung Quốc."
+    }
+]

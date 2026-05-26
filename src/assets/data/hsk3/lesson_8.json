@@ -1,0 +1,172 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "房子",
+        "Pinyin": "fángzi",
+        "MeaningVi": "ngôi nhà",
+        "ExampleCn": "我想买一个房子。",
+        "ExamplePy": "Wǒ xiǎng mǎi yí ge fángzi.",
+        "ExampleVi": "Tôi muốn mua một căn nhà."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "满意",
+        "Pinyin": "mǎnyì",
+        "MeaningVi": "hài lòng",
+        "ExampleCn": "我对这个结果很满意。",
+        "ExamplePy": "Wǒ duì zhège jiéguǒ hěn mǎnyì.",
+        "ExampleVi": "Tôi rất hài lòng với kết quả này."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "电梯",
+        "Pinyin": "diàntī",
+        "MeaningVi": "thang máy",
+        "ExampleCn": "电梯坏了，我们走楼梯吧。",
+        "ExamplePy": "Diàntī huài le, wǒmen zǒu lóutī ba.",
+        "ExampleVi": "Thang máy hỏng rồi, ta đi cầu thang nhé."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "洗手间",
+        "Pinyin": "xǐshǒujiān",
+        "MeaningVi": "nhà vệ sinh",
+        "ExampleCn": "洗手间在哪里？",
+        "ExamplePy": "Xǐshǒujiān zài nǎlǐ?",
+        "ExampleVi": "Nhà vệ sinh ở đâu vậy?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "层",
+        "Pinyin": "céng",
+        "MeaningVi": "tầng (lầu)",
+        "ExampleCn": "我家住在五层。",
+        "ExamplePy": "Wǒ jiā zhù zài wǔ céng.",
+        "ExampleVi": "Nhà tôi ở tầng 5."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "害怕",
+        "Pinyin": "hàipà",
+        "MeaningVi": "sợ hãi",
+        "ExampleCn": "我很害怕一个人。",
+        "ExamplePy": "Wǒ hěn hàipà yí gè rén.",
+        "ExampleVi": "Tôi rất sợ ở một mình."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "老",
+        "Pinyin": "lǎo",
+        "MeaningVi": "già, cũ",
+        "ExampleCn": "他是一个老老师。",
+        "ExamplePy": "Tā shì yí gè lǎo lǎoshī.",
+        "ExampleVi": "Thầy ấy là một giáo viên già."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "在",
+        "Pinyin": "zài",
+        "MeaningVi": "đang, ở",
+        "ExampleCn": "我在学校。",
+        "ExamplePy": "Wǒ zài xuéxiào.",
+        "ExampleVi": "Tôi đang ở trường."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "又",
+        "Pinyin": "yòu",
+        "MeaningVi": "lại (nữa)",
+        "ExampleCn": "他又迟到了。",
+        "ExamplePy": "Tā yòu chídào le.",
+        "ExampleVi": "Anh ấy lại đến muộn rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "见面",
+        "Pinyin": "jiànmiàn",
+        "MeaningVi": "gặp mặt",
+        "ExampleCn": "我们明天见面吧。",
+        "ExamplePy": "Wǒmen míngtiān jiànmiàn ba.",
+        "ExampleVi": "Ngày mai mình gặp nhau nhé."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "几乎",
+        "Pinyin": "jīhū",
+        "MeaningVi": "hầu như",
+        "ExampleCn": "我几乎忘了。",
+        "ExamplePy": "Wǒ jīhū wàng le.",
+        "ExampleVi": "Tôi hầu như quên mất."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "变化",
+        "Pinyin": "biànhuà",
+        "MeaningVi": "thay đổi",
+        "ExampleCn": "他有很多变化。",
+        "ExamplePy": "Tā yǒu hěn duō biànhuà.",
+        "ExampleVi": "Anh ấy có nhiều thay đổi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "健康",
+        "Pinyin": "jiànkāng",
+        "MeaningVi": "sức khỏe",
+        "ExampleCn": "健康很重要。",
+        "ExamplePy": "Jiànkāng hěn zhòngyào.",
+        "ExampleVi": "Sức khỏe rất quan trọng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "重要",
+        "Pinyin": "zhòngyào",
+        "MeaningVi": "quan trọng",
+        "ExampleCn": "这是一个重要的问题。",
+        "ExamplePy": "Zhè shì yí gè zhòngyào de wèntí.",
+        "ExampleVi": "Đây là một vấn đề quan trọng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "安静",
+        "Pinyin": "ānjìng",
+        "MeaningVi": "yên tĩnh",
+        "ExampleCn": "图书馆很安静。",
+        "ExamplePy": "Túshūguǎn hěn ānjìng.",
+        "ExampleVi": "Thư viện rất yên tĩnh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "一会儿",
+        "Pinyin": "yíhuìr",
+        "MeaningVi": "một lát",
+        "ExampleCn": "请等我一会儿。",
+        "ExamplePy": "Qǐng děng wǒ yíhuìr.",
+        "ExampleVi": "Làm ơn đợi tôi một lát."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 8,
+        "HanZi": "马上",
+        "Pinyin": "mǎshàng",
+        "MeaningVi": "ngay lập tức",
+        "ExampleCn": "我马上回来。",
+        "ExamplePy": "Wǒ mǎshàng huílái.",
+        "ExampleVi": "Tôi sẽ quay lại ngay."
+    }
+]

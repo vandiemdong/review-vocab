@@ -1,0 +1,142 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "耳朵",
+        "Pinyin": "ěrduo",
+        "MeaningVi": "tai",
+        "ExampleCn": "我的耳朵疼。",
+        "ExamplePy": "Wǒ de ěrduo téng.",
+        "ExampleVi": "Tai tôi đau."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "脸",
+        "Pinyin": "liǎn",
+        "MeaningVi": "mặt",
+        "ExampleCn": "她的脸很红。",
+        "ExamplePy": "Tā de liǎn hěn hóng.",
+        "ExampleVi": "Mặt cô ấy rất đỏ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "短",
+        "Pinyin": "duǎn",
+        "MeaningVi": "ngắn",
+        "ExampleCn": "这条裤子太短了。",
+        "ExamplePy": "Zhè tiáo kùzi tài duǎn le.",
+        "ExampleVi": "Chiếc quần này quá ngắn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "吗",
+        "Pinyin": "ma",
+        "MeaningVi": "trợ từ nghi vấn",
+        "ExampleCn": "你好吗？",
+        "ExamplePy": "Nǐ hǎo ma?",
+        "ExampleVi": "Bạn khỏe không?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "张",
+        "Pinyin": "zhāng",
+        "MeaningVi": "tấm, bức (lượng từ)",
+        "ExampleCn": "一张照片。",
+        "ExamplePy": "Yī zhāng zhàopiàn.",
+        "ExampleVi": "Một bức ảnh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "位",
+        "Pinyin": "wèi",
+        "MeaningVi": "vị (lượng từ lịch sự cho người)",
+        "ExampleCn": "这位老师是谁？",
+        "ExamplePy": "Zhè wèi lǎoshī shì shéi?",
+        "ExampleVi": "Vị giáo viên này là ai?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "蓝",
+        "Pinyin": "lán",
+        "MeaningVi": "xanh da trời",
+        "ExampleCn": "蓝天很漂亮。",
+        "ExamplePy": "Lán tiān hěn piàoliang.",
+        "ExampleVi": "Bầu trời xanh rất đẹp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "秋天",
+        "Pinyin": "qiūtiān",
+        "MeaningVi": "mùa thu",
+        "ExampleCn": "秋天不冷也不热。",
+        "ExamplePy": "Qiūtiān bù lěng yě bú rè.",
+        "ExampleVi": "Mùa thu không lạnh cũng không nóng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "过",
+        "Pinyin": "guò",
+        "MeaningVi": "đã từng / mừng / trải qua",
+        "ExampleCn": "我去过北京。他们在过生日。",
+        "ExamplePy": "Wǒ qù guò Běijīng.Tāmen zài guò shēngrì.",
+        "ExampleVi": "Tôi đã từng đi Bắc Kinh.Họ đang mừng sinh nhật."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "鸟",
+        "Pinyin": "niǎo",
+        "MeaningVi": "con chim",
+        "ExampleCn": "天上有很多鸟。",
+        "ExamplePy": "Tiānshàng yǒu hěn duō niǎo.",
+        "ExampleVi": "Trên trời có nhiều chim."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "哭",
+        "Pinyin": "kū",
+        "MeaningVi": "khóc",
+        "ExampleCn": "妹妹在哭。",
+        "ExamplePy": "Mèimei zài kū.",
+        "ExampleVi": "Em gái đang khóc."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "黄河",
+        "Pinyin": "Huáng Hé",
+        "MeaningVi": "sông Hoàng Hà",
+        "ExampleCn": "黄河是中国的河。",
+        "ExamplePy": "Huáng Hé shì Zhōngguó de hé.",
+        "ExampleVi": "Hoàng Hà là con sông của Trung Quốc."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "船",
+        "Pinyin": "chuán",
+        "MeaningVi": "thuyền, tàu",
+        "ExampleCn": "我们坐船去看风景。",
+        "ExamplePy": "Wǒmen zuò chuán qù kàn fēngjǐng.",
+        "ExampleVi": "Chúng tôi đi thuyền ngắm cảnh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 19,
+        "HanZi": "经过",
+        "Pinyin": "jīngguò",
+        "MeaningVi": "đi qua, trải qua",
+        "ExampleCn": "公共汽车经过学校。",
+        "ExamplePy": "Gōnggòng qìchē jīngguò xuéxiào.",
+        "ExampleVi": "Xe buýt đi ngang qua trường."
+    }
+]

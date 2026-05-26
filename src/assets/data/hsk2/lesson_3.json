@@ -1,0 +1,162 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "手表",
+        "Pinyin": "shǒubiǎo",
+        "MeaningVi": "đồng hồ đeo tay",
+        "ExampleCn": "你的手表很漂亮。",
+        "ExamplePy": "Nǐ de shǒubiǎo hěn piàoliang.",
+        "ExampleVi": "Đồng hồ đeo tay của bạn rất đẹp."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "千",
+        "Pinyin": "qiān",
+        "MeaningVi": "nghìn",
+        "ExampleCn": "他有三千块钱。",
+        "ExamplePy": "Tā yǒu sān qiān kuài qián.",
+        "ExampleVi": "Anh ấy có ba nghìn tệ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "报纸",
+        "Pinyin": "bàozhǐ",
+        "MeaningVi": "báo giấy",
+        "ExampleCn": "他每天看报纸。",
+        "ExamplePy": "Tā měitiān kàn bàozhǐ.",
+        "ExampleVi": "Anh ấy đọc báo mỗi ngày."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "送",
+        "Pinyin": "sòng",
+        "MeaningVi": "tặng, đưa, tiễn",
+        "ExampleCn": "我送你一本书。",
+        "ExamplePy": "Wǒ sòng nǐ yì běn shū.",
+        "ExampleVi": "Tôi tặng bạn một quyển sách."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "一下",
+        "Pinyin": "yíxià",
+        "MeaningVi": "một chút, thử một chút",
+        "ExampleCn": "请等我一下。",
+        "ExamplePy": "Qǐng děng wǒ yíxià.",
+        "ExampleVi": "Làm ơn đợi tôi một chút."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "牛奶",
+        "Pinyin": "niúnǎi",
+        "MeaningVi": "sữa",
+        "ExampleCn": "我每天喝牛奶。",
+        "ExamplePy": "Wǒ měitiān hē niúnǎi.",
+        "ExampleVi": "Tôi uống sữa mỗi ngày."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "房间",
+        "Pinyin": "fángjiān",
+        "MeaningVi": "phòng",
+        "ExampleCn": "这个房间很大。",
+        "ExamplePy": "Zhège fángjiān hěn dà.",
+        "ExampleVi": "Căn phòng này rất lớn."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "丈夫",
+        "Pinyin": "zhàngfu",
+        "MeaningVi": "chồng",
+        "ExampleCn": "她丈夫在公司工作。",
+        "ExamplePy": "Tā zhàngfu zài gōngsī gōngzuò.",
+        "ExampleVi": "Chồng cô ấy làm việc ở công ty."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "旁边",
+        "Pinyin": "pángbiān",
+        "MeaningVi": "bên cạnh",
+        "ExampleCn": "学校旁边有一个公园。",
+        "ExamplePy": "Xuéxiào pángbiān yǒu yí gè gōngyuán.",
+        "ExampleVi": "Bên cạnh trường có một công viên."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "真",
+        "Pinyin": "zhēn",
+        "MeaningVi": "thật, thật là",
+        "ExampleCn": "你做得真好！",
+        "ExamplePy": "Nǐ zuò de zhēn hǎo!",
+        "ExampleVi": "Bạn làm thật tốt!"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "粉色",
+        "Pinyin": "fěnsè",
+        "MeaningVi": "màu hồng",
+        "ExampleCn": "她喜欢粉色的衣服。",
+        "ExamplePy": "Tā xǐhuan fěnsè de yīfu.",
+        "ExampleVi": "Cô ấy thích quần áo màu hồng."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "粉",
+        "Pinyin": "fěn",
+        "MeaningVi": "bột, màu hồng nhạt",
+        "ExampleCn": "她的房间是粉的。",
+        "ExamplePy": "Tā de fángjiān shì fěn de.",
+        "ExampleVi": "Phòng của cô ấy có màu hồng."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "颜色",
+        "Pinyin": "yánsè",
+        "MeaningVi": "màu sắc",
+        "ExampleCn": "你喜欢什么颜色？",
+        "ExamplePy": "Nǐ xǐhuan shénme yánsè?",
+        "ExampleVi": "Bạn thích màu gì?"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "左边",
+        "Pinyin": "zuǒbian",
+        "MeaningVi": "bên trái",
+        "ExampleCn": "超市在我家左边。",
+        "ExamplePy": "Chāoshì zài wǒ jiā zuǒbian.",
+        "ExampleVi": "Siêu thị ở bên trái nhà tôi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "红色",
+        "Pinyin": "hóngsè",
+        "MeaningVi": "màu đỏ",
+        "ExampleCn": "他穿红色的T恤。",
+        "ExamplePy": "Tā chuān hóngsè de T-xù.",
+        "ExampleVi": "Anh ấy mặc áo thun màu đỏ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 3,
+        "HanZi": "红",
+        "Pinyin": "hóng",
+        "MeaningVi": "đỏ",
+        "ExampleCn": "我最喜欢红的。",
+        "ExamplePy": "Wǒ zuì xǐhuan hóng de.",
+        "ExampleVi": "Tôi thích màu đỏ nhất."
+    }
+]

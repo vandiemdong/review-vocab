@@ -1,0 +1,192 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "图书馆",
+        "Pinyin": "túshūguǎn",
+        "MeaningVi": "thư viện",
+        "ExampleCn": "我去图书馆看书。",
+        "ExamplePy": "Wǒ qù túshūguǎn kàn shū.",
+        "ExampleVi": "Tôi đến thư viện đọc sách."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "借",
+        "Pinyin": "jiè",
+        "MeaningVi": "mượn",
+        "ExampleCn": "我想借一本书。",
+        "ExamplePy": "Wǒ xiǎng jiè yì běn shū.",
+        "ExampleVi": "Tôi muốn mượn một quyển sách."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "词典",
+        "Pinyin": "cídiǎn",
+        "MeaningVi": "từ điển",
+        "ExampleCn": "这是一本文汉词典。",
+        "ExamplePy": "Zhè shì yì běn Hànyīng cídiǎn.",
+        "ExampleVi": "Đây là một cuốn từ điển Hán - Anh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "还",
+        "Pinyin": "huán",
+        "MeaningVi": "trả lại",
+        "ExampleCn": "我明天还书。",
+        "ExamplePy": "Wǒ míngtiān huán shū.",
+        "ExampleVi": "Ngày mai tôi trả sách."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "灯",
+        "Pinyin": "dēng",
+        "MeaningVi": "đèn",
+        "ExampleCn": "请把灯关了。",
+        "ExamplePy": "Qǐng bǎ dēng guān le.",
+        "ExampleVi": "Làm ơn tắt đèn đi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "会议",
+        "Pinyin": "huìyì",
+        "MeaningVi": "cuộc họp, hội nghị",
+        "ExampleCn": "我在开会议。",
+        "ExamplePy": "Wǒ zài kāi huìyì.",
+        "ExampleVi": "Tôi đang họp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "结束",
+        "Pinyin": "jiéshù",
+        "MeaningVi": "kết thúc",
+        "ExampleCn": "会议几点结束？",
+        "ExamplePy": "Huìyì jǐ diǎn jiéshù?",
+        "ExampleVi": "Cuộc họp mấy giờ kết thúc?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "忘记",
+        "Pinyin": "wàngjì",
+        "MeaningVi": "quên",
+        "ExampleCn": "我忘记带词典了。",
+        "ExamplePy": "Wǒ wàngjì dài cídiǎn le.",
+        "ExampleVi": "Tôi quên mang từ điển rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "空调",
+        "Pinyin": "kōngtiáo",
+        "MeaningVi": "điều hoà",
+        "ExampleCn": "房间里没有空调。",
+        "ExamplePy": "Fángjiān lǐ méiyǒu kōngtiáo.",
+        "ExampleVi": "Trong phòng không có điều hoà."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "关",
+        "Pinyin": "guān",
+        "MeaningVi": "tắt, đóng",
+        "ExampleCn": "睡觉前要关空调。",
+        "ExamplePy": "Shuìjiào qián yào guān kōngtiáo.",
+        "ExampleVi": "Phải tắt điều hoà trước khi ngủ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "地铁",
+        "Pinyin": "dìtiě",
+        "MeaningVi": "tàu điện ngầm",
+        "ExampleCn": "我坐地铁去公司。",
+        "ExamplePy": "Wǒ zuò dìtiě qù gōngsī.",
+        "ExampleVi": "Tôi đi tàu điện ngầm đến công ty."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "双",
+        "Pinyin": "shuāng",
+        "MeaningVi": "đôi (lượng từ)",
+        "ExampleCn": "我买了一双筷子。",
+        "ExamplePy": "Wǒ mǎi le yì shuāng kuàizi.",
+        "ExampleVi": "Tôi mua một đôi đũa."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "筷子",
+        "Pinyin": "kuàizi",
+        "MeaningVi": "đũa",
+        "ExampleCn": "他不会用筷子。",
+        "ExamplePy": "Tā bú huì yòng kuàizi.",
+        "ExampleVi": "Anh ấy không biết dùng đũa."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "啤酒",
+        "Pinyin": "píjiǔ",
+        "MeaningVi": "bia",
+        "ExampleCn": "他不喝啤酒。",
+        "ExamplePy": "Tā bù hē píjiǔ.",
+        "ExampleVi": "Anh ấy không uống bia."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "口",
+        "Pinyin": "kǒu",
+        "MeaningVi": "miệng / ngụm",
+        "ExampleCn": "我喝了一口水。",
+        "ExamplePy": "Wǒ hē le yí kǒu shuǐ.",
+        "ExampleVi": "Tôi uống một ngụm nước."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "瓶子",
+        "Pinyin": "píngzi",
+        "MeaningVi": "cái chai",
+        "ExampleCn": "桌子上有一个瓶子。",
+        "ExamplePy": "Zhuōzi shang yǒu yí gè píngzi.",
+        "ExampleVi": "Trên bàn có một cái chai."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "笔记本",
+        "Pinyin": "bǐjìběn",
+        "MeaningVi": "vở / sổ tay",
+        "ExampleCn": "这是我的笔记本。",
+        "ExamplePy": "Zhè shì wǒ de bǐjìběn.",
+        "ExampleVi": "Đây là sổ ghi chép của tôi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "电子邮件",
+        "Pinyin": "diànzǐ yóujiàn",
+        "MeaningVi": "thư điện tử",
+        "ExampleCn": "我每天都查电子邮件。",
+        "ExamplePy": "Wǒ měitiān dōu chá diànzǐ yóujiàn.",
+        "ExampleVi": "Tôi kiểm tra email mỗi ngày."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 11,
+        "HanZi": "习惯",
+        "Pinyin": "xíguàn",
+        "MeaningVi": "thói quen",
+        "ExampleCn": "我习惯早睡早起。",
+        "ExamplePy": "Wǒ xíguàn zǎo shuì zǎo qǐ.",
+        "ExampleVi": "Tôi có thói quen ngủ sớm dậy sớm."
+    }
+]

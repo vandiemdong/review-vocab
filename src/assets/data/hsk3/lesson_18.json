@@ -1,0 +1,172 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "向",
+        "Pinyin": "xiàng",
+        "MeaningVi": "hướng về, đối với",
+        "ExampleCn": "他向老师问好。",
+        "ExamplePy": "Tā xiàng lǎoshī wènhǎo.",
+        "ExampleVi": "Anh ấy chào giáo viên."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "万",
+        "Pinyin": "wàn",
+        "MeaningVi": "mười nghìn",
+        "ExampleCn": "一万块钱很多。",
+        "ExamplePy": "Yí wàn kuài qián hěn duō.",
+        "ExampleVi": "Mười nghìn tệ là nhiều lắm."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "只",
+        "Pinyin": "zhī / zhǐ",
+        "MeaningVi": "(lượng từ cho động vật) / chỉ",
+        "ExampleCn": "我家有两只猫。 / 我只喝水。",
+        "ExamplePy": "Wǒ jiā yǒu liǎng zhī māo. / Wǒ zhǐ hē shuǐ.",
+        "ExampleVi": "Nhà tôi có hai con mèo. / Tôi chỉ uống nước."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "嘴",
+        "Pinyin": "zuǐ",
+        "MeaningVi": "miệng",
+        "ExampleCn": "他的嘴很大。",
+        "ExamplePy": "Tā de zuǐ hěn dà.",
+        "ExampleVi": "Miệng anh ấy rất to."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "动物",
+        "Pinyin": "dòngwù",
+        "MeaningVi": "động vật",
+        "ExampleCn": "我喜欢小动物。",
+        "ExamplePy": "Wǒ xǐhuan xiǎo dòngwù.",
+        "ExampleVi": "Tôi thích động vật nhỏ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "段",
+        "Pinyin": "duàn",
+        "MeaningVi": "đoạn, khúc",
+        "ExampleCn": "这段时间我很忙。",
+        "ExamplePy": "Zhè duàn shíjiān wǒ hěn máng.",
+        "ExampleVi": "Dạo này tôi rất bận."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "不但…而且…",
+        "Pinyin": "búdàn… érqiě…",
+        "MeaningVi": "không những… mà còn…",
+        "ExampleCn": "她不但漂亮，而且聪明。",
+        "ExamplePy": "Tā búdàn piàoliang, érqiě cōngmíng.",
+        "ExampleVi": "Cô ấy không những xinh mà còn thông minh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "有名",
+        "Pinyin": "yǒumíng",
+        "MeaningVi": "nổi tiếng",
+        "ExampleCn": "这是一个有名的地方。",
+        "ExamplePy": "Zhè shì yí gè yǒumíng de dìfang.",
+        "ExampleVi": "Đây là một nơi nổi tiếng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "同意",
+        "Pinyin": "tóngyì",
+        "MeaningVi": "đồng ý",
+        "ExampleCn": "我同意你的想法。",
+        "ExamplePy": "Wǒ tóngyì nǐ de xiǎngfǎ.",
+        "ExampleVi": "Tôi đồng ý với ý kiến của bạn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "相信",
+        "Pinyin": "xiāngxìn",
+        "MeaningVi": "tin tưởng",
+        "ExampleCn": "我相信你。",
+        "ExamplePy": "Wǒ xiāngxìn nǐ.",
+        "ExampleVi": "Tôi tin bạn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "关于",
+        "Pinyin": "guānyú",
+        "MeaningVi": "về, liên quan đến",
+        "ExampleCn": "关于这件事，我不知道。",
+        "ExamplePy": "Guānyú zhè jiàn shì, wǒ bù zhīdào.",
+        "ExampleVi": "Về chuyện này, tôi không biết."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "机会",
+        "Pinyin": "jīhuì",
+        "MeaningVi": "cơ hội",
+        "ExampleCn": "这是一个好机会。",
+        "ExamplePy": "Zhè shì yí gè hǎo jīhuì.",
+        "ExampleVi": "Đây là một cơ hội tốt."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "国家",
+        "Pinyin": "guójiā",
+        "MeaningVi": "quốc gia, đất nước",
+        "ExampleCn": "我爱我的国家。",
+        "ExamplePy": "Wǒ ài wǒ de guójiā.",
+        "ExampleVi": "Tôi yêu đất nước của mình."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "种",
+        "Pinyin": "zhǒng",
+        "MeaningVi": "loại, chủng loại",
+        "ExampleCn": "你喜欢哪种水果？",
+        "ExamplePy": "Nǐ xǐhuan nǎ zhǒng shuǐguǒ?",
+        "ExampleVi": "Bạn thích loại trái cây nào?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "特点",
+        "Pinyin": "tèdiǎn",
+        "MeaningVi": "đặc điểm",
+        "ExampleCn": "这道菜的特点是辣。",
+        "ExamplePy": "Zhè dào cài de tèdiǎn shì là.",
+        "ExampleVi": "Món này có đặc điểm là cay."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "奇怪",
+        "Pinyin": "qíguài",
+        "MeaningVi": "kỳ lạ",
+        "ExampleCn": "他今天很奇怪。",
+        "ExamplePy": "Tā jīntiān hěn qíguài.",
+        "ExampleVi": "Hôm nay anh ấy thật kỳ lạ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 18,
+        "HanZi": "地",
+        "Pinyin": "de",
+        "MeaningVi": "trợ từ trạng ngữ, “một cách…”",
+        "ExampleCn": "她高兴地笑了。",
+        "ExamplePy": "Tā gāoxìng de xiào le.",
+        "ExampleVi": "Cô ấy cười một cách vui vẻ."
+    }
+]

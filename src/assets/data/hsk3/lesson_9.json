@@ -1,0 +1,92 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 9,
+        "HanZi": "中文",
+        "Pinyin": "zhōng wén",
+        "MeaningVi": "tiếng Trung",
+        "ExampleCn": "你会说中文吗？",
+        "ExamplePy": "Nǐ huì shuō Zhōngwén ma?",
+        "ExampleVi": "Bạn biết nói tiếng Trung không?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 9,
+        "HanZi": "班",
+        "Pinyin": "bān",
+        "MeaningVi": "lớp, ca (làm việc)",
+        "ExampleCn": "我们班有二十个学生。",
+        "ExamplePy": "Wǒmen bān yǒu èrshí gè xuéshēng.",
+        "ExampleVi": "Lớp chúng tôi có 20 học sinh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 9,
+        "HanZi": "一样",
+        "Pinyin": "yí yàng",
+        "MeaningVi": "giống nhau",
+        "ExampleCn": "他们穿的一样的衣服。",
+        "ExamplePy": "Tāmen chuān de yíyàng de yīfú.",
+        "ExampleVi": "Họ mặc quần áo giống nhau."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 9,
+        "HanZi": "参加",
+        "Pinyin": "cān jiā",
+        "MeaningVi": "tham gia",
+        "ExampleCn": "你想参加这个比赛吗？",
+        "ExamplePy": "Nǐ xiǎng cānjiā zhè ge bǐsài ma?",
+        "ExampleVi": "Bạn muốn tham gia cuộc thi này không?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 9,
+        "HanZi": "担心",
+        "Pinyin": "dān xīn",
+        "MeaningVi": "lo lắng",
+        "ExampleCn": "别担心，我会帮你的。",
+        "ExamplePy": "Bié dānxīn, wǒ huì bāng nǐ de.",
+        "ExampleVi": "Đừng lo, tôi sẽ giúp bạn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 9,
+        "HanZi": "放心",
+        "Pinyin": "fàng xīn",
+        "MeaningVi": "yên tâm",
+        "ExampleCn": "你可以放心，他很聪明。",
+        "ExamplePy": "Nǐ kěyǐ fàngxīn, tā hěn cōngmíng.",
+        "ExampleVi": "Bạn có thể yên tâm, cậu ấy rất thông minh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 9,
+        "HanZi": "一定",
+        "Pinyin": "yí dìng",
+        "MeaningVi": "nhất định, chắc chắn",
+        "ExampleCn": "明天我一定来。",
+        "ExamplePy": "Míngtiān wǒ yídìng lái.",
+        "ExampleVi": "Ngày mai tôi nhất định sẽ đến."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 9,
+        "HanZi": "个子",
+        "Pinyin": "gè zi",
+        "MeaningVi": "vóc dáng, chiều cao",
+        "ExampleCn": "你个子真高！",
+        "ExamplePy": "Nǐ gèzi zhēn gāo!",
+        "ExampleVi": "Bạn cao thật đó!"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 9,
+        "HanZi": "矮",
+        "Pinyin": "ǎi",
+        "MeaningVi": "thấp",
+        "ExampleCn": "我比他矮一点。",
+        "ExamplePy": "Wǒ bǐ tā ǎi yìdiǎn.",
+        "ExampleVi": "Tôi thấp hơn anh ấy một chút."
+    }
+]

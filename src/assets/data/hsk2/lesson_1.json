@@ -1,0 +1,142 @@
+[
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "旅游",
+    "Pinyin": "lǚyóu",
+    "MeaningVi": "du lịch",
+    "ExampleCn": "我想去中国旅游。",
+    "ExamplePy": "Wǒ xiǎng qù Zhōngguó lǚyóu.",
+    "ExampleVi": "Tôi muốn đi Trung Quốc du lịch."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "觉得",
+    "Pinyin": "juéde",
+    "MeaningVi": "cảm thấy, cho rằng",
+    "ExampleCn": "我觉得这个地方很漂亮。",
+    "ExamplePy": "Wǒ juéde zhège dìfang hěn piàoliang.",
+    "ExampleVi": "Tôi cảm thấy nơi này rất đẹp."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "最",
+    "Pinyin": "zuì",
+    "MeaningVi": "nhất",
+    "ExampleCn": "她是我最好的朋友。",
+    "ExamplePy": "Tā shì wǒ zuì hǎo de péngyou.",
+    "ExampleVi": "Cô ấy là người bạn tốt nhất của tôi."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "为什么",
+    "Pinyin": "wèishénme",
+    "MeaningVi": "tại sao",
+    "ExampleCn": "你为什么不来？",
+    "ExamplePy": "Nǐ wèishénme bù lái?",
+    "ExampleVi": "Tại sao bạn không đến?"
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "也",
+    "Pinyin": "yě",
+    "MeaningVi": "cũng",
+    "ExampleCn": "我也喜欢运动。",
+    "ExamplePy": "Wǒ yě xǐhuan yùndòng.",
+    "ExampleVi": "Tôi cũng thích vận động."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "运动",
+    "Pinyin": "yùndòng",
+    "MeaningVi": "vận động, thể thao",
+    "ExampleCn": "多做运动对身体很好。",
+    "ExamplePy": "Duō zuò yùndòng duì shēntǐ hěn hǎo.",
+    "ExampleVi": "Tập thể dục nhiều tốt cho cơ thể."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "踢足球",
+    "Pinyin": "tī zúqiú",
+    "MeaningVi": "đá bóng",
+    "ExampleCn": "他们下午要去踢足球。",
+    "ExamplePy": "Tāmen xiàwǔ yào qù tī zúqiú.",
+    "ExampleVi": "Chiều nay họ sẽ đi đá bóng."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "一起",
+    "Pinyin": "yìqǐ",
+    "MeaningVi": "cùng nhau",
+    "ExampleCn": "我们一起吃饭吧。",
+    "ExamplePy": "Wǒmen yìqǐ chīfàn ba.",
+    "ExampleVi": "Chúng ta cùng nhau ăn cơm nhé."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "要",
+    "Pinyin": "yào",
+    "MeaningVi": "muốn, cần, sẽ",
+    "ExampleCn": "我今天要上班。",
+    "ExamplePy": "Wǒ jīntiān yào shàngbān.",
+    "ExampleVi": "Hôm nay tôi phải đi làm."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "新",
+    "Pinyin": "xīn",
+    "MeaningVi": "mới",
+    "ExampleCn": "我买了一件新衣服。",
+    "ExamplePy": "Wǒ mǎile yí jiàn xīn yīfu.",
+    "ExampleVi": "Tôi mua một bộ quần áo mới."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "它",
+    "Pinyin": "tā",
+    "MeaningVi": "nó (con vật/sự vật)",
+    "ExampleCn": "这是我的猫，它很可爱。",
+    "ExamplePy": "Zhè shì wǒ de māo, tā hěn kě'ài.",
+    "ExampleVi": "Đây là con mèo của tôi, nó rất dễ thương."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "眼睛",
+    "Pinyin": "yǎnjing",
+    "MeaningVi": "mắt",
+    "ExampleCn": "她的眼睛很大。",
+    "ExamplePy": "Tā de yǎnjing hěn dà.",
+    "ExampleVi": "Mắt của cô ấy rất to."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "花花",
+    "Pinyin": "Huāhuā",
+    "MeaningVi": "tên gọi đáng yêu (thường đặt cho mèo)",
+    "ExampleCn": "花花今天很安静。",
+    "ExamplePy": "Huāhuā jīntiān hěn ānjìng.",
+    "ExampleVi": "Hoa Hoa hôm nay rất yên tĩnh."
+  },
+  {
+    "Hsk": 2,
+    "Lesson": 1,
+    "HanZi": "花",
+    "Pinyin": "huā",
+    "MeaningVi": "hoa",
+    "ExampleCn": "花很漂亮。",
+    "ExamplePy": "Huā hěn piàoliang.",
+    "ExampleVi": "Hoa rất đẹp."
+  }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "演出",
+        "Pinyin": "yǎnchū",
+        "MeaningVi": "biểu diễn",
+        "ExampleCn": "这个周末有一场演出。",
+        "ExamplePy": "Zhège zhōumò yǒu yì chǎng yǎnchū.",
+        "ExampleVi": "Cuối tuần này có một buổi biểu diễn."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "猜",
+        "Pinyin": "cāi",
+        "MeaningVi": "đoán",
+        "ExampleCn": "你猜我在想什么？",
+        "ExamplePy": "Nǐ cāi wǒ zài xiǎng shénme?",
+        "ExampleVi": "Bạn đoán xem tôi đang nghĩ gì?"
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "武打",
+        "Pinyin": "wǔdǎ",
+        "MeaningVi": "võ thuật (đánh võ)",
+        "ExampleCn": "这部电影有很多武打场面。",
+        "ExamplePy": "Zhè bù diànyǐng yǒu hěn duō wǔdǎ chǎngmiàn.",
+        "ExampleVi": "Bộ phim này có nhiều cảnh võ thuật."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "动作",
+        "Pinyin": "dòngzuò",
+        "MeaningVi": "động tác, hành động",
+        "ExampleCn": "他的动作很快。",
+        "ExamplePy": "Tā de dòngzuò hěn kuài.",
+        "ExampleVi": "Động tác của anh ấy rất nhanh."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "精彩",
+        "Pinyin": "jīngcǎi",
+        "MeaningVi": "đặc sắc, hay",
+        "ExampleCn": "表演非常精彩。",
+        "ExamplePy": "Biǎoyǎn fēicháng jīngcǎi.",
+        "ExampleVi": "Màn biểu diễn vô cùng đặc sắc."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "表现",
+        "Pinyin": "biǎoxiàn",
+        "MeaningVi": "thể hiện, biểu hiện",
+        "ExampleCn": "他在比赛中的表现很好。",
+        "ExamplePy": "Tā zài bǐsài zhōng de biǎoxiàn hěn hǎo.",
+        "ExampleVi": "Anh ấy thể hiện rất tốt trong cuộc thi."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "人物",
+        "Pinyin": "rénwù",
+        "MeaningVi": "nhân vật",
+        "ExampleCn": "这本书的人物很有意思。",
+        "ExamplePy": "Zhè běn shū de rénwù hěn yǒu yìsi.",
+        "ExampleVi": "Nhân vật trong cuốn sách này rất thú vị."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "社会",
+        "Pinyin": "shèhuì",
+        "MeaningVi": "xã hội",
+        "ExampleCn": "这是一个社会问题。",
+        "ExamplePy": "Zhè shì yí gè shèhuì wèntí.",
+        "ExampleVi": "Đây là một vấn đề xã hội."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "性格",
+        "Pinyin": "xìnggé",
+        "MeaningVi": "tính cách",
+        "ExampleCn": "他的性格很开朗。",
+        "ExamplePy": "Tā de xìnggé hěn kāilǎng.",
+        "ExampleVi": "Tính cách của anh ấy rất cởi mở."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "有趣",
+        "Pinyin": "yǒuqù",
+        "MeaningVi": "thú vị",
+        "ExampleCn": "这个故事很有趣。",
+        "ExamplePy": "Zhège gùshi hěn yǒuqù.",
+        "ExampleVi": "Câu chuyện này rất thú vị."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "服装",
+        "Pinyin": "fúzhuāng",
+        "MeaningVi": "trang phục",
+        "ExampleCn": "演员的服装很漂亮。",
+        "ExamplePy": "Yǎnyuán de fúzhuāng hěn piàoliang.",
+        "ExampleVi": "Trang phục của diễn viên rất đẹp."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "影响",
+        "Pinyin": "yǐngxiǎng",
+        "MeaningVi": "ảnh hưởng",
+        "ExampleCn": "这件事对我影响很大。",
+        "ExamplePy": "Zhè jiàn shì duì wǒ yǐngxiǎng hěn dà.",
+        "ExampleVi": "Việc này ảnh hưởng rất lớn đến tôi."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "传统",
+        "Pinyin": "chuántǒng",
+        "MeaningVi": "truyền thống",
+        "ExampleCn": "这是中国的传统文化。",
+        "ExamplePy": "Zhè shì Zhōngguó de chuántǒng wénhuà.",
+        "ExampleVi": "Đây là văn hóa truyền thống Trung Quốc."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "艺术",
+        "Pinyin": "yìshù",
+        "MeaningVi": "nghệ thuật",
+        "ExampleCn": "他对艺术很感兴趣。",
+        "ExamplePy": "Tā duì yìshù hěn gǎn xìngqù.",
+        "ExampleVi": "Anh ấy rất hứng thú với nghệ thuật."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "了解",
+        "Pinyin": "liǎojiě",
+        "MeaningVi": "hiểu, tìm hiểu",
+        "ExampleCn": "我想了解你的想法。",
+        "ExamplePy": "Wǒ xiǎng liǎojiě nǐ de xiǎngfǎ.",
+        "ExampleVi": "Tôi muốn hiểu suy nghĩ của bạn."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "约",
+        "Pinyin": "yuē",
+        "MeaningVi": "hẹn",
+        "ExampleCn": "我们约明天见面吧。",
+        "ExamplePy": "Wǒmen yuē míngtiān jiànmiàn ba.",
+        "ExampleVi": "Chúng ta hẹn gặp nhau ngày mai nhé."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "决定",
+        "Pinyin": "juédìng",
+        "MeaningVi": "quyết định",
+        "ExampleCn": "我已经决定了。",
+        "ExamplePy": "Wǒ yǐjīng juédìng le.",
+        "ExampleVi": "Tôi đã quyết định rồi."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "担心",
+        "Pinyin": "dānxīn",
+        "MeaningVi": "lo lắng",
+        "ExampleCn": "别担心，我会帮你。",
+        "ExamplePy": "Bié dānxīn, wǒ huì bāng nǐ.",
+        "ExampleVi": "Đừng lo, tôi sẽ giúp bạn."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "肯定",
+        "Pinyin": "kěndìng",
+        "MeaningVi": "chắc chắn / khẳng định",
+        "ExampleCn": "我肯定他会来。",
+        "ExamplePy": "Wǒ kěndìng tā huì lái.",
+        "ExampleVi": "Tôi chắc chắn anh ấy sẽ đến."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "排",
+        "Pinyin": "pái",
+        "MeaningVi": "xếp hàng",
+        "ExampleCn": "请排队。",
+        "ExamplePy": "Qǐng pái duì.",
+        "ExampleVi": "Vui lòng xếp hàng."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "估计",
+        "Pinyin": "gūjì",
+        "MeaningVi": "ước chừng",
+        "ExampleCn": "我估计他已经到了。",
+        "ExamplePy": "Wǒ gūjì tā yǐjīng dào le.",
+        "ExampleVi": "Tôi đoán là anh ấy đã đến rồi."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "座位",
+        "Pinyin": "zuòwèi",
+        "MeaningVi": "chỗ ngồi",
+        "ExampleCn": "这里是我的座位。",
+        "ExamplePy": "Zhèlǐ shì wǒ de zuòwèi.",
+        "ExampleVi": "Đây là chỗ ngồi của tôi."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "说明书",
+        "Pinyin": "shuōmíngshū",
+        "MeaningVi": "sách hướng dẫn",
+        "ExampleCn": "请先看说明书。",
+        "ExamplePy": "Qǐng xiān kàn shuōmíngshū.",
+        "ExampleVi": "Vui lòng đọc sách hướng dẫn trước."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "古代",
+        "Pinyin": "gǔdài",
+        "MeaningVi": "thời cổ đại",
+        "ExampleCn": "古代的人生活很简单。",
+        "ExamplePy": "Gǔdài de rén shēnghuó hěn jiǎndān.",
+        "ExampleVi": "Người thời cổ đại sống rất đơn giản."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "神话",
+        "Pinyin": "shénhuà",
+        "MeaningVi": "thần thoại",
+        "ExampleCn": "这是一个古代神话。",
+        "ExamplePy": "Zhè shì yí gè gǔdài shénhuà.",
+        "ExampleVi": "Đây là một câu chuyện thần thoại cổ đại."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "羡慕",
+        "Pinyin": "xiànmù",
+        "MeaningVi": "ngưỡng mộ, ghen tị",
+        "ExampleCn": "我很羡慕你。",
+        "ExamplePy": "Wǒ hěn xiànmù nǐ.",
+        "ExampleVi": "Tôi rất ngưỡng mộ bạn."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "偷偷",
+        "Pinyin": "tōutōu",
+        "MeaningVi": "lén lút，âm thầm, lặng lẽ",
+        "ExampleCn": "他偷偷离开了。",
+        "ExamplePy": "Tā tōutōu líkāi le.",
+        "ExampleVi": "Anh ấy lén rời đi."
+    },
+    {
+        "Hsk": 4,
+        "Lesson": 4,
+        "HanZi": "内容",
+        "Pinyin": "nèiróng",
+        "MeaningVi": "nội dung",
+        "ExampleCn": "这本书的内容很丰富。",
+        "ExamplePy": "Zhè běn shū de nèiróng hěn fēngfù.",
+        "ExampleVi": "Nội dung cuốn sách này rất phong phú."
+    }
+]

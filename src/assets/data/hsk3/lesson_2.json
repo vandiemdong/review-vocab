@@ -1,0 +1,182 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "退",
+        "Pinyin": "tuì",
+        "MeaningVi": "rút lui, trả lại",
+        "ExampleCn": "我想退这件衣服。",
+        "ExamplePy": "Wǒ xiǎng tuì zhè jiàn yīfu.",
+        "ExampleVi": "Tôi muốn trả lại cái áo này."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "疼",
+        "Pinyin": "téng",
+        "MeaningVi": "đau",
+        "ExampleCn": "我的脚很疼。",
+        "ExamplePy": "Wǒ de jiǎo hěn téng.",
+        "ExampleVi": "Chân tôi rất đau."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "脚",
+        "Pinyin": "jiǎo",
+        "MeaningVi": "chân",
+        "ExampleCn": "他的脚受伤了。",
+        "ExamplePy": "Tā de jiǎo shòushāng le.",
+        "ExampleVi": "Chân anh ấy bị thương."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "树",
+        "Pinyin": "shù",
+        "MeaningVi": "cây",
+        "ExampleCn": "这是一棵树。",
+        "ExamplePy": "Zhè shì yì kē shù.",
+        "ExampleVi": "Đây là một cái cây."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "容易",
+        "Pinyin": "róngyì",
+        "MeaningVi": "dễ dàng",
+        "ExampleCn": "这个题很容易。",
+        "ExamplePy": "Zhège tí hěn róngyì.",
+        "ExampleVi": "Bài này rất dễ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "难",
+        "Pinyin": "nán",
+        "MeaningVi": "khó",
+        "ExampleCn": "中文不难。",
+        "ExamplePy": "Zhōngwén bù nán.",
+        "ExampleVi": "Tiếng Trung không khó."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "太太",
+        "Pinyin": "tàitai",
+        "MeaningVi": "vợ (lịch sự), bà",
+        "ExampleCn": "他太太很漂亮。",
+        "ExamplePy": "Tā tàitai hěn piàoliang.",
+        "ExampleVi": "Vợ anh ấy rất đẹp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "秘书",
+        "Pinyin": "mìshū",
+        "MeaningVi": "thư ký",
+        "ExampleCn": "她是经理的秘书。",
+        "ExamplePy": "Tā shì jīnglǐ de mìshū.",
+        "ExampleVi": "Cô ấy là thư ký của giám đốc."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "经理",
+        "Pinyin": "jīnglǐ",
+        "MeaningVi": "giám đốc, quản lý",
+        "ExampleCn": "经理在办公室。",
+        "ExamplePy": "Jīnglǐ zài bàngōngshì.",
+        "ExampleVi": "Giám đốc đang ở văn phòng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "办公室",
+        "Pinyin": "bàngōngshì",
+        "MeaningVi": "văn phòng",
+        "ExampleCn": "我的办公室在三楼。",
+        "ExamplePy": "Wǒ de bàngōngshì zài sān lóu.",
+        "ExampleVi": "Văn phòng của tôi ở tầng 3."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "辆",
+        "Pinyin": "liàng",
+        "MeaningVi": "chiếc (lượng từ cho xe)",
+        "ExampleCn": "一辆车",
+        "ExamplePy": "Yí liàng chē",
+        "ExampleVi": "một chiếc xe"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "楼",
+        "Pinyin": "lóu",
+        "MeaningVi": "tầng, tòa nhà",
+        "ExampleCn": "我家在八楼。",
+        "ExamplePy": "Wǒ jiā zài bā lóu.",
+        "ExampleVi": "Nhà tôi ở tầng 8."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "拿",
+        "Pinyin": "ná",
+        "MeaningVi": "cầm, lấy",
+        "ExampleCn": "请拿伞。",
+        "ExamplePy": "Qǐng ná sǎn.",
+        "ExampleVi": "Làm ơn cầm dù."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "把",
+        "Pinyin": "bǎ",
+        "MeaningVi": "(giới từ nhấn mạnh đối tượng tác động)",
+        "ExampleCn": "把伞给我。",
+        "ExamplePy": "Bǎ sǎn gěi wǒ.",
+        "ExampleVi": "Đưa cái dù cho tôi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "伞",
+        "Pinyin": "sǎn",
+        "MeaningVi": "dù",
+        "ExampleCn": "我带伞了。",
+        "ExamplePy": "Wǒ dài sǎn le.",
+        "ExampleVi": "Tôi mang dù rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "胖",
+        "Pinyin": "pàng",
+        "MeaningVi": "mập",
+        "ExampleCn": "他有点儿胖。",
+        "ExamplePy": "Tā yǒu diǎnr pàng.",
+        "ExampleVi": "Anh ấy hơi mập."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "其实",
+        "Pinyin": "qíshí",
+        "MeaningVi": "thật ra",
+        "ExampleCn": "其实我不累。",
+        "ExamplePy": "Qíshí wǒ bú lèi.",
+        "ExampleVi": "Thật ra tôi không mệt."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 2,
+        "HanZi": "瘦",
+        "Pinyin": "shòu",
+        "MeaningVi": "gầy",
+        "ExampleCn": "她很瘦。",
+        "ExamplePy": "Tā hěn shòu.",
+        "ExampleVi": "Cô ấy rất gầy."
+    }
+]

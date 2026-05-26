@@ -1,0 +1,172 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "比赛",
+        "Pinyin": "bǐsài",
+        "MeaningVi": "cuộc thi, thi đấu",
+        "ExampleCn": "明天有一个比赛。",
+        "ExamplePy": "Míngtiān yǒu yí gè bǐsài.",
+        "ExampleVi": "Ngày mai có một cuộc thi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "照片",
+        "Pinyin": "zhàopiàn",
+        "MeaningVi": "bức ảnh",
+        "ExampleCn": "这张照片很好看。",
+        "ExamplePy": "Zhè zhāng zhàopiàn hěn hǎokàn.",
+        "ExampleVi": "Bức ảnh này rất đẹp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "年级",
+        "Pinyin": "niánjí",
+        "MeaningVi": "khối lớp",
+        "ExampleCn": "他在三年级。",
+        "ExamplePy": "Tā zài sān niánjí.",
+        "ExampleVi": "Cậu ấy học lớp ba."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "又",
+        "Pinyin": "yòu",
+        "MeaningVi": "lại…, vừa…vừa… (lặp lại hành động / hai tính từ)",
+        "ExampleCn": "她又聪明又热情。",
+        "ExamplePy": "Tā yòu cōngmíng yòu rèqíng.",
+        "ExampleVi": "Cô ấy vừa thông minh vừa nhiệt tình."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "聪明",
+        "Pinyin": "cōngmíng",
+        "MeaningVi": "thông minh",
+        "ExampleCn": "他是一个聪明的学生。",
+        "ExamplePy": "Tā shì yí gè cōngmíng de xuésheng.",
+        "ExampleVi": "Cậu ấy là một học sinh thông minh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "热情",
+        "Pinyin": "rèqíng",
+        "MeaningVi": "nhiệt tình",
+        "ExampleCn": "她对客人很热情。",
+        "ExamplePy": "Tā duì kèrén hěn rèqíng.",
+        "ExampleVi": "Cô ấy rất nhiệt tình với khách."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "努力",
+        "Pinyin": "nǔlì",
+        "MeaningVi": "chăm chỉ, nỗ lực",
+        "ExampleCn": "他学习很努力。",
+        "ExamplePy": "Tā xuéxí hěn nǔlì.",
+        "ExampleVi": "Cậu ấy học rất chăm chỉ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "总是",
+        "Pinyin": "zǒngshì",
+        "MeaningVi": "luôn luôn",
+        "ExampleCn": "他总是第一个来。",
+        "ExamplePy": "Tā zǒngshì dì yí gè lái.",
+        "ExampleVi": "Cậu ấy luôn là người đến đầu tiên."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "回答",
+        "Pinyin": "huídá",
+        "MeaningVi": "trả lời",
+        "ExampleCn": "请回答我的问题。",
+        "ExamplePy": "Qǐng huídá wǒ de wèntí.",
+        "ExampleVi": "Hãy trả lời câu hỏi của tôi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "站",
+        "Pinyin": "zhàn",
+        "MeaningVi": "đứng",
+        "ExampleCn": "他站在门口。",
+        "ExamplePy": "Tā zhàn zài ménkǒu.",
+        "ExampleVi": "Anh ấy đứng ở cửa."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "饿",
+        "Pinyin": "è",
+        "MeaningVi": "đói",
+        "ExampleCn": "我饿了。",
+        "ExamplePy": "Wǒ è le.",
+        "ExampleVi": "Tôi đói rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "超市",
+        "Pinyin": "chāoshì",
+        "MeaningVi": "siêu thị",
+        "ExampleCn": "我去超市买东西。",
+        "ExamplePy": "Wǒ qù chāoshì mǎi dōngxi.",
+        "ExampleVi": "Tôi đi siêu thị mua đồ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "蛋糕",
+        "Pinyin": "dàngāo",
+        "MeaningVi": "bánh kem",
+        "ExampleCn": "我买了一个蛋糕。",
+        "ExamplePy": "Wǒ mǎi le yí gè dàngāo.",
+        "ExampleVi": "Tôi đã mua một cái bánh kem."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "年轻",
+        "Pinyin": "niánqīng",
+        "MeaningVi": "trẻ tuổi",
+        "ExampleCn": "他很年轻。",
+        "ExamplePy": "Tā hěn niánqīng.",
+        "ExampleVi": "Anh ấy rất trẻ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "认真",
+        "Pinyin": "rènzhēn",
+        "MeaningVi": "nghiêm túc, chăm chỉ",
+        "ExampleCn": "他学习很认真。",
+        "ExamplePy": "Tā xuéxí hěn rènzhēn.",
+        "ExampleVi": "Cậu ấy học rất nghiêm túc."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "客人",
+        "Pinyin": "kèrén",
+        "MeaningVi": "khách",
+        "ExampleCn": "客人来了。",
+        "ExamplePy": "Kèrén lái le.",
+        "ExampleVi": "Khách đến rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 4,
+        "HanZi": "李小美",
+        "Pinyin": "Lǐ Xiǎoměi",
+        "MeaningVi": "tên người (Lý Tiểu Mỹ)",
+        "ExampleCn": "李小美是我的朋友。",
+        "ExamplePy": "Lǐ Xiǎoměi shì wǒ de péngyǒu.",
+        "ExampleVi": "Lý Tiểu Mỹ là bạn tôi."
+    }
+]

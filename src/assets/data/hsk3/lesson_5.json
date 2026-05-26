@@ -1,0 +1,142 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "发烧",
+        "Pinyin": "fāshāo",
+        "MeaningVi": "sốt",
+        "ExampleCn": "他有点儿发烧。",
+        "ExamplePy": "Tā yǒudiǎnr fāshāo.",
+        "ExampleVi": "Anh ấy hơi bị sốt."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "为",
+        "Pinyin": "wèi",
+        "MeaningVi": "vì, để",
+        "ExampleCn": "我为你买了礼物。",
+        "ExamplePy": "Wǒ wèi nǐ mǎi le lǐwù.",
+        "ExampleVi": "Tôi mua quà cho bạn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "照顾",
+        "Pinyin": "zhàogù",
+        "MeaningVi": "chăm sóc",
+        "ExampleCn": "妈妈在家照顾孩子。",
+        "ExamplePy": "Māma zài jiā zhàogù háizi.",
+        "ExampleVi": "Mẹ chăm sóc con ở nhà."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "用",
+        "Pinyin": "yòng",
+        "MeaningVi": "dùng, sử dụng",
+        "ExampleCn": "你会用筷子吗？",
+        "ExamplePy": "Nǐ huì yòng kuàizi ma?",
+        "ExampleVi": "Bạn biết dùng đũa không?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "感冒",
+        "Pinyin": "gǎnmào",
+        "MeaningVi": "cảm, bị cảm",
+        "ExampleCn": "我感冒了，要多休息。",
+        "ExamplePy": "Wǒ gǎnmào le, yào duō xiūxi.",
+        "ExampleVi": "Tôi bị cảm rồi, phải nghỉ ngơi nhiều."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "张（量词）",
+        "Pinyin": "zhāng",
+        "MeaningVi": "tờ, chiếc (lượng từ cho vật phẳng)",
+        "ExampleCn": "一张纸。",
+        "ExamplePy": "Yī zhāng zhǐ.",
+        "ExampleVi": "Một tờ giấy."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "季节",
+        "Pinyin": "jìjié",
+        "MeaningVi": "mùa, mùa trong năm",
+        "ExampleCn": "我最喜欢的季节是秋天。",
+        "ExamplePy": "Wǒ zuì xǐhuan de jìjié shì qiūtiān.",
+        "ExampleVi": "Mùa tôi thích nhất là mùa thu."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "当然",
+        "Pinyin": "dāngrán",
+        "MeaningVi": "đương nhiên",
+        "ExampleCn": "当然可以！",
+        "ExamplePy": "Dāngrán kěyǐ!",
+        "ExampleVi": "Đương nhiên là được!"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "春天",
+        "Pinyin": "chūntiān",
+        "MeaningVi": "mùa xuân",
+        "ExampleCn": "春天花开了。",
+        "ExamplePy": "Chūntiān huā kāi le.",
+        "ExampleVi": "Mùa xuân hoa nở rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "草",
+        "Pinyin": "cǎo",
+        "MeaningVi": "cỏ",
+        "ExampleCn": "公园里有很多草。",
+        "ExamplePy": "Gōngyuán lǐ yǒu hěn duō cǎo.",
+        "ExampleVi": "Trong công viên có rất nhiều cỏ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "夏天",
+        "Pinyin": "xiàtiān",
+        "MeaningVi": "mùa hè",
+        "ExampleCn": "夏天很热。",
+        "ExamplePy": "Xiàtiān hěn rè.",
+        "ExampleVi": "Mùa hè rất nóng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "裙子",
+        "Pinyin": "qúnzi",
+        "MeaningVi": "váy",
+        "ExampleCn": "她今天穿了一条漂亮的裙子。",
+        "ExamplePy": "Tā jīntiān chuān le yì tiáo piàoliang de qúnzi.",
+        "ExampleVi": "Hôm nay cô ấy mặc một chiếc váy đẹp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "最近",
+        "Pinyin": "zuìjìn",
+        "MeaningVi": "gần đây",
+        "ExampleCn": "你最近怎么样？",
+        "ExamplePy": "Nǐ zuìjìn zěnme yàng?",
+        "ExampleVi": "Gần đây bạn thế nào?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 5,
+        "HanZi": "越…(越…)",
+        "Pinyin": "yuè…(yuè…)",
+        "MeaningVi": "càng… (càng…)",
+        "ExampleCn": "天气越来越冷。",
+        "ExamplePy": "Tiānqì yuèláiyuè lěng.",
+        "ExampleVi": "Thời tiết ngày càng lạnh."
+    }
+]

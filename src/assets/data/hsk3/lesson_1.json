@@ -1,0 +1,172 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "周末",
+        "Pinyin": "zhōumò",
+        "MeaningVi": "cuối tuần",
+        "ExampleCn": "周末你打算做什么？",
+        "ExamplePy": "Zhōumò nǐ dǎsuàn zuò shénme?",
+        "ExampleVi": "Cuối tuần bạn định làm gì?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "打算",
+        "Pinyin": "dǎsuàn",
+        "MeaningVi": "dự định",
+        "ExampleCn": "我打算跟朋友去爬山。",
+        "ExamplePy": "Wǒ dǎsuàn gēn péngyǒu qù páshān.",
+        "ExampleVi": "Tôi định đi leo núi với bạn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "啊",
+        "Pinyin": "a",
+        "MeaningVi": "trợ từ ngữ khí",
+        "ExampleCn": "好啊，我们一起去吧！",
+        "ExamplePy": "Hǎo a, wǒmen yīqǐ qù ba!",
+        "ExampleVi": "Được đó, chúng ta cùng đi nhé!"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "跟",
+        "Pinyin": "gēn",
+        "MeaningVi": "cùng với",
+        "ExampleCn": "我跟小丽去吃饭。",
+        "ExamplePy": "Wǒ gēn Xiǎo Lì qù chīfàn.",
+        "ExampleVi": "Tôi đi ăn với Tiểu Lệ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "小丽",
+        "Pinyin": "Xiǎo Lì",
+        "MeaningVi": "Tiểu Lệ (tên người)",
+        "ExampleCn": "小丽是我最好的朋友。",
+        "ExamplePy": "Xiǎo Lì shì wǒ zuì hǎo de péngyǒu.",
+        "ExampleVi": "Tiểu Lệ là bạn thân nhất của tôi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "小刚",
+        "Pinyin": "Xiǎo Gāng",
+        "MeaningVi": "Tiểu Cương (tên người)",
+        "ExampleCn": "小刚喜欢玩游戏。",
+        "ExamplePy": "Xiǎo Gāng xǐhuān wán yóuxì.",
+        "ExampleVi": "Tiểu Cương thích chơi game."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "一直",
+        "Pinyin": "yìzhí",
+        "MeaningVi": "luôn luôn",
+        "ExampleCn": "他一直在复习。",
+        "ExamplePy": "Tā yìzhí zài fùxí.",
+        "ExampleVi": "Cậu ấy luôn luôn ôn tập."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "游戏",
+        "Pinyin": "yóuxì",
+        "MeaningVi": "trò chơi",
+        "ExampleCn": "他们在玩游戏。",
+        "ExamplePy": "Tāmen zài wán yóuxì.",
+        "ExampleVi": "Họ đang chơi game."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "作业",
+        "Pinyin": "zuòyè",
+        "MeaningVi": "bài tập",
+        "ExampleCn": "我还没做作业。",
+        "ExamplePy": "Wǒ hái méi zuò zuòyè.",
+        "ExampleVi": "Tôi vẫn chưa làm bài tập."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "着急",
+        "Pinyin": "zháojí",
+        "MeaningVi": "lo lắng, sốt ruột",
+        "ExampleCn": "别着急，慢慢来。",
+        "ExamplePy": "Bié zháojí, mànman lái.",
+        "ExampleVi": "Đừng lo, cứ từ từ thôi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "复习",
+        "Pinyin": "fùxí",
+        "MeaningVi": "ôn tập",
+        "ExampleCn": "明天考试，今天晚上我要复习。",
+        "ExamplePy": "Míngtiān kǎoshì, jīntiān wǎnshang wǒ yào fùxí.",
+        "ExampleVi": "Mai kiểm tra rồi, tối nay tôi phải ôn tập."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "南方",
+        "Pinyin": "nánfāng",
+        "MeaningVi": "miền Nam",
+        "ExampleCn": "我打算去南方旅游。",
+        "ExamplePy": "Wǒ dǎsuàn qù nánfāng lǚyóu.",
+        "ExampleVi": "Tôi định đi du lịch miền Nam."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "北方",
+        "Pinyin": "běifāng",
+        "MeaningVi": "miền Bắc",
+        "ExampleCn": "北方的冬天很冷。",
+        "ExamplePy": "Běifāng de dōngtiān hěn lěng.",
+        "ExampleVi": "Mùa đông ở miền Bắc rất lạnh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "面包",
+        "Pinyin": "miànbāo",
+        "MeaningVi": "bánh mì",
+        "ExampleCn": "早上我喜欢吃面包。",
+        "ExamplePy": "Zǎoshang wǒ xǐhuān chī miànbāo.",
+        "ExampleVi": "Buổi sáng tôi thích ăn bánh mì."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "带",
+        "Pinyin": "dài",
+        "MeaningVi": "mang theo",
+        "ExampleCn": "别忘了带地图。",
+        "ExamplePy": "Bié wàng le dài dìtú.",
+        "ExampleVi": "Đừng quên mang theo bản đồ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "地图",
+        "Pinyin": "dìtú",
+        "MeaningVi": "bản đồ",
+        "ExampleCn": "我带了一张地图。",
+        "ExamplePy": "Wǒ dài le yī zhāng dìtú.",
+        "ExampleVi": "Tôi mang theo một tấm bản đồ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 1,
+        "HanZi": "搬",
+        "Pinyin": "bān",
+        "MeaningVi": "chuyển, dọn",
+        "ExampleCn": "我们下个月要搬家。",
+        "ExamplePy": "Wǒmen xià gè yuè yào bānjiā.",
+        "ExampleVi": "Tháng sau chúng tôi sẽ chuyển nhà."
+    }
+]

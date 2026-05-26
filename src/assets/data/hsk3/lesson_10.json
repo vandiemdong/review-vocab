@@ -1,0 +1,152 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "个子",
+        "Pinyin": "gèzi",
+        "MeaningVi": "vóc dáng, chiều cao",
+        "ExampleCn": "她的个子不高。",
+        "ExamplePy": "Tā de gèzi bù gāo.",
+        "ExampleVi": "Chiều cao của cô ấy không cao."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "矮",
+        "Pinyin": "ǎi",
+        "MeaningVi": "thấp (chiều cao)",
+        "ExampleCn": "他比我矮一点。",
+        "ExamplePy": "Tā bǐ wǒ ǎi yìdiǎn.",
+        "ExampleVi": "Anh ấy thấp hơn tôi một chút."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "历史",
+        "Pinyin": "lìshǐ",
+        "MeaningVi": "lịch sử",
+        "ExampleCn": "我对历史很感兴趣。",
+        "ExamplePy": "Wǒ duì lìshǐ hěn gǎn xìngqù.",
+        "ExampleVi": "Tôi rất hứng thú với lịch sử."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "体育",
+        "Pinyin": "tǐyù",
+        "MeaningVi": "thể dục, thể thao",
+        "ExampleCn": "他是体育老师。",
+        "ExamplePy": "Tā shì tǐyù lǎoshī.",
+        "ExampleVi": "Anh ấy là giáo viên thể dục."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "数学",
+        "Pinyin": "shùxué",
+        "MeaningVi": "toán học",
+        "ExampleCn": "她数学学得很好。",
+        "ExamplePy": "Tā shùxué xué de hěn hǎo.",
+        "ExampleVi": "Cô ấy học toán rất giỏi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "方便",
+        "Pinyin": "fāngbiàn",
+        "MeaningVi": "tiện lợi",
+        "ExampleCn": "住在这里很方便。",
+        "ExamplePy": "Zhù zài zhèlǐ hěn fāngbiàn.",
+        "ExampleVi": "Sống ở đây rất tiện lợi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "自行车",
+        "Pinyin": "zìxíngchē",
+        "MeaningVi": "xe đạp",
+        "ExampleCn": "他每天骑自行车上班。",
+        "ExamplePy": "Tā měitiān qí zìxíngchē shàngbān.",
+        "ExampleVi": "Anh ấy đi làm bằng xe đạp mỗi ngày."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "骑",
+        "Pinyin": "qí",
+        "MeaningVi": "cưỡi, đi (xe đạp, xe máy, ngựa)",
+        "ExampleCn": "我不会骑摩托车。",
+        "ExamplePy": "Wǒ bú huì qí mótuōchē.",
+        "ExampleVi": "Tôi không biết chạy mô tô."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "旧",
+        "Pinyin": "jiù",
+        "MeaningVi": "cũ",
+        "ExampleCn": "这件衣服太旧了。",
+        "ExamplePy": "Zhè jiàn yīfu tài jiù le.",
+        "ExampleVi": "Bộ quần áo này quá cũ rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "换",
+        "Pinyin": "huàn",
+        "MeaningVi": "đổi, thay",
+        "ExampleCn": "我想换一台新电脑。",
+        "ExamplePy": "Wǒ xiǎng huàn yì tái xīn diànnǎo.",
+        "ExampleVi": "Tôi muốn đổi một cái laptop mới."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "地方",
+        "Pinyin": "dìfang",
+        "MeaningVi": "nơi, địa điểm",
+        "ExampleCn": "这是一个安静的地方。",
+        "ExamplePy": "Zhè shì yí gè ānjìng de dìfang.",
+        "ExampleVi": "Đây là một nơi yên tĩnh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "中介",
+        "Pinyin": "zhōngjiè",
+        "MeaningVi": "trung gian (đặc biệt: môi giới nhà đất)",
+        "ExampleCn": "我通过中介找房子。",
+        "ExamplePy": "Wǒ tōngguò zhōngjiè zhǎo fángzi.",
+        "ExampleVi": "Tôi tìm nhà thông qua môi giới."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "主要",
+        "Pinyin": "zhǔyào",
+        "MeaningVi": "chủ yếu",
+        "ExampleCn": "我主要学习中文和英语。",
+        "ExamplePy": "Wǒ zhǔyào xuéxí Zhōngwén hé Yīngyǔ.",
+        "ExampleVi": "Tôi chủ yếu học tiếng Trung và tiếng Anh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "环境",
+        "Pinyin": "huánjìng",
+        "MeaningVi": "môi trường",
+        "ExampleCn": "这里的环境很好。",
+        "ExamplePy": "Zhèlǐ de huánjìng hěn hǎo.",
+        "ExampleVi": "Môi trường ở đây rất tốt."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 10,
+        "HanZi": "附近",
+        "Pinyin": "fùjìn",
+        "MeaningVi": "gần đây, vùng lân cận",
+        "ExampleCn": "我家附近有超市。",
+        "ExamplePy": "Wǒ jiā fùjìn yǒu chāoshì.",
+        "ExampleVi": "Gần nhà tôi có siêu thị."
+    }
+]

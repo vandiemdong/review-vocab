@@ -1,0 +1,152 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "眼睛",
+        "Pinyin": "yǎnjing",
+        "MeaningVi": "mắt",
+        "ExampleCn": "你的眼睛真漂亮。",
+        "ExamplePy": "Nǐ de yǎnjing zhēn piàoliang.",
+        "ExampleVi": "Mắt của bạn thật đẹp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "突然",
+        "Pinyin": "tūrán",
+        "MeaningVi": "đột nhiên, bỗng nhiên",
+        "ExampleCn": "他突然笑了起来。",
+        "ExamplePy": "Tā tūrán xiào le qǐlái.",
+        "ExampleVi": "Anh ấy đột nhiên bật cười."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "离开",
+        "Pinyin": "líkāi",
+        "MeaningVi": "rời khỏi, rời đi",
+        "ExampleCn": "他几点离开公司？",
+        "ExamplePy": "Tā jǐ diǎn líkāi gōngsī?",
+        "ExampleVi": "Anh ấy rời công ty lúc mấy giờ?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "清楚",
+        "Pinyin": "qīngchu",
+        "MeaningVi": "rõ ràng, rõ",
+        "ExampleCn": "我看不清楚。",
+        "ExamplePy": "Wǒ kàn bù qīngchu.",
+        "ExampleVi": "Tôi nhìn không rõ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "刚才",
+        "Pinyin": "gāngcái",
+        "MeaningVi": "lúc nãy, vừa nãy",
+        "ExampleCn": "刚才是谁在找你？",
+        "ExamplePy": "Gāngcái shì shéi zài zhǎo nǐ?",
+        "ExampleVi": "Lúc nãy ai tìm bạn vậy?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "帮忙",
+        "Pinyin": "bāngmáng",
+        "MeaningVi": "giúp đỡ",
+        "ExampleCn": "你能帮个忙吗？",
+        "ExamplePy": "Nǐ néng bāng ge máng ma?",
+        "ExampleVi": "Bạn giúp tôi một việc được không?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "特别",
+        "Pinyin": "tèbié",
+        "MeaningVi": "đặc biệt, rất",
+        "ExampleCn": "他特别喜欢运动。",
+        "ExamplePy": "Tā tèbié xǐhuan yùndòng.",
+        "ExampleVi": "Anh ấy đặc biệt thích thể thao."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "讲",
+        "Pinyin": "jiǎng",
+        "MeaningVi": "nói, kể, giảng",
+        "ExampleCn": "老师在讲故事。",
+        "ExamplePy": "Lǎoshī zài jiǎng gùshi.",
+        "ExampleVi": "Thầy giáo đang kể chuyện."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "明白",
+        "Pinyin": "míngbai",
+        "MeaningVi": "hiểu, rõ",
+        "ExampleCn": "我明白你的意思。",
+        "ExamplePy": "Wǒ míngbai nǐ de yìsi.",
+        "ExampleVi": "Tôi hiểu ý của bạn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "锻炼",
+        "Pinyin": "duànliàn",
+        "MeaningVi": "luyện tập, tập thể dục",
+        "ExampleCn": "我每天早上锻炼。",
+        "ExamplePy": "Wǒ měitiān zǎoshang duànliàn.",
+        "ExampleVi": "Mỗi sáng tôi đều tập thể dục."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "音乐",
+        "Pinyin": "yīnyuè",
+        "MeaningVi": "âm nhạc",
+        "ExampleCn": "我喜欢听音乐。",
+        "ExamplePy": "Wǒ xǐhuan tīng yīnyuè.",
+        "ExampleVi": "Tôi thích nghe nhạc."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "公园",
+        "Pinyin": "gōngyuán",
+        "MeaningVi": "công viên",
+        "ExampleCn": "我们在公园散步吧。",
+        "ExamplePy": "Wǒmen zài gōngyuán sànbù ba.",
+        "ExampleVi": "Chúng ta đi dạo trong công viên nhé."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "聊天",
+        "Pinyin": "liáotiān",
+        "MeaningVi": "nói chuyện phiếm, tán gẫu",
+        "ExampleCn": "她喜欢跟朋友聊天。",
+        "ExamplePy": "Tā xǐhuan gēn péngyou liáotiān.",
+        "ExampleVi": "Cô ấy thích tán gẫu với bạn bè."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "睡着",
+        "Pinyin": "shuìzháo",
+        "MeaningVi": "ngủ thiếp, ngủ mất",
+        "ExampleCn": "他累得马上睡着了。",
+        "ExamplePy": "Tā lèi de mǎshàng shuìzháo le.",
+        "ExampleVi": "Anh ấy mệt đến mức ngủ ngay lập tức."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 6,
+        "HanZi": "更",
+        "Pinyin": "gèng",
+        "MeaningVi": "càng, hơn nữa",
+        "ExampleCn": "现在更冷了。",
+        "ExamplePy": "Xiànzài gèng lěng le.",
+        "ExampleVi": "Bây giờ càng lạnh hơn."
+    }
+]

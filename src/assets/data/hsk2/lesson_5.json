@@ -1,0 +1,142 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "外面",
+        "Pinyin": "wàimiàn",
+        "MeaningVi": "bên ngoài",
+        "ExampleCn": "外面下雨了。",
+        "ExamplePy": "Wàimiàn xiàyǔ le.",
+        "ExampleVi": "Bên ngoài đang mưa."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "准备",
+        "Pinyin": "zhǔnbèi",
+        "MeaningVi": "chuẩn bị",
+        "ExampleCn": "我准备明天去北京。",
+        "ExamplePy": "Wǒ zhǔnbèi míngtiān qù Běijīng.",
+        "ExampleVi": "Tôi chuẩn bị ngày mai đi Bắc Kinh."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "就",
+        "Pinyin": "jiù",
+        "MeaningVi": "thì, liền, lập tức",
+        "ExampleCn": "我到了就给你打电话。",
+        "ExamplePy": "Wǒ dào le jiù gěi nǐ dǎ diànhuà.",
+        "ExampleVi": "Tôi đến nơi là gọi cho bạn ngay."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "鱼",
+        "Pinyin": "yú",
+        "MeaningVi": "cá",
+        "ExampleCn": "我不太喜欢吃鱼。",
+        "ExamplePy": "Wǒ bú tài xǐhuan chī yú.",
+        "ExampleVi": "Tôi không thích ăn cá lắm."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "吧",
+        "Pinyin": "ba",
+        "MeaningVi": "(trợ từ đề nghị, rủ rê)",
+        "ExampleCn": "我们走吧。",
+        "ExamplePy": "Wǒmen zǒu ba.",
+        "ExampleVi": "Chúng ta đi thôi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "件",
+        "Pinyin": "jiàn",
+        "MeaningVi": "cái, chiếc (lượng từ cho quần áo, sự việc)",
+        "ExampleCn": "这件衣服很好看。",
+        "ExamplePy": "Zhè jiàn yīfu hěn hǎokàn.",
+        "ExampleVi": "Bộ quần áo này rất đẹp."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "还",
+        "Pinyin": "hái",
+        "MeaningVi": "vẫn còn, còn",
+        "ExampleCn": "我还在工作。",
+        "ExamplePy": "Wǒ hái zài gōngzuò.",
+        "ExampleVi": "Tôi vẫn đang làm việc."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "可以",
+        "Pinyin": "kěyǐ",
+        "MeaningVi": "có thể",
+        "ExampleCn": "你可以帮我吗？",
+        "ExamplePy": "Nǐ kěyǐ bāng wǒ ma?",
+        "ExampleVi": "Bạn có thể giúp tôi không?"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "不错",
+        "Pinyin": "búcuò",
+        "MeaningVi": "không tệ, khá tốt",
+        "ExampleCn": "你的中文不错。",
+        "ExamplePy": "Nǐ de Zhōngwén búcuò.",
+        "ExampleVi": "Tiếng Trung của bạn khá tốt đấy."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "考试",
+        "Pinyin": "kǎoshì",
+        "MeaningVi": "kỳ thi, kiểm tra",
+        "ExampleCn": "明天有中文考试。",
+        "ExamplePy": "Míngtiān yǒu Zhōngwén kǎoshì.",
+        "ExampleVi": "Ngày mai có bài kiểm tra tiếng Trung."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "意思",
+        "Pinyin": "yìsi",
+        "MeaningVi": "ý nghĩa",
+        "ExampleCn": "这个词是什么意思？",
+        "ExamplePy": "Zhège cí shì shénme yìsi?",
+        "ExampleVi": "Từ này có nghĩa là gì?"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "咖啡",
+        "Pinyin": "kāfēi",
+        "MeaningVi": "cà phê",
+        "ExampleCn": "我每天早上喝咖啡。",
+        "ExamplePy": "Wǒ měitiān zǎoshang hē kāfēi.",
+        "ExampleVi": "Mỗi sáng tôi uống cà phê."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "对",
+        "Pinyin": "duì",
+        "MeaningVi": "đúng, đối với",
+        "ExampleCn": "你说得对。",
+        "ExamplePy": "Nǐ shuō de duì.",
+        "ExampleVi": "Bạn nói đúng."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 5,
+        "HanZi": "以后",
+        "Pinyin": "yǐhòu",
+        "MeaningVi": "sau này, sau khi",
+        "ExampleCn": "以后我想住在中国。",
+        "ExamplePy": "Yǐhòu wǒ xiǎng zhù zài Zhōngguó.",
+        "ExampleVi": "Sau này tôi muốn sống ở Trung Quốc."
+    }
+]

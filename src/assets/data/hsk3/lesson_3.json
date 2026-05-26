@@ -1,0 +1,172 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "还是",
+        "Pinyin": "háishì",
+        "MeaningVi": "hay là (trong câu hỏi lựa chọn); vẫn là (nhấn mạnh sự lựa chọn tốt hơn)",
+        "ExampleCn": "我们坐出租车还是坐地铁？",
+        "ExamplePy": "Wǒmen zuò chūzūchē háishì zuò dìtiě?",
+        "ExampleVi": "Chúng ta đi taxi hay là tàu điện ngầm?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "爬山",
+        "Pinyin": "páshān",
+        "MeaningVi": "leo núi",
+        "ExampleCn": "我们周末去爬山吧。",
+        "ExamplePy": "Wǒmen zhōumò qù páshān ba.",
+        "ExampleVi": "Cuối tuần chúng ta đi leo núi nhé."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "小心",
+        "Pinyin": "xiǎoxīn",
+        "MeaningVi": "cẩn thận",
+        "ExampleCn": "过马路要小心。",
+        "ExamplePy": "Guò mǎlù yào xiǎoxīn.",
+        "ExampleVi": "Qua đường phải cẩn thận."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "条",
+        "Pinyin": "tiáo",
+        "MeaningVi": "chiếc, cái (lượng từ cho vật dài như quần, váy, cá, đường...)",
+        "ExampleCn": "一条裤子",
+        "ExamplePy": "Yì tiáo kùzi",
+        "ExampleVi": "một cái quần"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "裤子",
+        "Pinyin": "kùzi",
+        "MeaningVi": "quần",
+        "ExampleCn": "我买了一条裤子。",
+        "ExamplePy": "Wǒ mǎi le yì tiáo kùzi.",
+        "ExampleVi": "Tôi mua một cái quần."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "记得",
+        "Pinyin": "jìde",
+        "MeaningVi": "nhớ (mang nghĩa “ghi nhớ”)",
+        "ExampleCn": "你记得他的名字吗？",
+        "ExamplePy": "Nǐ jìde tā de míngzi ma?",
+        "ExampleVi": "Bạn có nhớ tên anh ấy không?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "衬衫",
+        "Pinyin": "chènshān",
+        "MeaningVi": "áo sơ mi",
+        "ExampleCn": "我今天穿白色衬衫。",
+        "ExamplePy": "Wǒ jīntiān chuān báisè chènshān.",
+        "ExampleVi": "Hôm nay tôi mặc áo sơ mi trắng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "元",
+        "Pinyin": "yuán",
+        "MeaningVi": "đơn vị tiền Trung Quốc (tệ)",
+        "ExampleCn": "这件衣服一百元。",
+        "ExamplePy": "Zhè jiàn yīfu yì bǎi yuán.",
+        "ExampleVi": "Cái áo này giá 100 tệ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "新鲜",
+        "Pinyin": "xīnxiān",
+        "MeaningVi": "tươi (đồ ăn, không khí...)",
+        "ExampleCn": "水果很新鲜。",
+        "ExamplePy": "Shuǐguǒ hěn xīnxiān.",
+        "ExampleVi": "Trái cây rất tươi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "甜",
+        "Pinyin": "tián",
+        "MeaningVi": "ngọt",
+        "ExampleCn": "蛋糕很甜。",
+        "ExamplePy": "Dàngāo hěn tián.",
+        "ExampleVi": "Bánh ngọt rất ngọt."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "只",
+        "Pinyin": "zhǐ",
+        "MeaningVi": "chỉ (biểu thị giới hạn)",
+        "ExampleCn": "我只有一条裤子。",
+        "ExamplePy": "Wǒ zhǐ yǒu yì tiáo kùzi.",
+        "ExampleVi": "Tôi chỉ có một cái quần."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "放",
+        "Pinyin": "fàng",
+        "MeaningVi": "đặt, để; bỏ (gia vị...)",
+        "ExampleCn": "把书放在桌子上。",
+        "ExamplePy": "Bǎ shū fàng zài zhuōzi shàng.",
+        "ExampleVi": "Đặt quyển sách lên bàn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "饮料",
+        "Pinyin": "yǐnliào",
+        "MeaningVi": "đồ uống",
+        "ExampleCn": "我喜欢喝冷饮料。",
+        "ExamplePy": "Wǒ xǐhuan hē lěng yǐnliào.",
+        "ExampleVi": "Tôi thích uống đồ lạnh."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "或者",
+        "Pinyin": "huòzhě",
+        "MeaningVi": "hoặc (dùng trong câu trần thuật)",
+        "ExampleCn": "我们坐车或者走路都可以。",
+        "ExamplePy": "Wǒmen zuò chē huòzhě zǒulù dōu kěyǐ.",
+        "ExampleVi": "Chúng ta đi xe hoặc đi bộ đều được."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "舒服",
+        "Pinyin": "shūfu",
+        "MeaningVi": "dễ chịu, thoải mái",
+        "ExampleCn": "这件衣服很舒服。",
+        "ExamplePy": "Zhè jiàn yīfu hěn shūfu.",
+        "ExampleVi": "Bộ quần áo này rất thoải mái."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "花",
+        "Pinyin": "huā",
+        "MeaningVi": "hoa; tiêu (tiền / thời gian)",
+        "ExampleCn": "她喜欢花。",
+        "ExamplePy": "Tā xǐhuan huā.",
+        "ExampleVi": "Cô ấy thích hoa."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 3,
+        "HanZi": "绿",
+        "Pinyin": "lǜ",
+        "MeaningVi": "màu xanh lá cây",
+        "ExampleCn": "我喜欢绿的衣服。",
+        "ExamplePy": "Wǒ xǐhuan lǜ de yīfu.",
+        "ExampleVi": "Tôi thích quần áo màu xanh lá cây."
+    }
+]

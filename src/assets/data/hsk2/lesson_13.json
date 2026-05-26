@@ -1,0 +1,122 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "着",
+        "Pinyin": "zhe",
+        "MeaningVi": "trợ từ diễn tả hành động đang diễn ra",
+        "ExampleCn": "他笑着说话。",
+        "ExamplePy": "Tā xiàozhe shuōhuà.",
+        "ExampleVi": "Anh ấy vừa cười vừa nói."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "手",
+        "Pinyin": "shǒu",
+        "MeaningVi": "tay",
+        "ExampleCn": "她的手很冷。",
+        "ExamplePy": "Tā de shǒu hěn lěng.",
+        "ExampleVi": "Tay của cô ấy rất lạnh."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "拿",
+        "Pinyin": "ná",
+        "MeaningVi": "cầm, lấy",
+        "ExampleCn": "请帮我拿一下。",
+        "ExamplePy": "Qǐng bāng wǒ ná yíxià.",
+        "ExampleVi": "Làm ơn giúp tôi cầm một chút."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "铅笔",
+        "Pinyin": "qiānbǐ",
+        "MeaningVi": "bút chì",
+        "ExampleCn": "我用铅笔写字。",
+        "ExamplePy": "Wǒ yòng qiānbǐ xiězì.",
+        "ExampleVi": "Tôi viết chữ bằng bút chì."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "杨枭枭",
+        "Pinyin": "Yáng Xiāoxiāo",
+        "MeaningVi": "(tên riêng: Dương Tiêu Tiêu)",
+        "ExampleCn": "杨枭枭是我们的同学。",
+        "ExamplePy": "Yáng Xiāoxiāo shì wǒmen de tóngxué.",
+        "ExampleVi": "Dương Tiêu Tiêu là bạn học của chúng tôi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "班",
+        "Pinyin": "bān",
+        "MeaningVi": "lớp, nhóm",
+        "ExampleCn": "我们班有二十个学生。",
+        "ExamplePy": "Wǒmen bān yǒu èrshí gè xuéshēng.",
+        "ExampleVi": "Lớp chúng tôi có 20 học sinh."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "长",
+        "Pinyin": "zhǎng",
+        "MeaningVi": "sinh ra, lớn lên, mọc (dùng cho tóc, cây, con người lớn lên)",
+        "ExampleCn": "我的头发长长了。他在北京长大。",
+        "ExamplePy": "Wǒ de tóufa zhǎng cháng le. Tā zài Běijīng zhǎngdà.",
+        "ExampleVi": "Tóc của tôi mọc dài rồi. Anh ấy sinh ra và lớn lên ở Bắc Kinh."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "笑",
+        "Pinyin": "xiào",
+        "MeaningVi": "cười",
+        "ExampleCn": "她笑得很开心。",
+        "ExamplePy": "Tā xiào de hěn kāixīn.",
+        "ExampleVi": "Cô ấy cười rất vui vẻ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "宾馆",
+        "Pinyin": "bīnguǎn",
+        "MeaningVi": "khách sạn",
+        "ExampleCn": "宾馆离这里不远。",
+        "ExamplePy": "Bīnguǎn lí zhèlǐ bù yuǎn.",
+        "ExampleVi": "Khách sạn cách đây không xa."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "一直",
+        "Pinyin": "yìzhí",
+        "MeaningVi": "luôn, thẳng, suốt",
+        "ExampleCn": "一直往前走。",
+        "ExamplePy": "Yìzhí wǎng qián zǒu.",
+        "ExampleVi": "Cứ đi thẳng về phía trước."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "往",
+        "Pinyin": "wǎng",
+        "MeaningVi": "hướng, về phía",
+        "ExampleCn": "往左走。",
+        "ExamplePy": "Wǎng zuǒ zǒu.",
+        "ExampleVi": "Đi về bên trái."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 13,
+        "HanZi": "路口",
+        "Pinyin": "lùkǒu",
+        "MeaningVi": "ngã rẽ, giao lộ",
+        "ExampleCn": "到路口右转。",
+        "ExamplePy": "Dào lùkǒu yòu zhuǎn.",
+        "ExampleVi": "Đến ngã rẽ thì quẹo phải."
+    }
+]

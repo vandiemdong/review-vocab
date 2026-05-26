@@ -1,0 +1,122 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "久",
+        "Pinyin": "jiǔ",
+        "MeaningVi": "lâu",
+        "ExampleCn": "我等你很久了。",
+        "ExamplePy": "Wǒ děng nǐ hěn jiǔ le.",
+        "ExampleVi": "Tôi đã đợi bạn rất lâu rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "多久",
+        "Pinyin": "duō jiǔ",
+        "MeaningVi": "bao lâu",
+        "ExampleCn": "你学汉语学了多久？",
+        "ExamplePy": "Nǐ xué hànyǔ xué le duōjiǔ?",
+        "ExampleVi": "Bạn học tiếng Trung được bao lâu rồi?"
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "感兴趣",
+        "Pinyin": "gǎn xìng qù",
+        "MeaningVi": "có hứng thú",
+        "ExampleCn": "我对历史很感兴趣。",
+        "ExamplePy": "Wǒ duì lìshǐ hěn gǎn xìngqù.",
+        "ExampleVi": "Tôi rất có hứng thú với lịch sử."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "对…感兴趣",
+        "Pinyin": "duì...gǎn xìng qù",
+        "MeaningVi": "hứng thú với…",
+        "ExampleCn": "他对音乐感兴趣。",
+        "ExamplePy": "Tā duì yīnyuè gǎn xìngqù.",
+        "ExampleVi": "Anh ấy có hứng thú với âm nhạc."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "同事",
+        "Pinyin": "tóng shì",
+        "MeaningVi": "đồng nghiệp",
+        "ExampleCn": "我跟同事一起吃午饭。",
+        "ExamplePy": "Wǒ gēn tóngshì yìqǐ chī wǔfàn.",
+        "ExampleVi": "Tôi ăn trưa cùng đồng nghiệp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "银行",
+        "Pinyin": "yín háng",
+        "MeaningVi": "ngân hàng",
+        "ExampleCn": "他在银行工作。",
+        "ExamplePy": "Tā zài yínháng gōngzuò.",
+        "ExampleVi": "Anh ấy làm việc ở ngân hàng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "结婚",
+        "Pinyin": "jié hūn",
+        "MeaningVi": "kết hôn",
+        "ExampleCn": "他们明年结婚。",
+        "ExamplePy": "Tāmen míngnián jiéhūn.",
+        "ExampleVi": "Họ sẽ kết hôn vào năm sau."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "迟到",
+        "Pinyin": "chí dào",
+        "MeaningVi": "đến muộn",
+        "ExampleCn": "上课不能迟到。",
+        "ExamplePy": "Shàngkè bù néng chídào.",
+        "ExampleVi": "Không được đến muộn trong giờ học."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "半",
+        "Pinyin": "bàn",
+        "MeaningVi": "nửa, một nửa",
+        "ExampleCn": "现在七点半。",
+        "ExamplePy": "Xiànzài qī diǎn bàn.",
+        "ExampleVi": "Bây giờ là 7 giờ rưỡi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "刻",
+        "Pinyin": "kè",
+        "MeaningVi": "15 phút (một khắc)",
+        "ExampleCn": "八点一刻上课。",
+        "ExamplePy": "Bā diǎn yí kè shàngkè.",
+        "ExampleVi": " 8 giờ 15 vào lớp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "一刻钟",
+        "Pinyin": "yí kè zhōng",
+        "MeaningVi": "một khắc (15 phút)",
+        "ExampleCn": "休息一刻钟吧。",
+        "ExamplePy": "Xiūxi yí kèzhōng ba.",
+        "ExampleVi": " Nghỉ ngơi 15 phút đi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 7,
+        "HanZi": "差",
+        "Pinyin": "chà",
+        "MeaningVi": "kém (giờ), thiếu",
+        "ExampleCn": "差十分九点。",
+        "ExamplePy": "Chà shí fēn jiǔ diǎn.",
+        "ExampleVi": " 9 giờ kém 10 phút."
+    }
+]

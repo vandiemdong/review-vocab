@@ -1,0 +1,152 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "终于",
+        "Pinyin": "zhōngyú",
+        "MeaningVi": "cuối cùng",
+        "ExampleCn": "我终于来了。",
+        "ExamplePy": "Wǒ zhōngyú lái le.",
+        "ExampleVi": "Cuối cùng tôi cũng đến rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "爷爷",
+        "Pinyin": "yéye",
+        "MeaningVi": "ông nội",
+        "ExampleCn": "爷爷很喜欢我。",
+        "ExamplePy": "Yéye hěn xǐhuan wǒ.",
+        "ExampleVi": "Ông nội rất thương tôi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "礼物",
+        "Pinyin": "lǐwù",
+        "MeaningVi": "quà tặng",
+        "ExampleCn": "我给你礼物。",
+        "ExamplePy": "Wǒ gěi nǐ lǐwù.",
+        "ExampleVi": "Tôi tặng bạn một món quà."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "奶奶",
+        "Pinyin": "nǎinai",
+        "MeaningVi": "bà nội",
+        "ExampleCn": "奶奶做饭很好吃。",
+        "ExamplePy": "Nǎinai zuò fàn hěn hǎo chī.",
+        "ExampleVi": "Bà nội nấu ăn rất ngon."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "遇到",
+        "Pinyin": "yùdào",
+        "MeaningVi": "gặp phải",
+        "ExampleCn": "我遇到朋友了。",
+        "ExamplePy": "Wǒ yùdào péngyǒu le.",
+        "ExampleVi": "Tôi gặp bạn rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "一边",
+        "Pinyin": "yìbiān",
+        "MeaningVi": "vừa… vừa…",
+        "ExampleCn": "我一边走一边听音乐。",
+        "ExamplePy": "Wǒ yìbiān zǒu yìbiān tīng yīnyuè.",
+        "ExampleVi": "Tôi vừa đi vừa nghe nhạc."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "过去",
+        "Pinyin": "guòqù",
+        "MeaningVi": "quá khứ, đi qua",
+        "ExampleCn": "时间过去了。",
+        "ExamplePy": "Shíjiān guòqù le.",
+        "ExampleVi": "Thời gian đã trôi qua."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "一般",
+        "Pinyin": "yìbān",
+        "MeaningVi": "thông thường",
+        "ExampleCn": "我一般早上起床。",
+        "ExamplePy": "Wǒ yìbān zǎoshang qǐchuáng.",
+        "ExampleVi": "Tôi thường dậy vào buổi sáng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "愿意",
+        "Pinyin": "yuànyì",
+        "MeaningVi": "bằng lòng, sẵn lòng",
+        "ExampleCn": "我愿意帮你。",
+        "ExamplePy": "Wǒ yuànyì bāng nǐ.",
+        "ExampleVi": "Tôi sẵn lòng giúp bạn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "起来",
+        "Pinyin": "qǐlai",
+        "MeaningVi": "đứng dậy; bắt đầu",
+        "ExampleCn": "他站起来了。",
+        "ExamplePy": "Tā zhàn qǐlai le.",
+        "ExampleVi": "Anh ấy đã đứng dậy rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "应该",
+        "Pinyin": "yīnggāi",
+        "MeaningVi": "nên, phải",
+        "ExampleCn": "你应该学习。",
+        "ExamplePy": "Nǐ yīnggāi xuéxí.",
+        "ExampleVi": "Bạn nên học."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "生活",
+        "Pinyin": "shēnghuó",
+        "MeaningVi": "cuộc sống",
+        "ExampleCn": "生活很美好。",
+        "ExamplePy": "Shēnghuó hěn měihǎo.",
+        "ExampleVi": "Cuộc sống rất tươi đẹp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "校长",
+        "Pinyin": "xiàozhǎng",
+        "MeaningVi": "hiệu trưởng",
+        "ExampleCn": "校长来了。",
+        "ExamplePy": "Xiàozhǎng lái le.",
+        "ExampleVi": "Hiệu trưởng đến rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "坏",
+        "Pinyin": "huài",
+        "MeaningVi": "hư, xấu, hỏng",
+        "ExampleCn": "手机坏了。",
+        "ExamplePy": "Shǒujī huài le.",
+        "ExampleVi": "Điện thoại bị hỏng rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 13,
+        "HanZi": "经常",
+        "Pinyin": "jīngcháng",
+        "MeaningVi": "thường xuyên",
+        "ExampleCn": "我经常去跑步。",
+        "ExamplePy": "Wǒ jīngcháng qù pǎobù.",
+        "ExampleVi": "Tôi thường xuyên đi chạy bộ."
+    }
+]

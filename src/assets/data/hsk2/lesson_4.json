@@ -1,0 +1,132 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "生日",
+        "Pinyin": "shēngrì",
+        "MeaningVi": "sinh nhật",
+        "ExampleCn": "明天是我的生日。",
+        "ExamplePy": "Míngtiān shì wǒ de shēngrì.",
+        "ExampleVi": "Ngày mai là sinh nhật của tôi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "快乐",
+        "Pinyin": "kuàilè",
+        "MeaningVi": "vui vẻ, hạnh phúc",
+        "ExampleCn": "祝你生日快乐！",
+        "ExamplePy": "Zhù nǐ shēngrì kuàilè!",
+        "ExampleVi": "Chúc bạn sinh nhật vui vẻ!"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "给",
+        "Pinyin": "gěi",
+        "MeaningVi": "cho, tặng, đưa cho",
+        "ExampleCn": "我给你打电话。",
+        "ExamplePy": "Wǒ gěi nǐ dǎ diànhuà.",
+        "ExampleVi": "Tôi gọi điện cho bạn."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "接",
+        "Pinyin": "jiē",
+        "MeaningVi": "đón, nhận (điện thoại)",
+        "ExampleCn": "我去机场接你。",
+        "ExamplePy": "Wǒ qù jīchǎng jiē nǐ.",
+        "ExampleVi": "Tôi ra sân bay đón bạn."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "晚上",
+        "Pinyin": "wǎnshang",
+        "MeaningVi": "buổi tối",
+        "ExampleCn": "我晚上要开会。",
+        "ExamplePy": "Wǒ wǎnshang yào kāihuì.",
+        "ExampleVi": "Tối nay tôi phải họp."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "问",
+        "Pinyin": "wèn",
+        "MeaningVi": "hỏi",
+        "ExampleCn": "我可以问你一个问题吗？",
+        "ExamplePy": "Wǒ kěyǐ wèn nǐ yí gè wèntí ma?",
+        "ExampleVi": "Tôi có thể hỏi bạn một câu được không?"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "非常",
+        "Pinyin": "fēicháng",
+        "MeaningVi": "vô cùng, rất",
+        "ExampleCn": "我非常喜欢这里。",
+        "ExamplePy": "Wǒ fēicháng xǐhuan zhèlǐ.",
+        "ExampleVi": "Tôi rất thích nơi này."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "开始",
+        "Pinyin": "kāishǐ",
+        "MeaningVi": "bắt đầu",
+        "ExampleCn": "会议八点开始。",
+        "ExamplePy": "Huìyì bā diǎn kāishǐ.",
+        "ExampleVi": "Cuộc họp bắt đầu lúc 8 giờ."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "已经",
+        "Pinyin": "yǐjīng",
+        "MeaningVi": "đã",
+        "ExampleCn": "我已经吃过饭了。",
+        "ExamplePy": "Wǒ yǐjīng chī guo fàn le.",
+        "ExampleVi": "Tôi đã ăn cơm rồi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "长",
+        "Pinyin": "cháng",
+        "MeaningVi": "dài",
+        "ExampleCn": "她的头发很长。",
+        "ExamplePy": "Tā de tóufa hěn cháng.",
+        "ExampleVi": "Tóc của cô ấy rất dài."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "两",
+        "Pinyin": "liǎng",
+        "MeaningVi": "hai (lượng từ)",
+        "ExampleCn": "我有两个哥哥。",
+        "ExamplePy": "Wǒ yǒu liǎng gè gēge.",
+        "ExampleVi": "Tôi có hai anh trai."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "帮",
+        "Pinyin": "bāng",
+        "MeaningVi": "giúp",
+        "ExampleCn": "你能帮我一下吗？",
+        "ExamplePy": "Nǐ néng bāng wǒ yíxià ma?",
+        "ExampleVi": "Bạn giúp tôi một chút được không?"
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 4,
+        "HanZi": "介绍",
+        "Pinyin": "jièshào",
+        "MeaningVi": "giới thiệu",
+        "ExampleCn": "我来介绍一下我的朋友。",
+        "ExamplePy": "Wǒ lái jièshào yíxià wǒ de péngyou.",
+        "ExampleVi": "Tôi xin giới thiệu bạn của tôi."
+    }
+]

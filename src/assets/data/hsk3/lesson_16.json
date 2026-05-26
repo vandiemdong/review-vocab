@@ -1,0 +1,162 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "城市",
+        "Pinyin": "chéngshì",
+        "MeaningVi": "thành phố",
+        "ExampleCn": "这个城市很漂亮。",
+        "ExamplePy": "Zhège chéngshì hěn piàoliang.",
+        "ExampleVi": "Thành phố này rất đẹp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "如果",
+        "Pinyin": "rúguǒ",
+        "MeaningVi": "nếu như",
+        "ExampleCn": "如果下雨，我就不去。",
+        "ExamplePy": "Rúguǒ xiàyǔ, wǒ jiù bú qù.",
+        "ExampleVi": "Nếu trời mưa thì tôi sẽ không đi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "认为",
+        "Pinyin": "rènwéi",
+        "MeaningVi": "cho rằng, nghĩ rằng",
+        "ExampleCn": "我认为他说得对。",
+        "ExamplePy": "Wǒ rènwéi tā shuō de duì.",
+        "ExampleVi": "Tôi cho rằng anh ấy nói đúng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "皮鞋",
+        "Pinyin": "píxié",
+        "MeaningVi": "giày da",
+        "ExampleCn": "他的皮鞋很新。",
+        "ExamplePy": "Tā de píxié hěn xīn.",
+        "ExampleVi": "Đôi giày da của anh ấy rất mới."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "帽子",
+        "Pinyin": "màozi",
+        "MeaningVi": "mũ, nón",
+        "ExampleCn": "她戴了一顶帽子。",
+        "ExamplePy": "Tā dài le yì dǐng màozi.",
+        "ExampleVi": "Cô ấy đội một cái mũ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "长",
+        "Pinyin": "cháng",
+        "MeaningVi": "dài",
+        "ExampleCn": "这条裤子有点儿长。",
+        "ExamplePy": "Zhè tiáo kùzi yǒudiǎnr cháng.",
+        "ExampleVi": "Chiếc quần này hơi dài."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "可爱",
+        "Pinyin": "kě’ài",
+        "MeaningVi": "dễ thương",
+        "ExampleCn": "这个孩子非常可爱。",
+        "ExamplePy": "Zhège háizi fēicháng kě’ài.",
+        "ExampleVi": "Đứa trẻ này rất dễ thương."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "米",
+        "Pinyin": "mǐ",
+        "MeaningVi": "mét",
+        "ExampleCn": "他一米八高。",
+        "ExamplePy": "Tā yì mǐ bā gāo.",
+        "ExampleVi": "Anh ấy cao 1m8."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "公斤",
+        "Pinyin": "gōngjīn",
+        "MeaningVi": "kilogram",
+        "ExampleCn": "这个西瓜有三公斤。",
+        "ExamplePy": "Zhège xīguā yǒu sān gōngjīn.",
+        "ExampleVi": "Quả dưa hấu này nặng 3kg."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "鼻子",
+        "Pinyin": "bízi",
+        "MeaningVi": "mũi",
+        "ExampleCn": "他的鼻子很高。",
+        "ExamplePy": "Tā de bízi hěn gāo.",
+        "ExampleVi": "Mũi của anh ấy rất cao."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "头发",
+        "Pinyin": "tóufa",
+        "MeaningVi": "tóc",
+        "ExampleCn": "她的头发很长。",
+        "ExamplePy": "Tā de tóufa hěn cháng.",
+        "ExampleVi": "Tóc của cô ấy rất dài."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "检查",
+        "Pinyin": "jiǎnchá",
+        "MeaningVi": "kiểm tra",
+        "ExampleCn": "医生在检查我。",
+        "ExamplePy": "Yīshēng zài jiǎnchá wǒ.",
+        "ExampleVi": "Bác sĩ đang kiểm tra cho tôi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "刷牙",
+        "Pinyin": "shuāyá",
+        "MeaningVi": "đánh răng",
+        "ExampleCn": "我每天早上刷牙。",
+        "ExamplePy": "Wǒ měitiān zǎoshang shuāyá.",
+        "ExampleVi": "Mỗi sáng tôi đều đánh răng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "关系",
+        "Pinyin": "guānxì",
+        "MeaningVi": "quan hệ, liên quan",
+        "ExampleCn": "这件事跟我没有关系。",
+        "ExamplePy": "Zhè jiàn shì gēn wǒ méiyǒu guānxì.",
+        "ExampleVi": "Việc này không liên quan đến tôi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "别人",
+        "Pinyin": "biérén",
+        "MeaningVi": "người khác",
+        "ExampleCn": "别人的东西不要拿。",
+        "ExamplePy": "Biérén de dōngxi bú yào ná.",
+        "ExampleVi": "Không được lấy đồ của người khác."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 16,
+        "HanZi": "词语",
+        "Pinyin": "cíyǔ",
+        "MeaningVi": "từ ngữ",
+        "ExampleCn": "这些词语很有意思。",
+        "ExamplePy": "Zhèxiē cíyǔ hěn yǒu yìsi.",
+        "ExampleVi": "Những từ ngữ này rất thú vị."
+    }
+]

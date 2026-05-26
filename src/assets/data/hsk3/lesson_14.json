@@ -1,0 +1,172 @@
+[
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "打扫",
+        "Pinyin": "dǎsǎo",
+        "MeaningVi": "quét dọn, dọn dẹp",
+        "ExampleCn": "我打扫房间。",
+        "ExamplePy": "Wǒ dǎsǎo fángjiān.",
+        "ExampleVi": "Tôi dọn phòng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "干净",
+        "Pinyin": "gānjìng",
+        "MeaningVi": "sạch sẽ",
+        "ExampleCn": "房间很干净。",
+        "ExamplePy": "Fángjiān hěn gānjìng.",
+        "ExampleVi": "Phòng rất sạch sẽ."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "然后",
+        "Pinyin": "ránhòu",
+        "MeaningVi": "sau đó",
+        "ExampleCn": "我吃饭，然后去洗澡。",
+        "ExamplePy": "Wǒ chī fàn, ránhòu qù xǐzǎo.",
+        "ExampleVi": "Tôi ăn cơm, sau đó đi tắm."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "冰箱",
+        "Pinyin": "bīngxiāng",
+        "MeaningVi": "tủ lạnh",
+        "ExampleCn": "冰箱里有水果。",
+        "ExamplePy": "Bīngxiāng lǐ yǒu shuǐguǒ.",
+        "ExampleVi": "Trong tủ lạnh có trái cây."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "洗澡",
+        "Pinyin": "xǐzǎo",
+        "MeaningVi": "tắm rửa",
+        "ExampleCn": "我早上洗澡。",
+        "ExamplePy": "Wǒ zǎoshang xǐzǎo.",
+        "ExampleVi": "Tôi tắm vào buổi sáng."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "节目",
+        "Pinyin": "jiémù",
+        "MeaningVi": "chương trình",
+        "ExampleCn": "我喜欢这个节目。",
+        "ExamplePy": "Wǒ xǐhuan zhège jiémù.",
+        "ExampleVi": "Tôi thích chương trình này."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "月亮",
+        "Pinyin": "yuèliang",
+        "MeaningVi": "mặt trăng",
+        "ExampleCn": "今天的月亮很圆。",
+        "ExamplePy": "Jīntiān de yuèliang hěn yuán.",
+        "ExampleVi": "Mặt trăng hôm nay rất tròn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "像",
+        "Pinyin": "xiàng",
+        "MeaningVi": "giống như, trông như",
+        "ExampleCn": "你像我朋友。",
+        "ExamplePy": "Nǐ xiàng wǒ péngyǒu.",
+        "ExampleVi": "Bạn trông giống bạn tôi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "盘子",
+        "Pinyin": "pánzi",
+        "MeaningVi": "cái đĩa",
+        "ExampleCn": "桌子上有一个盘子。",
+        "ExamplePy": "Zhuōzi shàng yǒu yí gè pánzi.",
+        "ExampleVi": "Trên bàn có một cái đĩa."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "刮风",
+        "Pinyin": "guāfēng",
+        "MeaningVi": "gió thổi, có gió",
+        "ExampleCn": "今天刮风了。",
+        "ExamplePy": "Jīntiān guāfēng le.",
+        "ExampleVi": "Hôm nay có gió."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "叔叔",
+        "Pinyin": "shūshu",
+        "MeaningVi": "chú (em trai bố)",
+        "ExampleCn": "叔叔来了。",
+        "ExamplePy": "Shūshu lái le.",
+        "ExampleVi": "Chú đến rồi."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "阿姨",
+        "Pinyin": "āyí",
+        "MeaningVi": "dì (chị/em gái mẹ)",
+        "ExampleCn": "阿姨在厨房。",
+        "ExamplePy": "Āyí zài chúfáng.",
+        "ExampleVi": "Dì đang ở trong bếp."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "故事",
+        "Pinyin": "gùshi",
+        "MeaningVi": "câu chuyện",
+        "ExampleCn": "我喜欢听故事。",
+        "ExamplePy": "Wǒ xǐhuan tīng gùshi.",
+        "ExampleVi": "Tôi thích nghe kể chuyện."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "声音",
+        "Pinyin": "shēngyīn",
+        "MeaningVi": "âm thanh, giọng nói",
+        "ExampleCn": "她的声音很好听。",
+        "ExamplePy": "Tā de shēngyīn hěn hǎotīng.",
+        "ExampleVi": "Giọng cô ấy rất dễ nghe."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "菜单",
+        "Pinyin": "càidān",
+        "MeaningVi": "thực đơn",
+        "ExampleCn": "请给我菜单。",
+        "ExamplePy": "Qǐng gěi wǒ càidān.",
+        "ExampleVi": "Làm ơn đưa tôi thực đơn."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "简单",
+        "Pinyin": "jiǎndān",
+        "MeaningVi": "đơn giản",
+        "ExampleCn": "这个问题很简单。",
+        "ExamplePy": "Zhège wèntí hěn jiǎndān.",
+        "ExampleVi": "Câu hỏi này rất đơn giản."
+    },
+    {
+        "Hsk": 3,
+        "Lesson": 14,
+        "HanZi": "香蕉",
+        "Pinyin": "xiāngjiāo",
+        "MeaningVi": "chuối",
+        "ExampleCn": "我喜欢吃香蕉。",
+        "ExamplePy": "Wǒ xǐhuan chī xiāngjiāo.",
+        "ExampleVi": "Tôi thích ăn chuối."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "Hsk": 2,
+        "Lesson": 14,
+        "HanZi": "有意思",
+        "Pinyin": "yǒu yìsi",
+        "MeaningVi": "thú vị",
+        "ExampleCn": "这个电影很有意思。",
+        "ExamplePy": "Zhège diànyǐng hěn yǒu yìsi.",
+        "ExampleVi": "Bộ phim này rất thú vị."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 14,
+        "HanZi": "但是",
+        "Pinyin": "dànshì",
+        "MeaningVi": "nhưng mà",
+        "ExampleCn": "我想去，但是没有时间。",
+        "ExamplePy": "Wǒ xiǎng qù, dànshì méiyǒu shíjiān.",
+        "ExampleVi": "Tôi muốn đi, nhưng không có thời gian."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 14,
+        "HanZi": "虽然",
+        "Pinyin": "suīrán",
+        "MeaningVi": "tuy rằng",
+        "ExampleCn": "虽然下雨，我们还是去。",
+        "ExamplePy": "Suīrán xiàyǔ, wǒmen háishi qù.",
+        "ExampleVi": "Tuy trời mưa nhưng chúng tôi vẫn đi."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 14,
+        "HanZi": "次",
+        "Pinyin": "cì",
+        "MeaningVi": "lần",
+        "ExampleCn": "我去过两次中国。",
+        "ExamplePy": "Wǒ qù guo liǎng cì Zhōngguó.",
+        "ExampleVi": "Tôi đã đến Trung Quốc hai lần."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 14,
+        "HanZi": "玩儿 (玩)",
+        "Pinyin": "wánr / wán",
+        "MeaningVi": "chơi, đi chơi",
+        "ExampleCn": "他们在外面玩儿。",
+        "ExamplePy": "Tāmen zài wàimiàn wánr.",
+        "ExampleVi": "Bọn họ đang chơi ở bên ngoài."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 14,
+        "HanZi": "晴",
+        "Pinyin": "qíng",
+        "MeaningVi": "trời nắng, quang đãng",
+        "ExampleCn": "明天是晴天。",
+        "ExamplePy": "Míngtiān shì qíngtiān.",
+        "ExampleVi": "Ngày mai trời nắng."
+    },
+    {
+        "Hsk": 2,
+        "Lesson": 14,
+        "HanZi": "百",
+        "Pinyin": "bǎi",
+        "MeaningVi": "một trăm",
+        "ExampleCn": "一百块钱。",
+        "ExamplePy": "Yì bǎi kuài qián.",
+        "ExampleVi": "Một trăm tệ."
+    }
+]
