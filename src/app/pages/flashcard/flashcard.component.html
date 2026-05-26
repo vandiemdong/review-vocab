@@ -17,7 +17,7 @@
     </ng-container>
 
     <ng-container *ngIf="flipped">
-      <button class="sound">🔊</button>
+      <button class="sound" (click)="speak(currentWord.HanZi, $event)">🔊</button>
 
       <div class="hanzi small">{{ currentWord.HanZi }}</div>
       <h3>{{ currentWord.Pinyin }}</h3>

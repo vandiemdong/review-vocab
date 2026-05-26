@@ -47,4 +47,10 @@ export class FlashcardComponent implements OnInit {
       this.flipped = false;
     }
   }
+
+  speak(text: string, event: Event) {
+    event.stopPropagation();
+    const utterance = new SpeechSynthesisUtterance(text);
+    speechSynthesis.speak(utterance);
+  }
 }
