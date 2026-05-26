@@ -45,4 +45,26 @@
 
     <div class="lock">🔒</div>
   </div>
+  <div class="lesson-card" *ngFor="let lesson of lessons"
+    [routerLink]="['/hsk', hsk, 'lesson', lesson.Lesson, 'flashcard']">
+    <div class="lesson-icon">
+      {{ lesson.Icon }}
+    </div>
+
+    <div class="lesson-info">
+      <b>Lesson {{ lesson.Lesson }}</b>
+
+      <h3>{{ lesson.Title }}</h3>
+
+      <p>
+        {{ lesson.TotalWords }} words
+      </p>
+    </div>
+
+    <div class="circle-progress">
+      ▶
+    </div>
+  </div>
+
+
 </div>

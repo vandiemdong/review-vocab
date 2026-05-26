@@ -1,0 +1,22 @@
+.hsk-row {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+}
+
+.hsk-row button {
+  border: 1px solid #e5e7eb;
+  background: white;
+  border-radius: 999px;
+  padding: 10px 16px;
+  font-weight: 700;
+  color: #6b7280;
+  white-space: nowrap;
+}
+
+.hsk-row button.active {
+  background: #2563eb;
+  color: white;
+  border-color: #2563eb;
+}

@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+import { HskService } from '../hsk.service';
+import { forkJoin } from 'rxjs';
 
 @Component({
   selector: 'app-lessons',
@@ -7,9 +10,65 @@ import { Component, OnInit } from '@angular/core';
 })
 export class LessonsComponent implements OnInit {
 
-  constructor() { }
+  hsk = 0;
 
-  ngOnInit(): void {
+  lessons: any[] = [];
+
+  constructor(
+    private route: ActivatedRoute,
+    private hskService: HskService
+  ) { }
+
+  ngOnInit() {
+
+    this.route.params.subscribe(params => {
+
+      this.hsk = +params['hsk'];
+
+      this.loadLessons();
+
+    });
+
+  }
+
+  loadLessons() {
+
+    this.hskService
+      .getLessonIndex(this.hsk)
+      .subscribe(indexData => {
+
+        const requests = indexData.map((lesson: any) => {
+
+          return this.hskService
+            .getLessonWords(this.hsk, lesson.Lesson);
+
+        });
+
+        forkJoin(requests).subscribe(results => {
+
+          this.lessons = indexData.map(
+            (lesson: any, index: number) => {
+
+              const words = results[index];
+
+              return {
+                ...lesson,
+
+                TotalWords: words.length,
+
+                CompletedWords: 0,
+
+                Progress: 0,
+
+                Locked: false
+              };
+
+            });
+
+        });
+
+      });
+
   }
 
 }

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { HskService } from '../hsk.service';
 
 @Component({
   selector: 'app-home',
@@ -7,9 +8,22 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
-  constructor() { }
+  hskList: any[] = [];
+  selectedHsk: any = null;
 
-  ngOnInit(): void {
+  constructor(private hskService: HskService) { }
+
+  ngOnInit() {
+    this.hskService.getHskList().subscribe(data => {
+      this.hskList = data;
+
+      if (this.hskList.length > 0) {
+        this.selectedHsk = this.hskList[0];
+      }
+    });
   }
 
+  selectHsk(item: any) {
+    this.selectedHsk = item;
+  }
 }

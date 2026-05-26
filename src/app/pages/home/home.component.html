@@ -5,28 +5,49 @@
     <div class="streak">🔥 7</div>
   </div>
 
-  <div class="hero-card">
+  <div class="hero-card" *ngIf="selectedHsk">
     <div>
-      <h1>HSK 2</h1>
-      <p>Overall Progress</p>
-      <h2>80%</h2>
+      <h1>{{ selectedHsk.Title }}</h1>
+
+      <p>
+        {{ selectedHsk.TotalLessons }} Lessons •
+        {{ selectedHsk.TotalWords }} Words
+      </p>
+
+      <h2>{{ selectedHsk.Progress }}%</h2>
 
       <div class="progress-bg">
-        <div class="progress-fill" style="width: 80%"></div>
+        <div class="progress-fill" [style.width.%]="selectedHsk.Progress">
+        </div>
       </div>
+
+      <small>
+        {{ selectedHsk.CompletedWords }}
+        / {{ selectedHsk.TotalWords }}
+        mastered
+      </small>
     </div>
 
     <div class="panda">🐼</div>
   </div>
 
+  <h3>Choose HSK Level</h3>
+
+  <div class="hsk-row">
+    <button *ngFor="let item of hskList" [class.active]="selectedHsk?.Hsk === item.Hsk" (click)="selectHsk(item)">
+      HSK {{ item.Hsk }}
+    </button>
+  </div>
+
   <h3>Continue Learning</h3>
 
-  <div class="continue-card" routerLink="/hsk/2/lessons">
+  <div class="continue-card" *ngIf="selectedHsk" [routerLink]="['/hsk', selectedHsk.Hsk, 'lessons']">
     <div>
-      <b>Lesson 1 · 旅游</b>
-      <p>12 / 15 words</p>
+      <b>{{ selectedHsk.LastLessonTitle }}</b>
+      <p>{{ selectedHsk.CompletedWords }} / {{ selectedHsk.TotalWords }} words</p>
+
       <div class="small-progress">
-        <span style="width: 80%"></span>
+        <span [style.width.%]="selectedHsk.Progress"></span>
       </div>
     </div>
 
@@ -35,14 +56,14 @@
 
   <h3>Today's Plan</h3>
 
-  <div class="action-grid">
-    <div class="action-card" routerLink="/hsk/2/lessons">
+  <div class="action-grid" *ngIf="selectedHsk">
+    <div class="action-card" [routerLink]="['/hsk', selectedHsk.Hsk, 'lessons']">
       <div>📘</div>
       <b>Learn</b>
-      <small>15 words</small>
+      <small>{{ selectedHsk.TodayWords }} words</small>
     </div>
 
-    <div class="action-card" routerLink="/hsk/2/lesson/1/quiz">
+    <div class="action-card" [routerLink]="['/hsk', selectedHsk.Hsk, 'lesson', selectedHsk.LastLesson, 'quiz']">
       <div>❓</div>
       <b>Quiz</b>
       <small>12 mins</small>
@@ -51,7 +72,7 @@
     <div class="action-card" routerLink="/review">
       <div>🔁</div>
       <b>Review</b>
-      <small>18 words</small>
+      <small>{{ selectedHsk.ReviewWords }} words</small>
     </div>
 
     <div class="action-card">
