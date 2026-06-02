@@ -1,12 +1,42 @@
-<div class="topic-flashcard">
-  <h2>Flashcards</h2>
-  <div *ngIf="cards.length; else empty">
-    <div class="card" *ngFor="let card of cards">
-      <strong>{{ card.word }}</strong>
-      <span>{{ card.translation }}</span>
-    </div>
+<div class="flashcard-page" *ngIf="currentWord">
+  <div class="top-bar">
+    <button (click)="close()">×</button>
+    <div>Flashcard</div>
+    <span></span>
   </div>
-  <ng-template #empty>
-    <p>No flashcards available.</p>
-  </ng-template>
+
+  <div class="count">
+    {{ currentIndex + 1 }} / {{ words.length }}
+  </div>
+
+  <div class="progress">
+    <div class="progress-bar" [style.width.%]="progressPercent"></div>
+  </div>
+
+  <div class="card" (click)="toggleCard()">
+    <div class="hanzi">{{ currentWord.hanzi }}</div>
+    <div class="pinyin">{{ currentWord.pinyin }}</div>
+
+    <div class="meaning" *ngIf="showMeaning">
+      {{ currentWord.meaning }}
+    </div>
+
+    <button class="sound-btn" (click)="playSound($event)">
+      🔊
+    </button>
+  </div>
+
+  <div class="hint">
+    Nhấn vào thẻ để xem nghĩa
+  </div>
+
+  <div class="bottom-actions">
+    <button class="unknown-btn" (click)="markUnknown()">
+      👓 Không biết
+    </button>
+
+    <button class="known-btn" (click)="markKnown()">
+      👍 Biết rồi
+    </button>
+  </div>
 </div>

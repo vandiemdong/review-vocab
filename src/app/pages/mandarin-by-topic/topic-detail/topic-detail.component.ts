@@ -34,7 +34,7 @@ export class TopicDetailComponent implements OnInit {
   }
 
   goFlashcard() {
-    this.router.navigate(['/topic', this.topic.id, 'lesson', 1, 'flashcard']);
+    this.router.navigate(['mandarin-topic/topic', this.topic.id, 'lesson', 1, 'flashcard']);
   }
 
   goQuiz() {

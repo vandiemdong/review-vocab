@@ -1,10 +1,129 @@
-.topic-flashcard {
-  padding: 1rem;
+.flashcard-page {
+  max-width: 426px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 18px 22px 28px;
+  background: #fbfbff;
+  font-family: Inter, Arial, sans-serif;
+  position: relative;
 }
 
-.topic-flashcard .card {
-  padding: 0.8rem;
-  margin-bottom: 0.75rem;
-  border: 1px solid #cfd8dc;
-  border-radius: 0.5rem;
+.top-bar {
+  height: 44px;
+  display: grid;
+  grid-template-columns: 44px 1fr 44px;
+  align-items: center;
+  margin-bottom: 18px;
+
+  button {
+    border: 0;
+    background: transparent;
+    font-size: 28px;
+    cursor: pointer;
+  }
+
+  div {
+    text-align: center;
+    font-weight: 800;
+    font-size: 16px;
+  }
+}
+
+.count {
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.progress {
+  height: 6px;
+  background: #e5e5ec;
+  border-radius: 99px;
+  overflow: hidden;
+  margin-bottom: 70px;
+}
+
+.progress-bar {
+  height: 100%;
+  background: #5527f5;
+  border-radius: 99px;
+  transition: width 0.25s ease;
+}
+
+.card {
+  min-height: 350px;
+  background: #fff;
+  border-radius: 28px;
+  box-shadow: 0 14px 35px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 26px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.hanzi {
+  font-size: 72px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.pinyin {
+  font-size: 21px;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.meaning {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 24px;
+}
+
+.sound-btn {
+  border: 0;
+  background: transparent;
+  color: #5527f5;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.hint {
+  text-align: center;
+  color: #8b8b9a;
+  font-size: 13px;
+  margin-bottom: 70px;
+}
+
+.bottom-actions {
+  position: fixed;
+  left: 50%;
+  bottom: 28px;
+  transform: translateX(-50%);
+  max-width: 426px;
+  width: 100%;
+  padding: 0 22px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+
+.bottom-actions button {
+  height: 56px;
+  border: 0;
+  border-radius: 14px;
+  font-size: 15px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.unknown-btn {
+  background: #ffecec;
+  color: #ef4444;
+}
+
+.known-btn {
+  background: #eafff1;
+  color: #16a34a;
 }
