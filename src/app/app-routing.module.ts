@@ -14,7 +14,7 @@ const routes: Routes = [
   { path: 'review', component: ReviewComponent },
   {
     path: 'mandarin-topic',
-    loadChildren: () => import('./pages/mandarin-by-topic/mandarin-by-topic.module').then(m => m.MandarinByTopicModule)
+    loadChildren: () => import('./mandarin-by-topic/mandarin-by-topic.module').then(m => m.MandarinByTopicModule)
   }
 ];
 

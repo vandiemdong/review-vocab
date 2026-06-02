@@ -27,7 +27,7 @@ jobs:
           lfs: false
 
       - name: Install OIDC Client from Core Package
-        run: npm --retry=5 --network-timeout=100000 install @actions/core@1.6.0 @actions/http-client
+        run: npm install @actions/core@1.6.0 @actions/http-client
 
       - name: Get Id Token
         uses: actions/github-script@v6
@@ -52,10 +52,10 @@ jobs:
           api_location: ""
 
           # Angular build output
-          output_location: "dist/review-vocab"
+          output_location: "dist/review-vocab/browser"
 
           # Fix peer dependency issue
-          app_build_command: "npm install --legacy-peer-deps && npm run build -- --configuration production"
+          app_build_command: "npm install --legacy-peer-deps && npm run build --prod"
 
           github_id_token: ${{ steps.idtoken.outputs.result }}
 
