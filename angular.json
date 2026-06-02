@@ -30,7 +30,8 @@
             "sourceMap": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/staticwebapp.config.json"
             ],
             "styles": [
               "src/styles.scss"
