@@ -1,0 +1,11 @@
+<div class="topic-quiz">
+  <h2>Quiz</h2>
+  <div *ngIf="questions.length; else noQuestions">
+    <div class="question" *ngFor="let question of questions">
+      <p>{{ question.prompt }}</p>
+    </div>
+  </div>
+  <ng-template #noQuestions>
+    <p>No quiz questions available.</p>
+  </ng-template>
+</div>

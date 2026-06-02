@@ -1,0 +1,77 @@
+<div class="mobile-page" *ngIf="topic">
+  <div class="top-bar">
+    <button routerLink="/topic">‹</button>
+    <button>⌯</button>
+  </div>
+
+  <div class="topic-hero">
+    <div class="big-icon">{{ topic.icon }}</div>
+
+    <div>
+      <h1>{{ topic.order }}. {{ topic.titleVi }}</h1>
+      <h3>{{ topic.titleEn }}</h3>
+      <p>Học các từ vựng thường dùng về {{ topic.titleVi | lowercase }}.</p>
+    </div>
+  </div>
+
+  <div class="progress-card">
+    <div class="progress-title">
+      <b>Tiến độ của bạn</b>
+      <b>{{ getPercent() }}%</b>
+    </div>
+
+    <div class="progress-info">
+      {{ topic.learnedWords }} / {{ topic.totalWords }} từ
+    </div>
+
+    <div class="progress">
+      <div class="progress-bar" [style.width.%]="getPercent()"></div>
+    </div>
+  </div>
+
+  <div class="action-grid">
+    <div class="action-card" (click)="goFlashcard()">
+      <div class="action-icon purple">▣</div>
+      <span>Flashcard</span>
+    </div>
+
+    <div class="action-card" (click)="goQuiz()">
+      <div class="action-icon orange">?</div>
+      <span>Quiz</span>
+    </div>
+
+    <div class="action-card">
+      <div class="action-icon green">🎧</div>
+      <span>Nghe</span>
+    </div>
+
+    <div class="action-card" (click)="goReview()">
+      <div class="action-icon blue">↻</div>
+      <span>Ôn tập</span>
+    </div>
+  </div>
+
+  <div class="section-title">
+    <b>Từ vựng ({{ topic.totalWords }})</b>
+    <span [routerLink]="['/topic', topic.id, 'lessons']">Xem tất cả</span>
+  </div>
+
+  <div class="word-list">
+    <div class="word-row" *ngFor="let word of topic.lessons[0].words.slice(0, 3)">
+      <div>
+        <div class="hanzi">{{ word.hanzi }}</div>
+        <div class="pinyin">{{ word.pinyin }}</div>
+        <div class="meaning">{{ word.meaning }}</div>
+      </div>
+
+      <div class="word-actions">
+        <button>🔊</button>
+        <button>☆</button>
+      </div>
+    </div>
+  </div>
+
+  <button class="start-btn" (click)="startLearning()">
+    Bắt đầu học
+  </button>
+</div>

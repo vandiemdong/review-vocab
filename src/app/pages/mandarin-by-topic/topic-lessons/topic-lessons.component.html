@@ -1,0 +1,8 @@
+<div class="topic-lessons">
+  <h2>Lessons for {{ topicName }}</h2>
+  <ul>
+    <li *ngFor="let lesson of lessons">
+      <a [routerLink]="['/mandarin-topic/topic', topicId, 'lesson', lesson.id]">{{ lesson.title }}</a>
+    </li>
+  </ul>
+</div>

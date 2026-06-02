@@ -1,0 +1,49 @@
+<div class="mobile-page">
+  <div class="header">
+    <div>
+      <h1>Mandarin</h1>
+      <h2>By Topics</h2>
+    </div>
+
+    <div class="streak">🔥 7</div>
+  </div>
+
+  <div class="search-box">
+    🔍
+    <input placeholder="Tìm từ vựng, pinyin, nghĩa..." />
+  </div>
+
+  <div class="section-title">
+    <b>Chủ đề</b>
+    <span>Xem tất cả ({{ topics.length }})</span>
+  </div>
+
+  <div
+    class="topic-card"
+    *ngFor="let topic of topics"
+    [routerLink]="['/mandarin-topic', 'topic', topic.id]"
+  >
+    <div class="topic-icon">{{ topic.icon }}</div>
+
+    <div class="topic-info">
+      <div class="topic-name">
+        {{ topic.order }}. {{ topic.titleVi }}
+      </div>
+
+      <div class="topic-count">
+        {{ topic.totalWords }} từ vựng
+      </div>
+
+      <div class="progress">
+        <div
+          class="progress-bar"
+          [style.width.%]="getPercent(topic)"
+        ></div>
+      </div>
+    </div>
+
+    <div class="percent">{{ getPercent(topic) }}%</div>
+  </div>
+
+  <!-- <app-topic-bottom-nav active="home"></app-topic-bottom-nav> -->
+</div>

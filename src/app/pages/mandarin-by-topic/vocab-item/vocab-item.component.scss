@@ -1,0 +1,18 @@
+.vocab-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.85rem 1rem;
+  background: #f1f8ff;
+  border-radius: 0.75rem;
+  border: 1px solid #c7deff;
+}
+
+.vocab-item .word {
+  font-weight: 600;
+}
+
+.vocab-item .translation {
+  color: #5f7381;
+  font-size: 0.95rem;
+}

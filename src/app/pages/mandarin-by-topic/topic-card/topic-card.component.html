@@ -1,0 +1,22 @@
+<div class="topic-card" [routerLink]="['/topic', topic.id]">
+  <div class="topic-icon">
+    {{ topic.icon }}
+  </div>
+
+  <div class="topic-info">
+    <div class="topic-top">
+      <h4>{{ index }}. {{ topic.name }}</h4>
+      <b>{{ topic.progress }}%</b>
+    </div>
+
+    <p>{{ topic.words }} từ vựng</p>
+
+    <div class="progress-track">
+      <div
+        class="progress-bar"
+        [style.width.%]="topic.progress"
+        [style.background]="topic.color">
+      </div>
+    </div>
+  </div>
+</div>

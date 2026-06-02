@@ -11,7 +11,11 @@ const routes: Routes = [
   { path: 'hsk/:hsk/lessons', component: LessonsComponent },
   { path: 'hsk/:hsk/lesson/:lesson/flashcard', component: FlashcardComponent },
   { path: 'hsk/:hsk/lesson/:lesson/quiz', component: QuizComponent },
-  { path: 'review', component: ReviewComponent }
+  { path: 'review', component: ReviewComponent },
+  {
+    path: 'mandarin-topic',
+    loadChildren: () => import('./pages/mandarin-by-topic/mandarin-by-topic.module').then(m => m.MandarinByTopicModule)
+  }
 ];
 
 @NgModule({

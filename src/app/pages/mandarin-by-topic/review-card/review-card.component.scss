@@ -1,0 +1,31 @@
+.review-card {
+  width: 100%;
+  min-width: 260px;
+  padding: 1rem;
+  background: #fff3e0;
+  border: 1px solid #ffcc80;
+  border-radius: 0.75rem;
+}
+
+.review-card h3 {
+  margin: 0 0 0.5rem;
+}
+
+.review-card p {
+  margin: 0 0 1rem;
+  color: #7a5b00;
+}
+
+.review-card button {
+  display: inline-block;
+  padding: 0.6rem 1rem;
+  border: none;
+  background: #fb8c00;
+  color: white;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.review-card button:hover {
+  background: #ef6c00;
+}

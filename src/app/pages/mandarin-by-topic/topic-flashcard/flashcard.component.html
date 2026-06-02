@@ -1,0 +1,12 @@
+<div class="topic-flashcard">
+  <h2>Flashcards</h2>
+  <div *ngIf="cards.length; else empty">
+    <div class="card" *ngFor="let card of cards">
+      <strong>{{ card.word }}</strong>
+      <span>{{ card.translation }}</span>
+    </div>
+  </div>
+  <ng-template #empty>
+    <p>No flashcards available.</p>
+  </ng-template>
+</div>

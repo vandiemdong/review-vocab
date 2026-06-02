@@ -1,0 +1,25 @@
+{
+  "id": "food",
+  "order": 1,
+  "titleVi": "Đồ ăn",
+  "titleEn": "Food",
+  "icon": "🍲",
+  "totalWords": 32,
+  "learnedWords": 12,
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Thực phẩm cơ bản",
+      "words": [
+        {
+          "hanzi": "米饭",
+          "pinyin": "mǐ fàn",
+          "meaning": "cơm",
+          "level": "easy",
+          "learned": false,
+          "favorite": false
+        }
+      ]
+    }
+  ]
+}

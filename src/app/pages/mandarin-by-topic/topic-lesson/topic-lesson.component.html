@@ -1,0 +1,13 @@
+<div class="topic-lesson">
+  <h2>Lesson Details</h2>
+  <p *ngIf="topic">Topic: {{ topic.name }}</p>
+  <div *ngIf="lesson">
+    <h3>{{ lesson.title }}</h3>
+    <p>{{ lesson.summary || 'No summary available.' }}</p>
+    <nav>
+      <a [routerLink]="['/mandarin-topic/topic', topicId, 'lesson', lessonId, 'flashcard']">Flashcards</a>
+      <a [routerLink]="['/mandarin-topic/topic', topicId, 'lesson', lessonId, 'quiz']">Quiz</a>
+    </nav>
+  </div>
+  <p *ngIf="!lesson">Loading lesson...</p>
+</div>
