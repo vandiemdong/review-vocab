@@ -52,10 +52,10 @@ jobs:
           api_location: ""
 
           # Angular build output
-          output_location: "dist/review-vocab/browser"
+          output_location: "dist/review-vocab"
 
           # Fix peer dependency issue
-          app_build_command: "npm install --legacy-peer-deps && npm run build --prod"
+          app_build_command: "npm install --legacy-peer-deps && npm run build -- --configuration production"
 
           github_id_token: ${{ steps.idtoken.outputs.result }}
 
