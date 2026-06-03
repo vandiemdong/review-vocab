@@ -42,7 +42,7 @@ export class TopicDetailComponent implements OnInit {
   }
 
   goReview() {
-    this.router.navigate(['/topic-review']);
+    this.router.navigate(['mandarin-topic/topic-review']);
   }
 
   goBack() {
