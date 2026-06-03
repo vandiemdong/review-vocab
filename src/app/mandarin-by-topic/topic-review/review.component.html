@@ -1,8 +1,72 @@
-<div class="topic-review">
-  <h2>Topic Review</h2>
-  <ul>
-    <li *ngFor="let item of reviewSets">
-      {{ item.topic }} — {{ item.count }} words
-    </li>
-  </ul>
+<div class="review-page">
+  <div class="phone-container">
+
+    <div class="status-space"></div>
+
+    <header class="review-header">
+      <h2>Ôn tập</h2>
+    </header>
+
+    <div class="review-tabs">
+      <button
+        [class.active]="selectedTab === 'all'"
+        (click)="setTab('all')">
+        Tất cả ({{ allCount }})
+      </button>
+
+      <button
+        [class.active]="selectedTab === 'later'"
+        (click)="setTab('later')">
+        Ôn tập sau ({{ laterCount }})
+      </button>
+
+      <button
+        [class.active]="selectedTab === 'known'"
+        (click)="setTab('known')">
+        Đã biết ({{ knownCount }})
+      </button>
+    </div>
+
+    <div class="word-list">
+      <div class="word-card" *ngFor="let word of filteredWords">
+        <div class="word-left">
+          <div class="hanzi">{{ word.word }}</div>
+          <div class="pinyin">{{ word.pinyin }}</div>
+        </div>
+
+        <div class="meaning">{{ word.meaningVi }}</div>
+
+        <button class="audio-btn" (click)="playAudio(word)">
+          🔊
+        </button>
+
+        <button class="menu-btn">
+          ⋮
+        </button>
+      </div>
+    </div>
+
+    <nav class="bottom-nav">
+      <a routerLink="/" class="nav-item">
+        <span>⌂</span>
+        <small>Trang chủ</small>
+      </a>
+
+      <a routerLink="/review" class="nav-item active">
+        <span>▣</span>
+        <small>Ôn tập</small>
+      </a>
+
+      <a routerLink="/stats" class="nav-item">
+        <span>▥</span>
+        <small>Thống kê</small>
+      </a>
+
+      <a routerLink="/settings" class="nav-item">
+        <span>⚙</span>
+        <small>Cài đặt</small>
+      </a>
+    </nav>
+
+  </div>
 </div>

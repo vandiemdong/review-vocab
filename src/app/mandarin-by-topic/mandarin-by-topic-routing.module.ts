@@ -16,7 +16,7 @@ const routes: Routes = [
   { path: 'topic/:topicId/lesson/:lessonId', component: TopicLessonComponent },
   { path: 'topic/:topicId/lesson/:lessonId/flashcard', component: FlashcardComponent },
   { path: 'topic/:topicId/lesson/:lessonId/quiz', component: QuizComponent },
-  { path: 'topic-review', component: ReviewComponent },
+  { path: 'topic/:topicId/lesson/:lessonId/review', component: ReviewComponent },
   { path: 'topic-stats', component: StatsComponent }
 ];
 
