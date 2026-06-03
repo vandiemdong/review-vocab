@@ -1,0 +1,393 @@
+{
+    "id": "hobbies",
+    "order": 3,
+    "titleVi": "Sở thích",
+    "titleEn": "Hobbies",
+    "icon": "🎨",
+    "totalWords": 45,
+    "learnedWords": 0,
+    "lessons": [
+        {
+            "id": 1,
+            "title": "Sở thích",
+            "words": [
+                {
+                    "word": "周末",
+                    "pinyin": "zhōumò",
+                    "meaning": "cuối tuần",
+                    "example": "周末你做什么？",
+                    "examplePinyin": "Zhōumò nǐ zuò shénme?",
+                    "exampleMeaning": "Cuối tuần bạn làm gì?"
+                },
+                {
+                    "word": "打球",
+                    "pinyin": "dǎ qiú",
+                    "meaning": "chơi bóng",
+                    "example": "我喜欢打球。",
+                    "examplePinyin": "Wǒ xǐhuan dǎ qiú.",
+                    "exampleMeaning": "Tôi thích chơi bóng."
+                },
+                {
+                    "word": "打",
+                    "pinyin": "dǎ",
+                    "meaning": "đánh, chơi",
+                    "example": "他常常打篮球。",
+                    "examplePinyin": "Tā chángcháng dǎ lánqiú.",
+                    "exampleMeaning": "Anh ấy thường chơi bóng rổ."
+                },
+                {
+                    "word": "球",
+                    "pinyin": "qiú",
+                    "meaning": "bóng",
+                    "example": "这是我的球。",
+                    "examplePinyin": "Zhè shì wǒ de qiú.",
+                    "exampleMeaning": "Đây là quả bóng của tôi."
+                },
+                {
+                    "word": "看",
+                    "pinyin": "kàn",
+                    "meaning": "xem, nhìn",
+                    "example": "我喜欢看电影。",
+                    "examplePinyin": "Wǒ xǐhuan kàn diànyǐng.",
+                    "exampleMeaning": "Tôi thích xem phim."
+                },
+                {
+                    "word": "电视",
+                    "pinyin": "diànshì",
+                    "meaning": "tivi",
+                    "example": "我晚上看电视。",
+                    "examplePinyin": "Wǒ wǎnshang kàn diànshì.",
+                    "exampleMeaning": "Tôi xem tivi vào buổi tối."
+                },
+                {
+                    "word": "电",
+                    "pinyin": "diàn",
+                    "meaning": "điện",
+                    "example": "电视用了很多电。",
+                    "examplePinyin": "Diànshì yòng le hěn duō diàn.",
+                    "exampleMeaning": "Tivi dùng nhiều điện."
+                },
+                {
+                    "word": "视",
+                    "pinyin": "shì",
+                    "meaning": "nhìn, thị giác",
+                    "example": "电视很好看。",
+                    "examplePinyin": "Diànshì hěn hǎokàn.",
+                    "exampleMeaning": "Chương trình tivi rất hay."
+                },
+                {
+                    "word": "唱歌（儿）",
+                    "pinyin": "chànggē(r)",
+                    "meaning": "hát",
+                    "example": "她喜欢唱歌。",
+                    "examplePinyin": "Tā xǐhuan chànggē.",
+                    "exampleMeaning": "Cô ấy thích hát."
+                },
+                {
+                    "word": "唱",
+                    "pinyin": "chàng",
+                    "meaning": "hát",
+                    "example": "你会唱中文歌吗？",
+                    "examplePinyin": "Nǐ huì chàng Zhōngwén gē ma?",
+                    "exampleMeaning": "Bạn biết hát bài tiếng Trung không?"
+                },
+                {
+                    "word": "歌",
+                    "pinyin": "gē",
+                    "meaning": "bài hát",
+                    "example": "这首歌很好听。",
+                    "examplePinyin": "Zhè shǒu gē hěn hǎotīng.",
+                    "exampleMeaning": "Bài hát này rất hay."
+                },
+                {
+                    "word": "跳舞",
+                    "pinyin": "tiàowǔ",
+                    "meaning": "nhảy múa",
+                    "example": "她喜欢跳舞。",
+                    "examplePinyin": "Tā xǐhuan tiàowǔ.",
+                    "exampleMeaning": "Cô ấy thích nhảy múa."
+                },
+                {
+                    "word": "跳",
+                    "pinyin": "tiào",
+                    "meaning": "nhảy",
+                    "example": "孩子在跳。",
+                    "examplePinyin": "Háizi zài tiào.",
+                    "exampleMeaning": "Đứa trẻ đang nhảy."
+                },
+                {
+                    "word": "舞",
+                    "pinyin": "wǔ",
+                    "meaning": "múa",
+                    "example": "她学舞。",
+                    "examplePinyin": "Tā xué wǔ.",
+                    "exampleMeaning": "Cô ấy học múa."
+                },
+                {
+                    "word": "听",
+                    "pinyin": "tīng",
+                    "meaning": "nghe",
+                    "example": "我喜欢听音乐。",
+                    "examplePinyin": "Wǒ xǐhuan tīng yīnyuè.",
+                    "exampleMeaning": "Tôi thích nghe nhạc."
+                },
+                {
+                    "word": "音乐",
+                    "pinyin": "yīnyuè",
+                    "meaning": "âm nhạc",
+                    "example": "音乐很好听。",
+                    "examplePinyin": "Yīnyuè hěn hǎotīng.",
+                    "exampleMeaning": "Âm nhạc rất hay."
+                },
+                {
+                    "word": "书",
+                    "pinyin": "shū",
+                    "meaning": "sách",
+                    "example": "我喜欢看书。",
+                    "examplePinyin": "Wǒ xǐhuan kàn shū.",
+                    "exampleMeaning": "Tôi thích đọc sách."
+                },
+                {
+                    "word": "对",
+                    "pinyin": "duì",
+                    "meaning": "đúng, đối với",
+                    "example": "你说得对。",
+                    "examplePinyin": "Nǐ shuō de duì.",
+                    "exampleMeaning": "Bạn nói đúng."
+                },
+                {
+                    "word": "有的时候",
+                    "pinyin": "yǒu de shíhou",
+                    "meaning": "đôi khi",
+                    "example": "我有的时候很忙。",
+                    "examplePinyin": "Wǒ yǒu de shíhou hěn máng.",
+                    "exampleMeaning": "Đôi khi tôi rất bận."
+                },
+                {
+                    "word": "时候",
+                    "pinyin": "shíhou",
+                    "meaning": "lúc, khi",
+                    "example": "你什么时候来？",
+                    "examplePinyin": "Nǐ shénme shíhou lái?",
+                    "exampleMeaning": "Khi nào bạn đến?"
+                },
+                {
+                    "word": "电影",
+                    "pinyin": "diànyǐng",
+                    "meaning": "phim điện ảnh",
+                    "example": "我喜欢看电影。",
+                    "examplePinyin": "Wǒ xǐhuan kàn diànyǐng.",
+                    "exampleMeaning": "Tôi thích xem phim."
+                },
+                {
+                    "word": "影",
+                    "pinyin": "yǐng",
+                    "meaning": "bóng, hình ảnh",
+                    "example": "电影很有意思。",
+                    "examplePinyin": "Diànyǐng hěn yǒu yìsi.",
+                    "exampleMeaning": "Bộ phim rất thú vị."
+                },
+                {
+                    "word": "常常",
+                    "pinyin": "chángcháng",
+                    "meaning": "thường xuyên",
+                    "example": "我常常去图书馆。",
+                    "examplePinyin": "Wǒ chángcháng qù túshūguǎn.",
+                    "exampleMeaning": "Tôi thường đến thư viện."
+                },
+                {
+                    "word": "那",
+                    "pinyin": "nà",
+                    "meaning": "vậy thì",
+                    "example": "那我们走吧。",
+                    "examplePinyin": "Nà wǒmen zǒu ba.",
+                    "exampleMeaning": "Vậy thì chúng ta đi thôi."
+                },
+                {
+                    "word": "去",
+                    "pinyin": "qù",
+                    "meaning": "đi",
+                    "example": "我去学校。",
+                    "examplePinyin": "Wǒ qù xuéxiào.",
+                    "exampleMeaning": "Tôi đi đến trường."
+                },
+                {
+                    "word": "外国",
+                    "pinyin": "wàiguó",
+                    "meaning": "nước ngoài",
+                    "example": "我想去外国。",
+                    "examplePinyin": "Wǒ xiǎng qù wàiguó.",
+                    "exampleMeaning": "Tôi muốn đi nước ngoài."
+                },
+                {
+                    "word": "请客",
+                    "pinyin": "qǐngkè",
+                    "meaning": "mời ăn, đãi khách",
+                    "example": "今天我请客。",
+                    "examplePinyin": "Jīntiān wǒ qǐngkè.",
+                    "exampleMeaning": "Hôm nay tôi mời."
+                },
+                {
+                    "word": "昨天",
+                    "pinyin": "zuótiān",
+                    "meaning": "hôm qua",
+                    "example": "昨天我很忙。",
+                    "examplePinyin": "Zuótiān wǒ hěn máng.",
+                    "exampleMeaning": "Hôm qua tôi rất bận."
+                },
+                {
+                    "word": "所以",
+                    "pinyin": "suǒyǐ",
+                    "meaning": "cho nên",
+                    "example": "我很忙，所以没去。",
+                    "examplePinyin": "Wǒ hěn máng, suǒyǐ méi qù.",
+                    "exampleMeaning": "Tôi rất bận nên không đi."
+                },
+                {
+                    "word": "小",
+                    "pinyin": "xiǎo",
+                    "meaning": "nhỏ",
+                    "example": "这个房子很小。",
+                    "examplePinyin": "Zhège fángzi hěn xiǎo.",
+                    "exampleMeaning": "Ngôi nhà này rất nhỏ."
+                },
+                {
+                    "word": "好久",
+                    "pinyin": "hǎojiǔ",
+                    "meaning": "lâu",
+                    "example": "好久不见。",
+                    "examplePinyin": "Hǎojiǔ bú jiàn.",
+                    "exampleMeaning": "Lâu rồi không gặp."
+                },
+                {
+                    "word": "好",
+                    "pinyin": "hǎo",
+                    "meaning": "tốt",
+                    "example": "今天天气很好。",
+                    "examplePinyin": "Jīntiān tiānqì hěn hǎo.",
+                    "exampleMeaning": "Hôm nay thời tiết rất đẹp."
+                },
+                {
+                    "word": "久",
+                    "pinyin": "jiǔ",
+                    "meaning": "lâu",
+                    "example": "我等了很久。",
+                    "examplePinyin": "Wǒ děng le hěn jiǔ.",
+                    "exampleMeaning": "Tôi đã đợi rất lâu."
+                },
+                {
+                    "word": "不错",
+                    "pinyin": "búcuò",
+                    "meaning": "không tệ, khá tốt",
+                    "example": "这个电影不错。",
+                    "examplePinyin": "Zhège diànyǐng búcuò.",
+                    "exampleMeaning": "Bộ phim này khá hay."
+                },
+                {
+                    "word": "错",
+                    "pinyin": "cuò",
+                    "meaning": "sai",
+                    "example": "你说错了。",
+                    "examplePinyin": "Nǐ shuō cuò le.",
+                    "exampleMeaning": "Bạn nói sai rồi."
+                },
+                {
+                    "word": "想",
+                    "pinyin": "xiǎng",
+                    "meaning": "muốn, nghĩ",
+                    "example": "我想学中文。",
+                    "examplePinyin": "Wǒ xiǎng xué Zhōngwén.",
+                    "exampleMeaning": "Tôi muốn học tiếng Trung."
+                },
+                {
+                    "word": "觉得",
+                    "pinyin": "juéde",
+                    "meaning": "cảm thấy, cho rằng",
+                    "example": "我觉得很好。",
+                    "examplePinyin": "Wǒ juéde hěn hǎo.",
+                    "exampleMeaning": "Tôi thấy rất tốt."
+                },
+                {
+                    "word": "有意思",
+                    "pinyin": "yǒu yìsi",
+                    "meaning": "thú vị",
+                    "example": "中文很有意思。",
+                    "examplePinyin": "Zhōngwén hěn yǒu yìsi.",
+                    "exampleMeaning": "Tiếng Trung rất thú vị."
+                },
+                {
+                    "word": "意思",
+                    "pinyin": "yìsi",
+                    "meaning": "ý nghĩa",
+                    "example": "这个词是什么意思？",
+                    "examplePinyin": "Zhège cí shì shénme yìsi?",
+                    "exampleMeaning": "Từ này có nghĩa là gì?"
+                },
+                {
+                    "word": "只",
+                    "pinyin": "zhǐ",
+                    "meaning": "chỉ",
+                    "example": "我只会一点中文。",
+                    "examplePinyin": "Wǒ zhǐ huì yìdiǎn Zhōngwén.",
+                    "exampleMeaning": "Tôi chỉ biết một ít tiếng Trung."
+                },
+                {
+                    "word": "睡觉",
+                    "pinyin": "shuìjiào",
+                    "meaning": "ngủ",
+                    "example": "我十点睡觉。",
+                    "examplePinyin": "Wǒ shí diǎn shuìjiào.",
+                    "exampleMeaning": "Tôi đi ngủ lúc 10 giờ."
+                },
+                {
+                    "word": "睡",
+                    "pinyin": "shuì",
+                    "meaning": "ngủ",
+                    "example": "孩子睡了。",
+                    "examplePinyin": "Háizi shuì le.",
+                    "exampleMeaning": "Đứa trẻ đã ngủ."
+                },
+                {
+                    "word": "觉",
+                    "pinyin": "jiào",
+                    "meaning": "giấc ngủ",
+                    "example": "睡个好觉。",
+                    "examplePinyin": "Shuì ge hǎo jiào.",
+                    "exampleMeaning": "Ngủ một giấc ngon."
+                },
+                {
+                    "word": "算了",
+                    "pinyin": "suàn le",
+                    "meaning": "thôi bỏ đi",
+                    "example": "算了，不去了。",
+                    "examplePinyin": "Suàn le, bú qù le.",
+                    "exampleMeaning": "Thôi bỏ đi, không đi nữa."
+                },
+                {
+                    "word": "找",
+                    "pinyin": "zhǎo",
+                    "meaning": "tìm",
+                    "example": "我找朋友。",
+                    "examplePinyin": "Wǒ zhǎo péngyou.",
+                    "exampleMeaning": "Tôi tìm bạn."
+                },
+                {
+                    "word": "别人",
+                    "pinyin": "biérén",
+                    "meaning": "người khác",
+                    "example": "不要说别人。",
+                    "examplePinyin": "Búyào shuō biérén.",
+                    "exampleMeaning": "Đừng nói về người khác."
+                },
+                {
+                    "word": "别（的）",
+                    "pinyin": "bié(de)",
+                    "meaning": "khác",
+                    "example": "你有别的办法吗？",
+                    "examplePinyin": "Nǐ yǒu bié de bànfǎ ma?",
+                    "exampleMeaning": "Bạn có cách khác không?"
+                }
+            ]
+        }
+    ]
+}

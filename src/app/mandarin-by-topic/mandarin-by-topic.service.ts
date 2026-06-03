@@ -8,7 +8,12 @@ export class TopicService {
   private topicFiles = [
     'greetings',
     'family',
-    'datesAndTime'
+    'datesAndTime',
+    'hobbies',
+    'visitingFriends',
+    'shopping',
+    'studyingChinese',
+    'transportation'
   ];
 
   constructor(private http: HttpClient) {}

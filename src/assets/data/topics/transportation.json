@@ -1,0 +1,16 @@
+{
+    "id": "transportation",
+    "order": 7,
+    "titleVi": "Giao thông",
+    "titleEn": "Transportation",
+    "icon": "🚗",
+    "totalWords": 45,
+    "learnedWords": 0,
+    "lessons": [
+        {
+            "id": 1,
+            "title": "Giao thông",
+            "words": []
+        }
+    ]
+}

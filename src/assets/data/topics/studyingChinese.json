@@ -1,0 +1,16 @@
+{
+    "id": "studyingChinese",
+    "order": 6,
+    "titleVi": "Học tiếng Trung",
+    "titleEn": "Studying Chinese",
+    "icon": "📚",
+    "totalWords": 45,
+    "learnedWords": 0,
+    "lessons": [
+        {
+            "id": 1,
+            "title": "Học tiếng Trung",
+            "words": []
+        }
+    ]
+}
