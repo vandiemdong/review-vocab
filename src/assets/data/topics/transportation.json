@@ -10,7 +10,392 @@
         {
             "id": 1,
             "title": "Giao thông",
-            "words": []
+            "words": [
+                {
+                    "word": "寒假",
+                    "pinyin": "hánjià",
+                    "meaning": "kỳ nghỉ đông",
+                    "example": "寒假我想去北京。",
+                    "examplePinyin": "Hánjià wǒ xiǎng qù Běijīng.",
+                    "exampleMeaning": "Kỳ nghỉ đông tôi muốn đi Bắc Kinh."
+                },
+                {
+                    "word": "飞机",
+                    "pinyin": "fēijī",
+                    "meaning": "máy bay",
+                    "example": "我坐飞机去上海。",
+                    "examplePinyin": "Wǒ zuò fēijī qù Shànghǎi.",
+                    "exampleMeaning": "Tôi đi Thượng Hải bằng máy bay."
+                },
+                {
+                    "word": "飞",
+                    "pinyin": "fēi",
+                    "meaning": "bay",
+                    "example": "飞机飞得很快。",
+                    "examplePinyin": "Fēijī fēi de hěn kuài.",
+                    "exampleMeaning": "Máy bay bay rất nhanh."
+                },
+                {
+                    "word": "机",
+                    "pinyin": "jī",
+                    "meaning": "máy",
+                    "example": "这是新机器。",
+                    "examplePinyin": "Zhè shì xīn jīqì.",
+                    "exampleMeaning": "Đây là máy mới."
+                },
+                {
+                    "word": "票",
+                    "pinyin": "piào",
+                    "meaning": "vé",
+                    "example": "我买了飞机票。",
+                    "examplePinyin": "Wǒ mǎi le fēijīpiào.",
+                    "exampleMeaning": "Tôi đã mua vé máy bay."
+                },
+                {
+                    "word": "机场",
+                    "pinyin": "jīchǎng",
+                    "meaning": "sân bay",
+                    "example": "我先去机场。",
+                    "examplePinyin": "Wǒ xiān qù jīchǎng.",
+                    "exampleMeaning": "Tôi đi sân bay trước."
+                },
+                {
+                    "word": "坐",
+                    "pinyin": "zuò",
+                    "meaning": "đi bằng, ngồi",
+                    "example": "我坐地铁上班。",
+                    "examplePinyin": "Wǒ zuò dìtiě shàngbān.",
+                    "exampleMeaning": "Tôi đi làm bằng tàu điện ngầm."
+                },
+                {
+                    "word": "公共汽车",
+                    "pinyin": "gōnggòng qìchē",
+                    "meaning": "xe buýt",
+                    "example": "我坐公共汽车去学校。",
+                    "examplePinyin": "Wǒ zuò gōnggòng qìchē qù xuéxiào.",
+                    "exampleMeaning": "Tôi đi học bằng xe buýt."
+                },
+                {
+                    "word": "公共",
+                    "pinyin": "gōnggòng",
+                    "meaning": "công cộng",
+                    "example": "这是公共场所。",
+                    "examplePinyin": "Zhè shì gōnggòng chǎngsuǒ.",
+                    "exampleMeaning": "Đây là nơi công cộng."
+                },
+                {
+                    "word": "汽车",
+                    "pinyin": "qìchē",
+                    "meaning": "ô tô",
+                    "example": "我有一辆汽车。",
+                    "examplePinyin": "Wǒ yǒu yí liàng qìchē.",
+                    "exampleMeaning": "Tôi có một chiếc ô tô."
+                },
+                {
+                    "word": "车",
+                    "pinyin": "chē",
+                    "meaning": "xe",
+                    "example": "车来了。",
+                    "examplePinyin": "Chē lái le.",
+                    "exampleMeaning": "Xe đến rồi."
+                },
+                {
+                    "word": "或者",
+                    "pinyin": "huòzhě",
+                    "meaning": "hoặc",
+                    "example": "你坐车或者走路？",
+                    "examplePinyin": "Nǐ zuò chē huòzhě zǒulù?",
+                    "exampleMeaning": "Bạn đi xe hay đi bộ?"
+                },
+                {
+                    "word": "地铁",
+                    "pinyin": "dìtiě",
+                    "meaning": "tàu điện ngầm",
+                    "example": "地铁很方便。",
+                    "examplePinyin": "Dìtiě hěn fāngbiàn.",
+                    "exampleMeaning": "Tàu điện ngầm rất tiện."
+                },
+                {
+                    "word": "走",
+                    "pinyin": "zǒu",
+                    "meaning": "đi bộ, đi",
+                    "example": "我们走吧。",
+                    "examplePinyin": "Wǒmen zǒu ba.",
+                    "exampleMeaning": "Chúng ta đi thôi."
+                },
+                {
+                    "word": "先",
+                    "pinyin": "xiān",
+                    "meaning": "trước",
+                    "example": "我先吃饭。",
+                    "examplePinyin": "Wǒ xiān chīfàn.",
+                    "exampleMeaning": "Tôi ăn cơm trước."
+                },
+                {
+                    "word": "站",
+                    "pinyin": "zhàn",
+                    "meaning": "trạm, ga",
+                    "example": "下一站到了。",
+                    "examplePinyin": "Xià yí zhàn dào le.",
+                    "exampleMeaning": "Đến trạm tiếp theo rồi."
+                },
+                {
+                    "word": "下车",
+                    "pinyin": "xiàchē",
+                    "meaning": "xuống xe",
+                    "example": "请在这儿下车。",
+                    "examplePinyin": "Qǐng zài zhèr xiàchē.",
+                    "exampleMeaning": "Xin xuống xe ở đây."
+                },
+                {
+                    "word": "然后",
+                    "pinyin": "ránhòu",
+                    "meaning": "sau đó",
+                    "example": "先吃饭，然后学习。",
+                    "examplePinyin": "Xiān chīfàn, ránhòu xuéxí.",
+                    "exampleMeaning": "Ăn cơm trước rồi học."
+                },
+                {
+                    "word": "绿",
+                    "pinyin": "lǜ",
+                    "meaning": "xanh lá",
+                    "example": "我喜欢绿色。",
+                    "examplePinyin": "Wǒ xǐhuan lǜsè.",
+                    "exampleMeaning": "Tôi thích màu xanh lá."
+                },
+                {
+                    "word": "线",
+                    "pinyin": "xiàn",
+                    "meaning": "tuyến, line",
+                    "example": "坐绿线地铁。",
+                    "examplePinyin": "Zuò lǜxiàn dìtiě.",
+                    "exampleMeaning": "Đi tuyến xanh lá."
+                },
+                {
+                    "word": "最后",
+                    "pinyin": "zuìhòu",
+                    "meaning": "cuối cùng",
+                    "example": "最后我回家了。",
+                    "examplePinyin": "Zuìhòu wǒ huí jiā le.",
+                    "exampleMeaning": "Cuối cùng tôi về nhà."
+                },
+                {
+                    "word": "蓝",
+                    "pinyin": "lán",
+                    "meaning": "xanh dương",
+                    "example": "蓝色很好看。",
+                    "examplePinyin": "Lánsè hěn hǎokàn.",
+                    "exampleMeaning": "Màu xanh dương rất đẹp."
+                },
+                {
+                    "word": "麻烦",
+                    "pinyin": "máfan",
+                    "meaning": "phiền, làm phiền",
+                    "example": "麻烦你一下。",
+                    "examplePinyin": "Máfan nǐ yíxià.",
+                    "exampleMeaning": "Làm phiền bạn một chút."
+                },
+                {
+                    "word": "打车",
+                    "pinyin": "dǎchē",
+                    "meaning": "bắt taxi",
+                    "example": "我打车去机场。",
+                    "examplePinyin": "Wǒ dǎchē qù jīchǎng.",
+                    "exampleMeaning": "Tôi bắt taxi đi sân bay."
+                },
+                {
+                    "word": "出租汽车",
+                    "pinyin": "chūzū qìchē",
+                    "meaning": "taxi",
+                    "example": "出租汽车来了。",
+                    "examplePinyin": "Chūzū qìchē lái le.",
+                    "exampleMeaning": "Taxi đến rồi."
+                },
+                {
+                    "word": "出租",
+                    "pinyin": "chūzū",
+                    "meaning": "cho thuê",
+                    "example": "这套房子出租。",
+                    "examplePinyin": "Zhè tào fángzi chūzū.",
+                    "exampleMeaning": "Căn nhà này cho thuê."
+                },
+                {
+                    "word": "租",
+                    "pinyin": "zū",
+                    "meaning": "thuê",
+                    "example": "我租房子。",
+                    "examplePinyin": "Wǒ zū fángzi.",
+                    "exampleMeaning": "Tôi thuê nhà."
+                },
+                {
+                    "word": "开车",
+                    "pinyin": "kāichē",
+                    "meaning": "lái xe",
+                    "example": "我不会开车。",
+                    "examplePinyin": "Wǒ bú huì kāichē.",
+                    "exampleMeaning": "Tôi không biết lái xe."
+                },
+                {
+                    "word": "开",
+                    "pinyin": "kāi",
+                    "meaning": "lái, mở",
+                    "example": "他开车上班。",
+                    "examplePinyin": "Tā kāichē shàngbān.",
+                    "exampleMeaning": "Anh ấy lái xe đi làm."
+                },
+                {
+                    "word": "送",
+                    "pinyin": "sòng",
+                    "meaning": "đưa, tiễn, gửi",
+                    "example": "我送你回家。",
+                    "examplePinyin": "Wǒ sòng nǐ huí jiā.",
+                    "exampleMeaning": "Tôi đưa bạn về nhà."
+                },
+                {
+                    "word": "电子邮件",
+                    "pinyin": "diànzǐ yóujiàn",
+                    "meaning": "email",
+                    "example": "请发电子邮件给我。",
+                    "examplePinyin": "Qǐng fā diànzǐ yóujiàn gěi wǒ.",
+                    "exampleMeaning": "Xin gửi email cho tôi."
+                },
+                {
+                    "word": "电子",
+                    "pinyin": "diànzǐ",
+                    "meaning": "điện tử",
+                    "example": "这是电子产品。",
+                    "examplePinyin": "Zhè shì diànzǐ chǎnpǐn.",
+                    "exampleMeaning": "Đây là sản phẩm điện tử."
+                },
+                {
+                    "word": "让",
+                    "pinyin": "ràng",
+                    "meaning": "để, cho phép",
+                    "example": "请让我看看。",
+                    "examplePinyin": "Qǐng ràng wǒ kànkan.",
+                    "exampleMeaning": "Hãy để tôi xem thử."
+                },
+                {
+                    "word": "花",
+                    "pinyin": "huā",
+                    "meaning": "tiêu (tiền, thời gian)",
+                    "example": "我花了很多钱。",
+                    "examplePinyin": "Wǒ huā le hěn duō qián.",
+                    "exampleMeaning": "Tôi đã tiêu rất nhiều tiền."
+                },
+                {
+                    "word": "不好意思",
+                    "pinyin": "bù hǎoyìsi",
+                    "meaning": "ngại quá, xin lỗi",
+                    "example": "不好意思，我来晚了。",
+                    "examplePinyin": "Bù hǎoyìsi, wǒ lái wǎn le.",
+                    "exampleMeaning": "Xin lỗi, tôi đến muộn."
+                },
+                {
+                    "word": "每",
+                    "pinyin": "měi",
+                    "meaning": "mỗi",
+                    "example": "我每天学习中文。",
+                    "examplePinyin": "Wǒ měitiān xuéxí Zhōngwén.",
+                    "exampleMeaning": "Tôi học tiếng Trung mỗi ngày."
+                },
+                {
+                    "word": "城市",
+                    "pinyin": "chéngshì",
+                    "meaning": "thành phố",
+                    "example": "吉隆坡是大城市。",
+                    "examplePinyin": "Jílóngpō shì dà chéngshì.",
+                    "exampleMeaning": "Kuala Lumpur là thành phố lớn."
+                },
+                {
+                    "word": "特别",
+                    "pinyin": "tèbié",
+                    "meaning": "đặc biệt, rất",
+                    "example": "我特别喜欢中文。",
+                    "examplePinyin": "Wǒ tèbié xǐhuan Zhōngwén.",
+                    "exampleMeaning": "Tôi đặc biệt thích tiếng Trung."
+                },
+                {
+                    "word": "高速公路",
+                    "pinyin": "gāosù gōnglù",
+                    "meaning": "đường cao tốc",
+                    "example": "我们走高速公路。",
+                    "examplePinyin": "Wǒmen zǒu gāosù gōnglù.",
+                    "exampleMeaning": "Chúng tôi đi đường cao tốc."
+                },
+                {
+                    "word": "高速",
+                    "pinyin": "gāosù",
+                    "meaning": "tốc độ cao",
+                    "example": "高铁速度很高速。",
+                    "examplePinyin": "Gāotiě sùdù hěn gāosù.",
+                    "exampleMeaning": "Tàu cao tốc chạy rất nhanh."
+                },
+                {
+                    "word": "公路",
+                    "pinyin": "gōnglù",
+                    "meaning": "đường bộ",
+                    "example": "这条公路很长。",
+                    "examplePinyin": "Zhè tiáo gōnglù hěn cháng.",
+                    "exampleMeaning": "Con đường này rất dài."
+                },
+                {
+                    "word": "路",
+                    "pinyin": "lù",
+                    "meaning": "đường",
+                    "example": "这条路很近。",
+                    "examplePinyin": "Zhè tiáo lù hěn jìn.",
+                    "exampleMeaning": "Con đường này rất gần."
+                },
+                {
+                    "word": "紧张",
+                    "pinyin": "jǐnzhāng",
+                    "meaning": "căng thẳng",
+                    "example": "考试的时候我很紧张。",
+                    "examplePinyin": "Kǎoshì de shíhou wǒ hěn jǐnzhāng.",
+                    "exampleMeaning": "Lúc thi tôi rất căng thẳng."
+                },
+                {
+                    "word": "自己",
+                    "pinyin": "zìjǐ",
+                    "meaning": "tự mình",
+                    "example": "我自己去。",
+                    "examplePinyin": "Wǒ zìjǐ qù.",
+                    "exampleMeaning": "Tôi tự đi."
+                },
+                {
+                    "word": "手机",
+                    "pinyin": "shǒujī",
+                    "meaning": "điện thoại di động",
+                    "example": "这是我的手机。",
+                    "examplePinyin": "Zhè shì wǒ de shǒujī.",
+                    "exampleMeaning": "Đây là điện thoại của tôi."
+                },
+                {
+                    "word": "发短信",
+                    "pinyin": "fā duǎnxìn",
+                    "meaning": "nhắn tin",
+                    "example": "请发短信给我。",
+                    "examplePinyin": "Qǐng fā duǎnxìn gěi wǒ.",
+                    "exampleMeaning": "Hãy nhắn tin cho tôi."
+                },
+                {
+                    "word": "新年",
+                    "pinyin": "xīnnián",
+                    "meaning": "năm mới",
+                    "example": "新年快乐！",
+                    "examplePinyin": "Xīnnián kuàilè!",
+                    "exampleMeaning": "Chúc mừng năm mới!"
+                },
+                {
+                    "word": "快乐",
+                    "pinyin": "kuàilè",
+                    "meaning": "vui vẻ, hạnh phúc",
+                    "example": "祝你快乐。",
+                    "examplePinyin": "Zhù nǐ kuàilè.",
+                    "exampleMeaning": "Chúc bạn vui vẻ."
+                }
+            ]
         }
     ]
 }

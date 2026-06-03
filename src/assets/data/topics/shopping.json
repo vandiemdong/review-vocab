@@ -10,7 +10,432 @@
         {
             "id": 1,
             "title": "Mua sắm",
-            "words": []
+            "words": [
+                {
+                    "word": "商店",
+                    "pinyin": "shāngdiàn",
+                    "meaning": "cửa hàng",
+                    "example": "我去商店买东西。",
+                    "examplePinyin": "Wǒ qù shāngdiàn mǎi dōngxi.",
+                    "exampleMeaning": "Tôi đi cửa hàng mua đồ."
+                },
+                {
+                    "word": "买",
+                    "pinyin": "mǎi",
+                    "meaning": "mua",
+                    "example": "我想买衣服。",
+                    "examplePinyin": "Wǒ xiǎng mǎi yīfu.",
+                    "exampleMeaning": "Tôi muốn mua quần áo."
+                },
+                {
+                    "word": "东西",
+                    "pinyin": "dōngxi",
+                    "meaning": "đồ vật, đồ đạc",
+                    "example": "这些东西很便宜。",
+                    "examplePinyin": "Zhèxiē dōngxi hěn piányi.",
+                    "exampleMeaning": "Những món đồ này rất rẻ."
+                },
+                {
+                    "word": "售货员",
+                    "pinyin": "shòuhuòyuán",
+                    "meaning": "nhân viên bán hàng",
+                    "example": "售货员很热情。",
+                    "examplePinyin": "Shòuhuòyuán hěn rèqíng.",
+                    "exampleMeaning": "Nhân viên bán hàng rất nhiệt tình."
+                },
+                {
+                    "word": "衣服",
+                    "pinyin": "yīfu",
+                    "meaning": "quần áo",
+                    "example": "这件衣服很好看。",
+                    "examplePinyin": "Zhè jiàn yīfu hěn hǎokàn.",
+                    "exampleMeaning": "Bộ quần áo này rất đẹp."
+                },
+                {
+                    "word": "件",
+                    "pinyin": "jiàn",
+                    "meaning": "lượng từ cho quần áo",
+                    "example": "我买了一件衬衫。",
+                    "examplePinyin": "Wǒ mǎi le yí jiàn chènshān.",
+                    "exampleMeaning": "Tôi mua một chiếc áo sơ mi."
+                },
+                {
+                    "word": "衬衫",
+                    "pinyin": "chènshān",
+                    "meaning": "áo sơ mi",
+                    "example": "这件衬衫是新的。",
+                    "examplePinyin": "Zhè jiàn chènshān shì xīn de.",
+                    "exampleMeaning": "Chiếc áo sơ mi này là mới."
+                },
+                {
+                    "word": "颜色",
+                    "pinyin": "yánsè",
+                    "meaning": "màu sắc",
+                    "example": "你喜欢什么颜色？",
+                    "examplePinyin": "Nǐ xǐhuan shénme yánsè?",
+                    "exampleMeaning": "Bạn thích màu gì?"
+                },
+                {
+                    "word": "黄",
+                    "pinyin": "huáng",
+                    "meaning": "màu vàng",
+                    "example": "我喜欢黄色。",
+                    "examplePinyin": "Wǒ xǐhuan huángsè.",
+                    "exampleMeaning": "Tôi thích màu vàng."
+                },
+                {
+                    "word": "红",
+                    "pinyin": "hóng",
+                    "meaning": "màu đỏ",
+                    "example": "她穿红衣服。",
+                    "examplePinyin": "Tā chuān hóng yīfu.",
+                    "exampleMeaning": "Cô ấy mặc đồ đỏ."
+                },
+                {
+                    "word": "穿",
+                    "pinyin": "chuān",
+                    "meaning": "mặc",
+                    "example": "我穿新裤子。",
+                    "examplePinyin": "Wǒ chuān xīn kùzi.",
+                    "exampleMeaning": "Tôi mặc quần mới."
+                },
+                {
+                    "word": "条",
+                    "pinyin": "tiáo",
+                    "meaning": "lượng từ cho quần",
+                    "example": "这条裤子很好。",
+                    "examplePinyin": "Zhè tiáo kùzi hěn hǎo.",
+                    "exampleMeaning": "Chiếc quần này rất đẹp."
+                },
+                {
+                    "word": "裤子",
+                    "pinyin": "kùzi",
+                    "meaning": "quần",
+                    "example": "我买了一条裤子。",
+                    "examplePinyin": "Wǒ mǎi le yì tiáo kùzi.",
+                    "exampleMeaning": "Tôi mua một chiếc quần."
+                },
+                {
+                    "word": "号",
+                    "pinyin": "hào",
+                    "meaning": "cỡ, số",
+                    "example": "你穿几号？",
+                    "examplePinyin": "Nǐ chuān jǐ hào?",
+                    "exampleMeaning": "Bạn mặc cỡ nào?"
+                },
+                {
+                    "word": "中",
+                    "pinyin": "zhōng",
+                    "meaning": "trung bình",
+                    "example": "我要中号。",
+                    "examplePinyin": "Wǒ yào zhōng hào.",
+                    "exampleMeaning": "Tôi muốn cỡ trung."
+                },
+                {
+                    "word": "便宜",
+                    "pinyin": "piányi",
+                    "meaning": "rẻ",
+                    "example": "这个很便宜。",
+                    "examplePinyin": "Zhège hěn piányi.",
+                    "exampleMeaning": "Cái này rất rẻ."
+                },
+                {
+                    "word": "如果",
+                    "pinyin": "rúguǒ",
+                    "meaning": "nếu",
+                    "example": "如果便宜，我就买。",
+                    "examplePinyin": "Rúguǒ piányi, wǒ jiù mǎi.",
+                    "exampleMeaning": "Nếu rẻ tôi sẽ mua."
+                },
+                {
+                    "word": "的话",
+                    "pinyin": "dehuà",
+                    "meaning": "nếu ... thì",
+                    "example": "有时间的话，我们去。",
+                    "examplePinyin": "Yǒu shíjiān dehuà, wǒmen qù.",
+                    "exampleMeaning": "Nếu có thời gian, chúng ta sẽ đi."
+                },
+                {
+                    "word": "长短",
+                    "pinyin": "chángduǎn",
+                    "meaning": "độ dài ngắn",
+                    "example": "裤子的长短很合适。",
+                    "examplePinyin": "Kùzi de chángduǎn hěn héshì.",
+                    "exampleMeaning": "Độ dài quần rất phù hợp."
+                },
+                {
+                    "word": "长",
+                    "pinyin": "cháng",
+                    "meaning": "dài",
+                    "example": "这条裤子太长了。",
+                    "examplePinyin": "Zhè tiáo kùzi tài cháng le.",
+                    "exampleMeaning": "Chiếc quần này quá dài."
+                },
+                {
+                    "word": "短",
+                    "pinyin": "duǎn",
+                    "meaning": "ngắn",
+                    "example": "这件衣服太短了。",
+                    "examplePinyin": "Zhè jiàn yīfu tài duǎn le.",
+                    "exampleMeaning": "Chiếc áo này quá ngắn."
+                },
+                {
+                    "word": "合适",
+                    "pinyin": "héshì",
+                    "meaning": "phù hợp",
+                    "example": "这件衣服很合适。",
+                    "examplePinyin": "Zhè jiàn yīfu hěn héshì.",
+                    "exampleMeaning": "Bộ quần áo này rất phù hợp."
+                },
+                {
+                    "word": "式",
+                    "pinyin": "shì",
+                    "meaning": "kiểu, mẫu",
+                    "example": "我喜欢这个样式。",
+                    "examplePinyin": "Wǒ xǐhuan zhège yàngshì.",
+                    "exampleMeaning": "Tôi thích kiểu này."
+                },
+                {
+                    "word": "不用",
+                    "pinyin": "búyòng",
+                    "meaning": "không cần",
+                    "example": "不用客气。",
+                    "examplePinyin": "Búyòng kèqi.",
+                    "exampleMeaning": "Không cần khách sáo."
+                },
+                {
+                    "word": "一共",
+                    "pinyin": "yígòng",
+                    "meaning": "tổng cộng",
+                    "example": "一共多少钱？",
+                    "examplePinyin": "Yígòng duōshao qián?",
+                    "exampleMeaning": "Tổng cộng bao nhiêu tiền?"
+                },
+                {
+                    "word": "多少",
+                    "pinyin": "duōshao",
+                    "meaning": "bao nhiêu",
+                    "example": "这个多少钱？",
+                    "examplePinyin": "Zhège duōshao qián?",
+                    "exampleMeaning": "Cái này bao nhiêu tiền?"
+                },
+                {
+                    "word": "钱",
+                    "pinyin": "qián",
+                    "meaning": "tiền",
+                    "example": "我没有很多钱。",
+                    "examplePinyin": "Wǒ méiyǒu hěn duō qián.",
+                    "exampleMeaning": "Tôi không có nhiều tiền."
+                },
+                {
+                    "word": "快",
+                    "pinyin": "kuài",
+                    "meaning": "đồng (đơn vị tiền)",
+                    "example": "十块钱。",
+                    "examplePinyin": "Shí kuài qián.",
+                    "exampleMeaning": "10 tệ."
+                },
+                {
+                    "word": "毛",
+                    "pinyin": "máo",
+                    "meaning": "hào",
+                    "example": "五毛钱。",
+                    "examplePinyin": "Wǔ máo qián.",
+                    "exampleMeaning": "5 hào."
+                },
+                {
+                    "word": "分",
+                    "pinyin": "fēn",
+                    "meaning": "xu",
+                    "example": "一分钱。",
+                    "examplePinyin": "Yì fēn qián.",
+                    "exampleMeaning": "1 xu."
+                },
+                {
+                    "word": "百",
+                    "pinyin": "bǎi",
+                    "meaning": "trăm",
+                    "example": "一百块钱。",
+                    "examplePinyin": "Yì bǎi kuài qián.",
+                    "exampleMeaning": "100 tệ."
+                },
+                {
+                    "word": "找（钱）",
+                    "pinyin": "zhǎo (qián)",
+                    "meaning": "thối tiền",
+                    "example": "请找钱。",
+                    "examplePinyin": "Qǐng zhǎo qián.",
+                    "exampleMeaning": "Xin thối lại tiền."
+                },
+                {
+                    "word": "双",
+                    "pinyin": "shuāng",
+                    "meaning": "đôi",
+                    "example": "我买一双鞋。",
+                    "examplePinyin": "Wǒ mǎi yì shuāng xié.",
+                    "exampleMeaning": "Tôi mua một đôi giày."
+                },
+                {
+                    "word": "鞋",
+                    "pinyin": "xié",
+                    "meaning": "giày",
+                    "example": "这双鞋很好看。",
+                    "examplePinyin": "Zhè shuāng xié hěn hǎokàn.",
+                    "exampleMeaning": "Đôi giày này rất đẹp."
+                },
+                {
+                    "word": "一样",
+                    "pinyin": "yíyàng",
+                    "meaning": "giống nhau",
+                    "example": "这两双鞋一样。",
+                    "examplePinyin": "Zhè liǎng shuāng xié yíyàng.",
+                    "exampleMeaning": "Hai đôi giày này giống nhau."
+                },
+                {
+                    "word": "虽然",
+                    "pinyin": "suīrán",
+                    "meaning": "mặc dù",
+                    "example": "虽然贵，但是很好。",
+                    "examplePinyin": "Suīrán guì, dànshì hěn hǎo.",
+                    "exampleMeaning": "Mặc dù đắt nhưng rất tốt."
+                },
+                {
+                    "word": "大小",
+                    "pinyin": "dàxiǎo",
+                    "meaning": "kích cỡ",
+                    "example": "这个大小很合适。",
+                    "examplePinyin": "Zhège dàxiǎo hěn héshì.",
+                    "exampleMeaning": "Kích cỡ này rất phù hợp."
+                },
+                {
+                    "word": "咖啡色",
+                    "pinyin": "kāfēisè",
+                    "meaning": "màu cà phê, nâu",
+                    "example": "我喜欢咖啡色。",
+                    "examplePinyin": "Wǒ xǐhuan kāfēisè.",
+                    "exampleMeaning": "Tôi thích màu nâu."
+                },
+                {
+                    "word": "种",
+                    "pinyin": "zhǒng",
+                    "meaning": "loại",
+                    "example": "这种鞋很好。",
+                    "examplePinyin": "Zhè zhǒng xié hěn hǎo.",
+                    "exampleMeaning": "Loại giày này rất tốt."
+                },
+                {
+                    "word": "黑",
+                    "pinyin": "hēi",
+                    "meaning": "màu đen",
+                    "example": "我喜欢黑色。",
+                    "examplePinyin": "Wǒ xǐhuan hēisè.",
+                    "exampleMeaning": "Tôi thích màu đen."
+                },
+                {
+                    "word": "样子",
+                    "pinyin": "yàngzi",
+                    "meaning": "hình dáng, kiểu dáng",
+                    "example": "这个样子很好看。",
+                    "examplePinyin": "Zhège yàngzi hěn hǎokàn.",
+                    "exampleMeaning": "Kiểu dáng này rất đẹp."
+                },
+                {
+                    "word": "挺",
+                    "pinyin": "tǐng",
+                    "meaning": "khá, rất",
+                    "example": "这件衣服挺漂亮。",
+                    "examplePinyin": "Zhè jiàn yīfu tǐng piàoliang.",
+                    "exampleMeaning": "Bộ quần áo này khá đẹp."
+                },
+                {
+                    "word": "它",
+                    "pinyin": "tā",
+                    "meaning": "nó",
+                    "example": "它很好用。",
+                    "examplePinyin": "Tā hěn hǎoyòng.",
+                    "exampleMeaning": "Nó rất dễ dùng."
+                },
+                {
+                    "word": "这儿",
+                    "pinyin": "zhèr",
+                    "meaning": "ở đây",
+                    "example": "请来这儿。",
+                    "examplePinyin": "Qǐng lái zhèr.",
+                    "exampleMeaning": "Mời đến đây."
+                },
+                {
+                    "word": "刷卡",
+                    "pinyin": "shuākǎ",
+                    "meaning": "quẹt thẻ",
+                    "example": "可以刷卡吗？",
+                    "examplePinyin": "Kěyǐ shuākǎ ma?",
+                    "exampleMeaning": "Có thể quẹt thẻ không?"
+                },
+                {
+                    "word": "刷",
+                    "pinyin": "shuā",
+                    "meaning": "quẹt",
+                    "example": "请刷卡。",
+                    "examplePinyin": "Qǐng shuākǎ.",
+                    "exampleMeaning": "Xin vui lòng quẹt thẻ."
+                },
+                {
+                    "word": "卡",
+                    "pinyin": "kǎ",
+                    "meaning": "thẻ",
+                    "example": "这是我的信用卡。",
+                    "examplePinyin": "Zhè shì wǒ de xìnyòngkǎ.",
+                    "exampleMeaning": "Đây là thẻ tín dụng của tôi."
+                },
+                {
+                    "word": "收",
+                    "pinyin": "shōu",
+                    "meaning": "nhận",
+                    "example": "我们收信用卡。",
+                    "examplePinyin": "Wǒmen shōu xìnyòngkǎ.",
+                    "exampleMeaning": "Chúng tôi nhận thẻ tín dụng."
+                },
+                {
+                    "word": "信用卡",
+                    "pinyin": "xìnyòngkǎ",
+                    "meaning": "thẻ tín dụng",
+                    "example": "我用信用卡付钱。",
+                    "examplePinyin": "Wǒ yòng xìnyòngkǎ fùqián.",
+                    "exampleMeaning": "Tôi dùng thẻ tín dụng để thanh toán."
+                },
+                {
+                    "word": "不过",
+                    "pinyin": "búguò",
+                    "meaning": "tuy nhiên",
+                    "example": "很好，不过有点贵。",
+                    "examplePinyin": "Hěn hǎo, búguò yǒudiǎn guì.",
+                    "exampleMeaning": "Rất tốt, tuy nhiên hơi đắt."
+                },
+                {
+                    "word": "再",
+                    "pinyin": "zài",
+                    "meaning": "lại, nữa",
+                    "example": "请再说一次。",
+                    "examplePinyin": "Qǐng zài shuō yí cì.",
+                    "exampleMeaning": "Xin nói lại một lần nữa."
+                },
+                {
+                    "word": "付钱",
+                    "pinyin": "fùqián",
+                    "meaning": "thanh toán",
+                    "example": "我来付钱。",
+                    "examplePinyin": "Wǒ lái fùqián.",
+                    "exampleMeaning": "Để tôi thanh toán."
+                },
+                {
+                    "word": "付",
+                    "pinyin": "fù",
+                    "meaning": "trả, thanh toán",
+                    "example": "我付现金。",
+                    "examplePinyin": "Wǒ fù xiànjīn.",
+                    "exampleMeaning": "Tôi trả bằng tiền mặt."
+                }
+            ]
         }
     ]
 }

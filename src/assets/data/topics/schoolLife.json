@@ -10,7 +10,328 @@
         {
             "id": 1,
             "title": "Cuộc sống học đường",
-            "words": []
+            "words": [
+                {
+                    "word": "篇",
+                    "pinyin": "piān",
+                    "meaning": "bài, thiên (lượng từ cho bài viết)",
+                    "example": "我写了一篇日记。",
+                    "examplePinyin": "Wǒ xiě le yì piān rìjì.",
+                    "exampleMeaning": "Tôi đã viết một bài nhật ký."
+                },
+                {
+                    "word": "日记",
+                    "pinyin": "rìjì",
+                    "meaning": "nhật ký",
+                    "example": "我每天写日记。",
+                    "examplePinyin": "Wǒ měitiān xiě rìjì.",
+                    "exampleMeaning": "Tôi viết nhật ký mỗi ngày."
+                },
+                {
+                    "word": "累",
+                    "pinyin": "lèi",
+                    "meaning": "mệt",
+                    "example": "今天我很累。",
+                    "examplePinyin": "Jīntiān wǒ hěn lèi.",
+                    "exampleMeaning": "Hôm nay tôi rất mệt."
+                },
+                {
+                    "word": "起床",
+                    "pinyin": "qǐchuáng",
+                    "meaning": "thức dậy",
+                    "example": "我每天六点起床。",
+                    "examplePinyin": "Wǒ měitiān liù diǎn qǐchuáng.",
+                    "exampleMeaning": "Tôi thức dậy lúc 6 giờ mỗi ngày."
+                },
+                {
+                    "word": "床",
+                    "pinyin": "chuáng",
+                    "meaning": "giường",
+                    "example": "我的床很大。",
+                    "examplePinyin": "Wǒ de chuáng hěn dà.",
+                    "exampleMeaning": "Giường của tôi rất lớn."
+                },
+                {
+                    "word": "洗澡",
+                    "pinyin": "xǐzǎo",
+                    "meaning": "tắm",
+                    "example": "我每天晚上洗澡。",
+                    "examplePinyin": "Wǒ měitiān wǎnshang xǐzǎo.",
+                    "exampleMeaning": "Tôi tắm mỗi tối."
+                },
+                {
+                    "word": "早饭",
+                    "pinyin": "zǎofàn",
+                    "meaning": "bữa sáng",
+                    "example": "你吃早饭了吗？",
+                    "examplePinyin": "Nǐ chī zǎofàn le ma?",
+                    "exampleMeaning": "Bạn ăn sáng chưa?"
+                },
+                {
+                    "word": "一边",
+                    "pinyin": "yìbiān",
+                    "meaning": "vừa... vừa...",
+                    "example": "我一边听音乐，一边学习。",
+                    "examplePinyin": "Wǒ yìbiān tīng yīnyuè, yìbiān xuéxí.",
+                    "exampleMeaning": "Tôi vừa nghe nhạc vừa học."
+                },
+                {
+                    "word": "教室",
+                    "pinyin": "jiàoshì",
+                    "meaning": "lớp học",
+                    "example": "学生都在教室里。",
+                    "examplePinyin": "Xuésheng dōu zài jiàoshì lǐ.",
+                    "exampleMeaning": "Các học sinh đều ở trong lớp học."
+                },
+                {
+                    "word": "发音",
+                    "pinyin": "fāyīn",
+                    "meaning": "phát âm",
+                    "example": "你的发音很好。",
+                    "examplePinyin": "Nǐ de fāyīn hěn hǎo.",
+                    "exampleMeaning": "Phát âm của bạn rất tốt."
+                },
+                {
+                    "word": "新",
+                    "pinyin": "xīn",
+                    "meaning": "mới",
+                    "example": "这是我的新电脑。",
+                    "examplePinyin": "Zhè shì wǒ de xīn diànnǎo.",
+                    "exampleMeaning": "Đây là máy tính mới của tôi."
+                },
+                {
+                    "word": "电脑",
+                    "pinyin": "diànnǎo",
+                    "meaning": "máy tính",
+                    "example": "我用电脑工作。",
+                    "examplePinyin": "Wǒ yòng diànnǎo gōngzuò.",
+                    "exampleMeaning": "Tôi dùng máy tính để làm việc."
+                },
+                {
+                    "word": "脑",
+                    "pinyin": "nǎo",
+                    "meaning": "não",
+                    "example": "他很会动脑。",
+                    "examplePinyin": "Tā hěn huì dòng nǎo.",
+                    "exampleMeaning": "Anh ấy rất biết suy nghĩ."
+                },
+                {
+                    "word": "中午",
+                    "pinyin": "zhōngwǔ",
+                    "meaning": "buổi trưa",
+                    "example": "我们中午见。",
+                    "examplePinyin": "Wǒmen zhōngwǔ jiàn.",
+                    "exampleMeaning": "Chúng ta gặp nhau vào buổi trưa."
+                },
+                {
+                    "word": "餐厅",
+                    "pinyin": "cāntīng",
+                    "meaning": "nhà hàng, căng tin",
+                    "example": "我们去餐厅吃饭。",
+                    "examplePinyin": "Wǒmen qù cāntīng chīfàn.",
+                    "exampleMeaning": "Chúng tôi đi nhà hàng ăn cơm."
+                },
+                {
+                    "word": "午饭",
+                    "pinyin": "wǔfàn",
+                    "meaning": "bữa trưa",
+                    "example": "我已经吃午饭了。",
+                    "examplePinyin": "Wǒ yǐjīng chī wǔfàn le.",
+                    "exampleMeaning": "Tôi đã ăn trưa rồi."
+                },
+                {
+                    "word": "上网",
+                    "pinyin": "shàngwǎng",
+                    "meaning": "lên mạng",
+                    "example": "我喜欢上网。",
+                    "examplePinyin": "Wǒ xǐhuan shàngwǎng.",
+                    "exampleMeaning": "Tôi thích lên mạng."
+                },
+                {
+                    "word": "宿舍",
+                    "pinyin": "sùshè",
+                    "meaning": "ký túc xá",
+                    "example": "我住在宿舍。",
+                    "examplePinyin": "Wǒ zhù zài sùshè.",
+                    "exampleMeaning": "Tôi sống ở ký túc xá."
+                },
+                {
+                    "word": "那儿",
+                    "pinyin": "nàr",
+                    "meaning": "ở đó",
+                    "example": "他在那儿。",
+                    "examplePinyin": "Tā zài nàr.",
+                    "exampleMeaning": "Anh ấy ở đó."
+                },
+                {
+                    "word": "正在",
+                    "pinyin": "zhèngzài",
+                    "meaning": "đang",
+                    "example": "我正在学习中文。",
+                    "examplePinyin": "Wǒ zhèngzài xuéxí Zhōngwén.",
+                    "exampleMeaning": "Tôi đang học tiếng Trung."
+                },
+                {
+                    "word": "以前",
+                    "pinyin": "yǐqián",
+                    "meaning": "trước đây",
+                    "example": "我以前住在北京。",
+                    "examplePinyin": "Wǒ yǐqián zhù zài Běijīng.",
+                    "exampleMeaning": "Trước đây tôi sống ở Bắc Kinh."
+                },
+                {
+                    "word": "告诉",
+                    "pinyin": "gàosu",
+                    "meaning": "nói cho biết",
+                    "example": "请告诉我。",
+                    "examplePinyin": "Qǐng gàosu wǒ.",
+                    "exampleMeaning": "Xin hãy nói cho tôi biết."
+                },
+                {
+                    "word": "已经",
+                    "pinyin": "yǐjīng",
+                    "meaning": "đã",
+                    "example": "我已经到了。",
+                    "examplePinyin": "Wǒ yǐjīng dào le.",
+                    "exampleMeaning": "Tôi đã đến rồi."
+                },
+                {
+                    "word": "知道",
+                    "pinyin": "zhīdào",
+                    "meaning": "biết",
+                    "example": "我知道他的名字。",
+                    "examplePinyin": "Wǒ zhīdào tā de míngzi.",
+                    "exampleMeaning": "Tôi biết tên của anh ấy."
+                },
+                {
+                    "word": "封",
+                    "pinyin": "fēng",
+                    "meaning": "lượng từ cho thư",
+                    "example": "一封信。",
+                    "examplePinyin": "Yì fēng xìn.",
+                    "exampleMeaning": "Một lá thư."
+                },
+                {
+                    "word": "信",
+                    "pinyin": "xìn",
+                    "meaning": "thư",
+                    "example": "我收到一封信。",
+                    "examplePinyin": "Wǒ shōudào yì fēng xìn.",
+                    "exampleMeaning": "Tôi nhận được một lá thư."
+                },
+                {
+                    "word": "最近",
+                    "pinyin": "zuìjìn",
+                    "meaning": "gần đây",
+                    "example": "你最近怎么样？",
+                    "examplePinyin": "Nǐ zuìjìn zěnmeyàng?",
+                    "exampleMeaning": "Gần đây bạn thế nào?"
+                },
+                {
+                    "word": "最",
+                    "pinyin": "zuì",
+                    "meaning": "nhất",
+                    "example": "我最喜欢中文。",
+                    "examplePinyin": "Wǒ zuì xǐhuan Zhōngwén.",
+                    "exampleMeaning": "Tôi thích tiếng Trung nhất."
+                },
+                {
+                    "word": "近",
+                    "pinyin": "jìn",
+                    "meaning": "gần",
+                    "example": "学校离家很近。",
+                    "examplePinyin": "Xuéxiào lí jiā hěn jìn.",
+                    "exampleMeaning": "Trường học gần nhà."
+                },
+                {
+                    "word": "学期",
+                    "pinyin": "xuéqī",
+                    "meaning": "học kỳ",
+                    "example": "这个学期很忙。",
+                    "examplePinyin": "Zhège xuéqī hěn máng.",
+                    "exampleMeaning": "Học kỳ này rất bận."
+                },
+                {
+                    "word": "除了。。。以外",
+                    "pinyin": "chúle...yǐwài",
+                    "meaning": "ngoài... ra",
+                    "example": "除了中文以外，我还学英文。",
+                    "examplePinyin": "Chúle Zhōngwén yǐwài, wǒ hái xué Yīngwén.",
+                    "exampleMeaning": "Ngoài tiếng Trung ra, tôi còn học tiếng Anh."
+                },
+                {
+                    "word": "专业",
+                    "pinyin": "zhuānyè",
+                    "meaning": "chuyên ngành",
+                    "example": "你的专业是什么？",
+                    "examplePinyin": "Nǐ de zhuānyè shì shénme?",
+                    "exampleMeaning": "Chuyên ngành của bạn là gì?"
+                },
+                {
+                    "word": "会",
+                    "pinyin": "huì",
+                    "meaning": "biết, có thể",
+                    "example": "我会说中文。",
+                    "examplePinyin": "Wǒ huì shuō Zhōngwén.",
+                    "exampleMeaning": "Tôi biết nói tiếng Trung."
+                },
+                {
+                    "word": "后来",
+                    "pinyin": "hòulái",
+                    "meaning": "sau đó",
+                    "example": "后来我去了上海。",
+                    "examplePinyin": "Hòulái wǒ qù le Shànghǎi.",
+                    "exampleMeaning": "Sau đó tôi đã đến Thượng Hải."
+                },
+                {
+                    "word": "音乐会",
+                    "pinyin": "yīnyuèhuì",
+                    "meaning": "buổi hòa nhạc",
+                    "example": "我们去听音乐会。",
+                    "examplePinyin": "Wǒmen qù tīng yīnyuèhuì.",
+                    "exampleMeaning": "Chúng tôi đi nghe hòa nhạc."
+                },
+                {
+                    "word": "希望",
+                    "pinyin": "xīwàng",
+                    "meaning": "hy vọng",
+                    "example": "我希望你成功。",
+                    "examplePinyin": "Wǒ xīwàng nǐ chénggōng.",
+                    "exampleMeaning": "Tôi hy vọng bạn thành công."
+                },
+                {
+                    "word": "能",
+                    "pinyin": "néng",
+                    "meaning": "có thể",
+                    "example": "我能帮你。",
+                    "examplePinyin": "Wǒ néng bāng nǐ.",
+                    "exampleMeaning": "Tôi có thể giúp bạn."
+                },
+                {
+                    "word": "用",
+                    "pinyin": "yòng",
+                    "meaning": "dùng",
+                    "example": "我用电脑学习。",
+                    "examplePinyin": "Wǒ yòng diànnǎo xuéxí.",
+                    "exampleMeaning": "Tôi dùng máy tính để học."
+                },
+                {
+                    "word": "笑",
+                    "pinyin": "xiào",
+                    "meaning": "cười",
+                    "example": "他笑了。",
+                    "examplePinyin": "Tā xiào le.",
+                    "exampleMeaning": "Anh ấy cười rồi."
+                },
+                {
+                    "word": "祝",
+                    "pinyin": "zhù",
+                    "meaning": "chúc",
+                    "example": "祝你生日快乐！",
+                    "examplePinyin": "Zhù nǐ shēngrì kuàilè!",
+                    "exampleMeaning": "Chúc bạn sinh nhật vui vẻ!"
+                }
+            ]
         }
     ]
 }

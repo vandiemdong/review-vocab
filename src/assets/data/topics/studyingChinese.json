@@ -10,7 +10,296 @@
         {
             "id": 1,
             "title": "Học tiếng Trung",
-            "words": []
+            "words": [
+                {
+                    "word": "说话",
+                    "pinyin": "shuōhuà",
+                    "meaning": "nói chuyện",
+                    "example": "他会说话。",
+                    "examplePinyin": "Tā huì shuōhuà.",
+                    "exampleMeaning": "Anh ấy biết nói chuyện."
+                },
+                {
+                    "word": "话",
+                    "pinyin": "huà",
+                    "meaning": "lời nói",
+                    "example": "他说的话很有意思。",
+                    "examplePinyin": "Tā shuō de huà hěn yǒu yìsi.",
+                    "exampleMeaning": "Những lời anh ấy nói rất thú vị."
+                },
+                {
+                    "word": "上个",
+                    "pinyin": "shàng gè",
+                    "meaning": "cái trước, lần trước",
+                    "example": "上个星期我很忙。",
+                    "examplePinyin": "Shàng gè xīngqī wǒ hěn máng.",
+                    "exampleMeaning": "Tuần trước tôi rất bận."
+                },
+                {
+                    "word": "得",
+                    "pinyin": "děi",
+                    "meaning": "phải",
+                    "example": "我得复习功课。",
+                    "examplePinyin": "Wǒ děi fùxí gōngkè.",
+                    "exampleMeaning": "Tôi phải ôn bài."
+                },
+                {
+                    "word": "复习",
+                    "pinyin": "fùxí",
+                    "meaning": "ôn tập",
+                    "example": "考试前要复习。",
+                    "examplePinyin": "Kǎoshì qián yào fùxí.",
+                    "exampleMeaning": "Trước khi thi phải ôn tập."
+                },
+                {
+                    "word": "写",
+                    "pinyin": "xiě",
+                    "meaning": "viết",
+                    "example": "我会写汉字。",
+                    "examplePinyin": "Wǒ huì xiě Hànzì.",
+                    "exampleMeaning": "Tôi biết viết chữ Hán."
+                },
+                {
+                    "word": "字",
+                    "pinyin": "zì",
+                    "meaning": "chữ",
+                    "example": "这个字很难。",
+                    "examplePinyin": "Zhège zì hěn nán.",
+                    "exampleMeaning": "Chữ này rất khó."
+                },
+                {
+                    "word": "慢",
+                    "pinyin": "màn",
+                    "meaning": "chậm",
+                    "example": "请说慢一点。",
+                    "examplePinyin": "Qǐng shuō màn yìdiǎn.",
+                    "exampleMeaning": "Xin nói chậm một chút."
+                },
+                {
+                    "word": "枝",
+                    "pinyin": "zhī",
+                    "meaning": "cây, chiếc (lượng từ)",
+                    "example": "一枝笔。",
+                    "examplePinyin": "Yì zhī bǐ.",
+                    "exampleMeaning": "Một cây bút."
+                },
+                {
+                    "word": "教",
+                    "pinyin": "jiāo",
+                    "meaning": "dạy",
+                    "example": "老师教我们中文。",
+                    "examplePinyin": "Lǎoshī jiāo wǒmen Zhōngwén.",
+                    "exampleMeaning": "Giáo viên dạy chúng tôi tiếng Trung."
+                },
+                {
+                    "word": "怎么",
+                    "pinyin": "zěnme",
+                    "meaning": "thế nào",
+                    "example": "这个字怎么写？",
+                    "examplePinyin": "Zhège zì zěnme xiě?",
+                    "exampleMeaning": "Chữ này viết thế nào?"
+                },
+                {
+                    "word": "懂",
+                    "pinyin": "dǒng",
+                    "meaning": "hiểu",
+                    "example": "我听不懂。",
+                    "examplePinyin": "Wǒ tīng bù dǒng.",
+                    "exampleMeaning": "Tôi không hiểu."
+                },
+                {
+                    "word": "真",
+                    "pinyin": "zhēn",
+                    "meaning": "thật, rất",
+                    "example": "你真厉害。",
+                    "examplePinyin": "Nǐ zhēn lìhai.",
+                    "exampleMeaning": "Bạn thật giỏi."
+                },
+                {
+                    "word": "哪里",
+                    "pinyin": "nǎli",
+                    "meaning": "đâu",
+                    "example": "你住在哪里？",
+                    "examplePinyin": "Nǐ zhù zài nǎli?",
+                    "exampleMeaning": "Bạn sống ở đâu?"
+                },
+                {
+                    "word": "预习",
+                    "pinyin": "yùxí",
+                    "meaning": "học trước",
+                    "example": "我要预习课文。",
+                    "examplePinyin": "Wǒ yào yùxí kèwén.",
+                    "exampleMeaning": "Tôi cần học trước bài khóa."
+                },
+                {
+                    "word": "学",
+                    "pinyin": "xué",
+                    "meaning": "học",
+                    "example": "我学中文。",
+                    "examplePinyin": "Wǒ xué Zhōngwén.",
+                    "exampleMeaning": "Tôi học tiếng Trung."
+                },
+                {
+                    "word": "第",
+                    "pinyin": "dì",
+                    "meaning": "thứ (số thứ tự)",
+                    "example": "这是第一课。",
+                    "examplePinyin": "Zhè shì dì yī kè.",
+                    "exampleMeaning": "Đây là bài học thứ nhất."
+                },
+                {
+                    "word": "语法",
+                    "pinyin": "yǔfǎ",
+                    "meaning": "ngữ pháp",
+                    "example": "中文语法不难。",
+                    "examplePinyin": "Zhōngwén yǔfǎ bù nán.",
+                    "exampleMeaning": "Ngữ pháp tiếng Trung không khó."
+                },
+                {
+                    "word": "容易",
+                    "pinyin": "róngyì",
+                    "meaning": "dễ",
+                    "example": "这个很容易。",
+                    "examplePinyin": "Zhège hěn róngyì.",
+                    "exampleMeaning": "Cái này rất dễ."
+                },
+                {
+                    "word": "生词",
+                    "pinyin": "shēngcí",
+                    "meaning": "từ mới",
+                    "example": "今天有很多生词。",
+                    "examplePinyin": "Jīntiān yǒu hěn duō shēngcí.",
+                    "exampleMeaning": "Hôm nay có rất nhiều từ mới."
+                },
+                {
+                    "word": "多",
+                    "pinyin": "duō",
+                    "meaning": "nhiều",
+                    "example": "我有很多朋友。",
+                    "examplePinyin": "Wǒ yǒu hěn duō péngyou.",
+                    "exampleMeaning": "Tôi có nhiều bạn bè."
+                },
+                {
+                    "word": "汉字",
+                    "pinyin": "Hànzì",
+                    "meaning": "chữ Hán",
+                    "example": "汉字很有意思。",
+                    "examplePinyin": "Hànzì hěn yǒu yìsi.",
+                    "exampleMeaning": "Chữ Hán rất thú vị."
+                },
+                {
+                    "word": "难",
+                    "pinyin": "nán",
+                    "meaning": "khó",
+                    "example": "这个问题很难。",
+                    "examplePinyin": "Zhège wèntí hěn nán.",
+                    "exampleMeaning": "Vấn đề này rất khó."
+                },
+                {
+                    "word": "平常",
+                    "pinyin": "píngcháng",
+                    "meaning": "thường ngày",
+                    "example": "我平常六点起床。",
+                    "examplePinyin": "Wǒ píngcháng liù diǎn qǐchuáng.",
+                    "exampleMeaning": "Tôi thường dậy lúc 6 giờ."
+                },
+                {
+                    "word": "早",
+                    "pinyin": "zǎo",
+                    "meaning": "sớm",
+                    "example": "你今天很早。",
+                    "examplePinyin": "Nǐ jīntiān hěn zǎo.",
+                    "exampleMeaning": "Hôm nay bạn rất sớm."
+                },
+                {
+                    "word": "这么",
+                    "pinyin": "zhème",
+                    "meaning": "như thế này",
+                    "example": "你怎么这么忙？",
+                    "examplePinyin": "Nǐ zěnme zhème máng?",
+                    "exampleMeaning": "Sao bạn bận thế?"
+                },
+                {
+                    "word": "晚",
+                    "pinyin": "wǎn",
+                    "meaning": "muộn",
+                    "example": "今天回来很晚。",
+                    "examplePinyin": "Jīntiān huílái hěn wǎn.",
+                    "exampleMeaning": "Hôm nay về rất muộn."
+                },
+                {
+                    "word": "早上",
+                    "pinyin": "zǎoshang",
+                    "meaning": "buổi sáng",
+                    "example": "我早上喝咖啡。",
+                    "examplePinyin": "Wǒ zǎoshang hē kāfēi.",
+                    "exampleMeaning": "Tôi uống cà phê vào buổi sáng."
+                },
+                {
+                    "word": "功课",
+                    "pinyin": "gōngkè",
+                    "meaning": "bài học, bài tập",
+                    "example": "今天功课很多。",
+                    "examplePinyin": "Jīntiān gōngkè hěn duō.",
+                    "exampleMeaning": "Hôm nay có nhiều bài tập."
+                },
+                {
+                    "word": "大家",
+                    "pinyin": "dàjiā",
+                    "meaning": "mọi người",
+                    "example": "大家好！",
+                    "examplePinyin": "Dàjiā hǎo!",
+                    "exampleMeaning": "Xin chào mọi người!"
+                },
+                {
+                    "word": "上课",
+                    "pinyin": "shàngkè",
+                    "meaning": "lên lớp, học",
+                    "example": "我们八点上课。",
+                    "examplePinyin": "Wǒmen bā diǎn shàngkè.",
+                    "exampleMeaning": "Chúng tôi học lúc 8 giờ."
+                },
+                {
+                    "word": "开始",
+                    "pinyin": "kāishǐ",
+                    "meaning": "bắt đầu",
+                    "example": "上课开始了。",
+                    "examplePinyin": "Shàngkè kāishǐ le.",
+                    "exampleMeaning": "Buổi học bắt đầu rồi."
+                },
+                {
+                    "word": "念",
+                    "pinyin": "niàn",
+                    "meaning": "đọc thành tiếng",
+                    "example": "请念课文。",
+                    "examplePinyin": "Qǐng niàn kèwén.",
+                    "exampleMeaning": "Xin đọc bài khóa."
+                },
+                {
+                    "word": "课文",
+                    "pinyin": "kèwén",
+                    "meaning": "bài khóa",
+                    "example": "这篇课文不难。",
+                    "examplePinyin": "Zhè piān kèwén bù nán.",
+                    "exampleMeaning": "Bài khóa này không khó."
+                },
+                {
+                    "word": "录音",
+                    "pinyin": "lùyīn",
+                    "meaning": "ghi âm",
+                    "example": "请听录音。",
+                    "examplePinyin": "Qǐng tīng lùyīn.",
+                    "exampleMeaning": "Xin nghe đoạn ghi âm."
+                },
+                {
+                    "word": "酷",
+                    "pinyin": "kù",
+                    "meaning": "ngầu, tuyệt",
+                    "example": "这个手机很酷。",
+                    "examplePinyin": "Zhège shǒujī hěn kù.",
+                    "exampleMeaning": "Chiếc điện thoại này rất ngầu."
+                }
+            ]
         }
     ]
 }

@@ -10,7 +10,392 @@
         {
             "id": 1,
             "title": "Hẹn gặp",
-            "words": []
+            "words": [
+                {
+                    "word": "给",
+                    "pinyin": "gěi",
+                    "meaning": "cho, đưa cho",
+                    "example": "给我打电话。",
+                    "examplePinyin": "Gěi wǒ dǎ diànhuà.",
+                    "exampleMeaning": "Gọi điện cho tôi."
+                },
+                {
+                    "word": "打电话",
+                    "pinyin": "dǎ diànhuà",
+                    "meaning": "gọi điện thoại",
+                    "example": "我给妈妈打电话。",
+                    "examplePinyin": "Wǒ gěi māma dǎ diànhuà.",
+                    "exampleMeaning": "Tôi gọi điện cho mẹ."
+                },
+                {
+                    "word": "电话",
+                    "pinyin": "diànhuà",
+                    "meaning": "điện thoại",
+                    "example": "这是我的电话。",
+                    "examplePinyin": "Zhè shì wǒ de diànhuà.",
+                    "exampleMeaning": "Đây là số điện thoại của tôi."
+                },
+                {
+                    "word": "喂",
+                    "pinyin": "wèi",
+                    "meaning": "alo",
+                    "example": "喂，你好！",
+                    "examplePinyin": "Wèi, nǐ hǎo!",
+                    "exampleMeaning": "Alo, xin chào!"
+                },
+                {
+                    "word": "在",
+                    "pinyin": "zài",
+                    "meaning": "đang, ở",
+                    "example": "我在办公室。",
+                    "examplePinyin": "Wǒ zài bàngōngshì.",
+                    "exampleMeaning": "Tôi đang ở văn phòng."
+                },
+                {
+                    "word": "就",
+                    "pinyin": "jiù",
+                    "meaning": "liền, ngay",
+                    "example": "我马上就来。",
+                    "examplePinyin": "Wǒ mǎshàng jiù lái.",
+                    "exampleMeaning": "Tôi sẽ đến ngay."
+                },
+                {
+                    "word": "您",
+                    "pinyin": "nín",
+                    "meaning": "ngài, ông/bà (kính ngữ)",
+                    "example": "您好！",
+                    "examplePinyin": "Nín hǎo!",
+                    "exampleMeaning": "Xin chào ngài!"
+                },
+                {
+                    "word": "哪",
+                    "pinyin": "nǎ",
+                    "meaning": "nào",
+                    "example": "你在哪儿？",
+                    "examplePinyin": "Nǐ zài nǎr?",
+                    "exampleMeaning": "Bạn ở đâu?"
+                },
+                {
+                    "word": "位",
+                    "pinyin": "wèi",
+                    "meaning": "vị (lượng từ lịch sự)",
+                    "example": "您是哪位？",
+                    "examplePinyin": "Nín shì nǎ wèi?",
+                    "exampleMeaning": "Ngài là ai?"
+                },
+                {
+                    "word": "下午",
+                    "pinyin": "xiàwǔ",
+                    "meaning": "buổi chiều",
+                    "example": "下午我有课。",
+                    "examplePinyin": "Xiàwǔ wǒ yǒu kè.",
+                    "exampleMeaning": "Chiều tôi có lớp."
+                },
+                {
+                    "word": "时间",
+                    "pinyin": "shíjiān",
+                    "meaning": "thời gian",
+                    "example": "我没有时间。",
+                    "examplePinyin": "Wǒ méiyǒu shíjiān.",
+                    "exampleMeaning": "Tôi không có thời gian."
+                },
+                {
+                    "word": "问题",
+                    "pinyin": "wèntí",
+                    "meaning": "vấn đề, câu hỏi",
+                    "example": "我有一个问题。",
+                    "examplePinyin": "Wǒ yǒu yí gè wèntí.",
+                    "exampleMeaning": "Tôi có một câu hỏi."
+                },
+                {
+                    "word": "要",
+                    "pinyin": "yào",
+                    "meaning": "muốn, cần, sẽ",
+                    "example": "我要开会。",
+                    "examplePinyin": "Wǒ yào kāihuì.",
+                    "exampleMeaning": "Tôi cần họp."
+                },
+                {
+                    "word": "开会",
+                    "pinyin": "kāihuì",
+                    "meaning": "họp",
+                    "example": "我们下午开会。",
+                    "examplePinyin": "Wǒmen xiàwǔ kāihuì.",
+                    "exampleMeaning": "Chúng tôi họp vào buổi chiều."
+                },
+                {
+                    "word": "开",
+                    "pinyin": "kāi",
+                    "meaning": "mở, tổ chức",
+                    "example": "老师开会去了。",
+                    "examplePinyin": "Lǎoshī kāihuì qù le.",
+                    "exampleMeaning": "Giáo viên đi họp rồi."
+                },
+                {
+                    "word": "会",
+                    "pinyin": "huì",
+                    "meaning": "họp; biết",
+                    "example": "我会说中文。",
+                    "examplePinyin": "Wǒ huì shuō Zhōngwén.",
+                    "exampleMeaning": "Tôi biết nói tiếng Trung."
+                },
+                {
+                    "word": "上午",
+                    "pinyin": "shàngwǔ",
+                    "meaning": "buổi sáng",
+                    "example": "上午我很忙。",
+                    "examplePinyin": "Shàngwǔ wǒ hěn máng.",
+                    "exampleMeaning": "Buổi sáng tôi rất bận."
+                },
+                {
+                    "word": "节",
+                    "pinyin": "jié",
+                    "meaning": "tiết học",
+                    "example": "今天有两节课。",
+                    "examplePinyin": "Jīntiān yǒu liǎng jié kè.",
+                    "exampleMeaning": "Hôm nay có hai tiết học."
+                },
+                {
+                    "word": "课",
+                    "pinyin": "kè",
+                    "meaning": "lớp học, môn học",
+                    "example": "下午有中文课。",
+                    "examplePinyin": "Xiàwǔ yǒu Zhōngwén kè.",
+                    "exampleMeaning": "Chiều có lớp tiếng Trung."
+                },
+                {
+                    "word": "年纪",
+                    "pinyin": "niánjì",
+                    "meaning": "tuổi tác",
+                    "example": "你多大年纪？",
+                    "examplePinyin": "Nǐ duō dà niánjì?",
+                    "exampleMeaning": "Bạn bao nhiêu tuổi?"
+                },
+                {
+                    "word": "考试",
+                    "pinyin": "kǎoshì",
+                    "meaning": "thi cử",
+                    "example": "明天考试。",
+                    "examplePinyin": "Míngtiān kǎoshì.",
+                    "exampleMeaning": "Ngày mai thi."
+                },
+                {
+                    "word": "考",
+                    "pinyin": "kǎo",
+                    "meaning": "thi",
+                    "example": "我要考中文。",
+                    "examplePinyin": "Wǒ yào kǎo Zhōngwén.",
+                    "exampleMeaning": "Tôi sẽ thi tiếng Trung."
+                },
+                {
+                    "word": "试",
+                    "pinyin": "shì",
+                    "meaning": "thử, thi",
+                    "example": "考试很难。",
+                    "examplePinyin": "Kǎoshì hěn nán.",
+                    "exampleMeaning": "Kỳ thi rất khó."
+                },
+                {
+                    "word": "以后",
+                    "pinyin": "yǐhòu",
+                    "meaning": "sau này",
+                    "example": "以后再说。",
+                    "examplePinyin": "Yǐhòu zài shuō.",
+                    "exampleMeaning": "Để sau này nói."
+                },
+                {
+                    "word": "空（儿）",
+                    "pinyin": "kòng(r)",
+                    "meaning": "rảnh",
+                    "example": "你有空儿吗？",
+                    "examplePinyin": "Nǐ yǒu kòngr ma?",
+                    "exampleMeaning": "Bạn có rảnh không?"
+                },
+                {
+                    "word": "要是",
+                    "pinyin": "yàoshi",
+                    "meaning": "nếu",
+                    "example": "要是有时间，我去。",
+                    "examplePinyin": "Yàoshi yǒu shíjiān, wǒ qù.",
+                    "exampleMeaning": "Nếu có thời gian, tôi sẽ đi."
+                },
+                {
+                    "word": "方便",
+                    "pinyin": "fāngbiàn",
+                    "meaning": "thuận tiện",
+                    "example": "现在方便吗？",
+                    "examplePinyin": "Xiànzài fāngbiàn ma?",
+                    "exampleMeaning": "Bây giờ có tiện không?"
+                },
+                {
+                    "word": "到",
+                    "pinyin": "dào",
+                    "meaning": "đến",
+                    "example": "我到办公室了。",
+                    "examplePinyin": "Wǒ dào bàngōngshì le.",
+                    "exampleMeaning": "Tôi đến văn phòng rồi."
+                },
+                {
+                    "word": "办公室",
+                    "pinyin": "bàngōngshì",
+                    "meaning": "văn phòng",
+                    "example": "老师在办公室。",
+                    "examplePinyin": "Lǎoshī zài bàngōngshì.",
+                    "exampleMeaning": "Giáo viên ở văn phòng."
+                },
+                {
+                    "word": "行",
+                    "pinyin": "xíng",
+                    "meaning": "được, ổn",
+                    "example": "行，没问题。",
+                    "examplePinyin": "Xíng, méi wèntí.",
+                    "exampleMeaning": "Được, không vấn đề gì."
+                },
+                {
+                    "word": "等",
+                    "pinyin": "děng",
+                    "meaning": "đợi",
+                    "example": "请等一下。",
+                    "examplePinyin": "Qǐng děng yíxià.",
+                    "exampleMeaning": "Vui lòng đợi một chút."
+                },
+                {
+                    "word": "别",
+                    "pinyin": "bié",
+                    "meaning": "đừng",
+                    "example": "别客气。",
+                    "examplePinyin": "Bié kèqi.",
+                    "exampleMeaning": "Đừng khách sáo."
+                },
+                {
+                    "word": "客气",
+                    "pinyin": "kèqi",
+                    "meaning": "khách sáo",
+                    "example": "不用客气。",
+                    "examplePinyin": "Búyòng kèqi.",
+                    "exampleMeaning": "Không cần khách sáo."
+                },
+                {
+                    "word": "下个",
+                    "pinyin": "xià gè",
+                    "meaning": "cái tiếp theo",
+                    "example": "下个星期见。",
+                    "examplePinyin": "Xià gè xīngqī jiàn.",
+                    "exampleMeaning": "Hẹn gặp tuần sau."
+                },
+                {
+                    "word": "下",
+                    "pinyin": "xià",
+                    "meaning": "dưới; tiếp theo",
+                    "example": "下次再见。",
+                    "examplePinyin": "Xià cì zàijiàn.",
+                    "exampleMeaning": "Lần sau gặp lại."
+                },
+                {
+                    "word": "中文",
+                    "pinyin": "Zhōngwén",
+                    "meaning": "tiếng Trung",
+                    "example": "我学习中文。",
+                    "examplePinyin": "Wǒ xuéxí Zhōngwén.",
+                    "exampleMeaning": "Tôi học tiếng Trung."
+                },
+                {
+                    "word": "文",
+                    "pinyin": "wén",
+                    "meaning": "văn, ngôn ngữ",
+                    "example": "中文很有意思。",
+                    "examplePinyin": "Zhōngwén hěn yǒu yìsi.",
+                    "exampleMeaning": "Tiếng Trung rất thú vị."
+                },
+                {
+                    "word": "帮",
+                    "pinyin": "bāng",
+                    "meaning": "giúp",
+                    "example": "请帮我一下。",
+                    "examplePinyin": "Qǐng bāng wǒ yíxià.",
+                    "exampleMeaning": "Xin giúp tôi một chút."
+                },
+                {
+                    "word": "准备",
+                    "pinyin": "zhǔnbèi",
+                    "meaning": "chuẩn bị",
+                    "example": "我准备考试。",
+                    "examplePinyin": "Wǒ zhǔnbèi kǎoshì.",
+                    "exampleMeaning": "Tôi chuẩn bị cho kỳ thi."
+                },
+                {
+                    "word": "练习",
+                    "pinyin": "liànxí",
+                    "meaning": "luyện tập",
+                    "example": "我要练习中文。",
+                    "examplePinyin": "Wǒ yào liànxí Zhōngwén.",
+                    "exampleMeaning": "Tôi cần luyện tiếng Trung."
+                },
+                {
+                    "word": "说",
+                    "pinyin": "shuō",
+                    "meaning": "nói",
+                    "example": "他说中文。",
+                    "examplePinyin": "Tā shuō Zhōngwén.",
+                    "exampleMeaning": "Anh ấy nói tiếng Trung."
+                },
+                {
+                    "word": "啊",
+                    "pinyin": "a",
+                    "meaning": "a, à (trợ từ ngữ khí)",
+                    "example": "好啊！",
+                    "examplePinyin": "Hǎo a!",
+                    "exampleMeaning": "Được đó!"
+                },
+                {
+                    "word": "但是",
+                    "pinyin": "dànshì",
+                    "meaning": "nhưng",
+                    "example": "我想去，但是没时间。",
+                    "examplePinyin": "Wǒ xiǎng qù, dànshì méi shíjiān.",
+                    "exampleMeaning": "Tôi muốn đi nhưng không có thời gian."
+                },
+                {
+                    "word": "得",
+                    "pinyin": "děi",
+                    "meaning": "phải",
+                    "example": "我得回家了。",
+                    "examplePinyin": "Wǒ děi huí jiā le.",
+                    "exampleMeaning": "Tôi phải về nhà rồi."
+                },
+                {
+                    "word": "跟",
+                    "pinyin": "gēn",
+                    "meaning": "với, cùng",
+                    "example": "我跟朋友见面。",
+                    "examplePinyin": "Wǒ gēn péngyou jiànmiàn.",
+                    "exampleMeaning": "Tôi gặp bạn."
+                },
+                {
+                    "word": "见面",
+                    "pinyin": "jiànmiàn",
+                    "meaning": "gặp mặt",
+                    "example": "我们明天见面。",
+                    "examplePinyin": "Wǒmen míngtiān jiànmiàn.",
+                    "exampleMeaning": "Ngày mai chúng ta gặp mặt."
+                },
+                {
+                    "word": "面",
+                    "pinyin": "miàn",
+                    "meaning": "mặt",
+                    "example": "我们见过面。",
+                    "examplePinyin": "Wǒmen jiàn guò miàn.",
+                    "exampleMeaning": "Chúng ta đã từng gặp mặt."
+                },
+                {
+                    "word": "回来",
+                    "pinyin": "huílái",
+                    "meaning": "quay lại",
+                    "example": "他下午回来。",
+                    "examplePinyin": "Tā xiàwǔ huílái.",
+                    "exampleMeaning": "Anh ấy sẽ quay lại vào buổi chiều."
+                }
+            ]
         }
     ]
 }
