@@ -14,7 +14,7 @@ export class TopicDetailComponent implements OnInit {
     private route: ActivatedRoute,
     private router: Router,
     private topicService: TopicService
-  ) {}
+  ) { }
 
   ngOnInit(): void {
     const topicId = this.route.snapshot.paramMap.get('topicId')!;
@@ -42,7 +42,7 @@ export class TopicDetailComponent implements OnInit {
   }
 
   goReview() {
-    this.router.navigate(['mandarin-topic/topic-review']);
+    this.router.navigate(['mandarin-topic/topic', this.topic.id, 'lesson', 1, 'review']);
   }
 
   goBack() {
