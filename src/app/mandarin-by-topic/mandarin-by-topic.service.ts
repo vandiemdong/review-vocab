@@ -6,7 +6,9 @@ import { forkJoin, map } from 'rxjs';
 @Injectable({ providedIn: 'root' })
 export class TopicService {
   private topicFiles = [
-    'food'
+    'greetings',
+    'family',
+    'datesAndTime'
   ];
 
   constructor(private http: HttpClient) {}

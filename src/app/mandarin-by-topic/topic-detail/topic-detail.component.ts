@@ -44,4 +44,8 @@ export class TopicDetailComponent implements OnInit {
   goReview() {
     this.router.navigate(['/topic-review']);
   }
+
+  goBack() {
+    this.router.navigate(['mandarin-topic']);
+  }
 }

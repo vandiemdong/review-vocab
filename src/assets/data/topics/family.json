@@ -1,0 +1,273 @@
+{
+    "id": "family",
+    "order": 2,
+    "titleVi": "Gia đình",
+    "titleEn": "Family",
+    "icon": "🍲",
+    "totalWords": 30,
+    "learnedWords": 12,
+    "lessons": [
+        {
+            "id": 1,
+            "title": "Gia đình",
+            "words": [
+                {
+                    "word": "那",
+                    "pinyin": "nà",
+                    "meaning": "đó, kia",
+                    "example": "那是我的书。",
+                    "examplePinyin": "Nà shì wǒ de shū.",
+                    "exampleMeaning": "Đó là sách của tôi."
+                },
+                {
+                    "word": "的",
+                    "pinyin": "de",
+                    "meaning": "của",
+                    "example": "这是我的照片。",
+                    "examplePinyin": "Zhè shì wǒ de zhàopiàn.",
+                    "exampleMeaning": "Đây là ảnh của tôi."
+                },
+                {
+                    "word": "照片",
+                    "pinyin": "zhàopiàn",
+                    "meaning": "ảnh, hình ảnh",
+                    "example": "这是一张照片。",
+                    "examplePinyin": "Zhè shì yì zhāng zhàopiàn.",
+                    "exampleMeaning": "Đây là một tấm ảnh."
+                },
+                {
+                    "word": "这",
+                    "pinyin": "zhè",
+                    "meaning": "đây, này",
+                    "example": "这是谁？",
+                    "examplePinyin": "Zhè shì shéi?",
+                    "exampleMeaning": "Đây là ai?"
+                },
+                {
+                    "word": "爸爸",
+                    "pinyin": "bàba",
+                    "meaning": "bố, ba",
+                    "example": "这是我爸爸。",
+                    "examplePinyin": "Zhè shì wǒ bàba.",
+                    "exampleMeaning": "Đây là bố tôi."
+                },
+                {
+                    "word": "妈妈",
+                    "pinyin": "māma",
+                    "meaning": "mẹ",
+                    "example": "我妈妈是老师。",
+                    "examplePinyin": "Wǒ māma shì lǎoshī.",
+                    "exampleMeaning": "Mẹ tôi là giáo viên."
+                },
+                {
+                    "word": "个",
+                    "pinyin": "gè",
+                    "meaning": "lượng từ",
+                    "example": "一个孩子。",
+                    "examplePinyin": "Yí gè háizi.",
+                    "exampleMeaning": "Một đứa trẻ."
+                },
+                {
+                    "word": "女",
+                    "pinyin": "nǚ",
+                    "meaning": "nữ",
+                    "example": "她是女学生。",
+                    "examplePinyin": "Tā shì nǚ xuésheng.",
+                    "exampleMeaning": "Cô ấy là nữ sinh."
+                },
+                {
+                    "word": "孩子",
+                    "pinyin": "háizi",
+                    "meaning": "đứa trẻ, con",
+                    "example": "那个孩子很可爱。",
+                    "examplePinyin": "Nà ge háizi hěn kě'ài.",
+                    "exampleMeaning": "Đứa trẻ đó rất dễ thương."
+                },
+                {
+                    "word": "谁",
+                    "pinyin": "shéi",
+                    "meaning": "ai",
+                    "example": "她是谁？",
+                    "examplePinyin": "Tā shì shéi?",
+                    "exampleMeaning": "Cô ấy là ai?"
+                },
+                {
+                    "word": "她",
+                    "pinyin": "tā",
+                    "meaning": "cô ấy",
+                    "example": "她是我姐姐。",
+                    "examplePinyin": "Tā shì wǒ jiějie.",
+                    "exampleMeaning": "Cô ấy là chị gái tôi."
+                },
+                {
+                    "word": "姐姐",
+                    "pinyin": "jiějie",
+                    "meaning": "chị gái",
+                    "example": "我姐姐是医生。",
+                    "examplePinyin": "Wǒ jiějie shì yīshēng.",
+                    "exampleMeaning": "Chị gái tôi là bác sĩ."
+                },
+                {
+                    "word": "男",
+                    "pinyin": "nán",
+                    "meaning": "nam",
+                    "example": "他是男学生。",
+                    "examplePinyin": "Tā shì nán xuésheng.",
+                    "exampleMeaning": "Anh ấy là nam sinh."
+                },
+                {
+                    "word": "弟弟",
+                    "pinyin": "dìdi",
+                    "meaning": "em trai",
+                    "example": "我有一个弟弟。",
+                    "examplePinyin": "Wǒ yǒu yí gè dìdi.",
+                    "exampleMeaning": "Tôi có một em trai."
+                },
+                {
+                    "word": "他",
+                    "pinyin": "tā",
+                    "meaning": "anh ấy",
+                    "example": "他是我弟弟。",
+                    "examplePinyin": "Tā shì wǒ dìdi.",
+                    "exampleMeaning": "Anh ấy là em trai tôi."
+                },
+                {
+                    "word": "大哥",
+                    "pinyin": "dàgē",
+                    "meaning": "anh cả",
+                    "example": "他是我大哥。",
+                    "examplePinyin": "Tā shì wǒ dàgē.",
+                    "exampleMeaning": "Anh ấy là anh cả của tôi."
+                },
+                {
+                    "word": "儿子",
+                    "pinyin": "érzi",
+                    "meaning": "con trai",
+                    "example": "这是我的儿子。",
+                    "examplePinyin": "Zhè shì wǒ de érzi.",
+                    "exampleMeaning": "Đây là con trai tôi."
+                },
+                {
+                    "word": "有",
+                    "pinyin": "yǒu",
+                    "meaning": "có",
+                    "example": "我有两个孩子。",
+                    "examplePinyin": "Wǒ yǒu liǎng gè háizi.",
+                    "exampleMeaning": "Tôi có hai người con."
+                },
+                {
+                    "word": "女儿",
+                    "pinyin": "nǚ'ér",
+                    "meaning": "con gái",
+                    "example": "她是我的女儿。",
+                    "examplePinyin": "Tā shì wǒ de nǚ'ér.",
+                    "exampleMeaning": "Cô ấy là con gái tôi."
+                },
+                {
+                    "word": "没",
+                    "pinyin": "méi",
+                    "meaning": "không có",
+                    "example": "我没有弟弟。",
+                    "examplePinyin": "Wǒ méiyǒu dìdi.",
+                    "exampleMeaning": "Tôi không có em trai."
+                },
+                {
+                    "word": "妹妹",
+                    "pinyin": "mèimei",
+                    "meaning": "em gái",
+                    "example": "我妹妹是学生。",
+                    "examplePinyin": "Wǒ mèimei shì xuésheng.",
+                    "exampleMeaning": "Em gái tôi là học sinh."
+                },
+                {
+                    "word": "和",
+                    "pinyin": "hé",
+                    "meaning": "và",
+                    "example": "我和姐姐都是学生。",
+                    "examplePinyin": "Wǒ hé jiějie dōu shì xuésheng.",
+                    "exampleMeaning": "Tôi và chị gái đều là học sinh."
+                },
+                {
+                    "word": "大姐",
+                    "pinyin": "dàjiě",
+                    "meaning": "chị cả",
+                    "example": "她是我大姐。",
+                    "examplePinyin": "Tā shì wǒ dàjiě.",
+                    "exampleMeaning": "Cô ấy là chị cả của tôi."
+                },
+                {
+                    "word": "二姐",
+                    "pinyin": "èrjiě",
+                    "meaning": "chị hai",
+                    "example": "我二姐是老师。",
+                    "examplePinyin": "Wǒ èrjiě shì lǎoshī.",
+                    "exampleMeaning": "Chị hai tôi là giáo viên."
+                },
+                {
+                    "word": "做",
+                    "pinyin": "zuò",
+                    "meaning": "làm",
+                    "example": "你做什么工作？",
+                    "examplePinyin": "Nǐ zuò shénme gōngzuò?",
+                    "exampleMeaning": "Bạn làm nghề gì?"
+                },
+                {
+                    "word": "工作",
+                    "pinyin": "gōngzuò",
+                    "meaning": "công việc, làm việc",
+                    "example": "我在北京工作。",
+                    "examplePinyin": "Wǒ zài Běijīng gōngzuò.",
+                    "exampleMeaning": "Tôi làm việc ở Bắc Kinh."
+                },
+                {
+                    "word": "律师",
+                    "pinyin": "lǜshī",
+                    "meaning": "luật sư",
+                    "example": "我爸爸是律师。",
+                    "examplePinyin": "Wǒ bàba shì lǜshī.",
+                    "exampleMeaning": "Bố tôi là luật sư."
+                },
+                {
+                    "word": "英文",
+                    "pinyin": "Yīngwén",
+                    "meaning": "tiếng Anh",
+                    "example": "我学英文。",
+                    "examplePinyin": "Wǒ xué Yīngwén.",
+                    "exampleMeaning": "Tôi học tiếng Anh."
+                },
+                {
+                    "word": "都",
+                    "pinyin": "dōu",
+                    "meaning": "đều",
+                    "example": "我们都是学生。",
+                    "examplePinyin": "Wǒmen dōu shì xuésheng.",
+                    "exampleMeaning": "Chúng tôi đều là học sinh."
+                },
+                {
+                    "word": "大学生",
+                    "pinyin": "dàxuéshēng",
+                    "meaning": "sinh viên đại học",
+                    "example": "她是大学生。",
+                    "examplePinyin": "Tā shì dàxuéshēng.",
+                    "exampleMeaning": "Cô ấy là sinh viên đại học."
+                },
+                {
+                    "word": "大学",
+                    "pinyin": "dàxué",
+                    "meaning": "đại học",
+                    "example": "我在大学学习。",
+                    "examplePinyin": "Wǒ zài dàxué xuéxí.",
+                    "exampleMeaning": "Tôi học ở trường đại học."
+                },
+                {
+                    "word": "医生",
+                    "pinyin": "yīshēng",
+                    "meaning": "bác sĩ",
+                    "example": "我妈妈是医生。",
+                    "examplePinyin": "Wǒ māma shì yīshēng.",
+                    "exampleMeaning": "Mẹ tôi là bác sĩ."
+                }
+            ]
+        }
+    ]
+}

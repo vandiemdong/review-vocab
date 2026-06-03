@@ -1,0 +1,385 @@
+{
+    "id": "datesAndTime",
+    "order": 2,
+    "titleVi": "Ngày và Thời gian",
+    "titleEn": "Dates and Time",
+    "icon": "📅",
+    "totalWords": 44,
+    "learnedWords": 0,
+    "lessons": [
+        {
+            "id": 1,
+            "title": "Ngày và Thời gian",
+            "words": [
+                {
+                    "word": "九月",
+                    "pinyin": "jiǔ yuè",
+                    "meaning": "tháng 9",
+                    "example": "我的生日在九月。",
+                    "examplePinyin": "Wǒ de shēngrì zài jiǔ yuè.",
+                    "exampleMeaning": "Sinh nhật của tôi vào tháng 9."
+                },
+                {
+                    "word": "月",
+                    "pinyin": "yuè",
+                    "meaning": "tháng",
+                    "example": "现在是五月。",
+                    "examplePinyin": "Xiànzài shì wǔ yuè.",
+                    "exampleMeaning": "Bây giờ là tháng 5."
+                },
+                {
+                    "word": "十二",
+                    "pinyin": "shí'èr",
+                    "meaning": "mười hai",
+                    "example": "今天是十二号。",
+                    "examplePinyin": "Jīntiān shì shí'èr hào.",
+                    "exampleMeaning": "Hôm nay là ngày 12."
+                },
+                {
+                    "word": "号",
+                    "pinyin": "hào",
+                    "meaning": "ngày (trong tháng)",
+                    "example": "今天几号？",
+                    "examplePinyin": "Jīntiān jǐ hào?",
+                    "exampleMeaning": "Hôm nay là ngày mấy?"
+                },
+                {
+                    "word": "星期",
+                    "pinyin": "xīngqī",
+                    "meaning": "tuần, thứ",
+                    "example": "今天星期几？",
+                    "examplePinyin": "Jīntiān xīngqī jǐ?",
+                    "exampleMeaning": "Hôm nay là thứ mấy?"
+                },
+                {
+                    "word": "星期四",
+                    "pinyin": "xīngqī sì",
+                    "meaning": "thứ năm",
+                    "example": "今天星期四。",
+                    "examplePinyin": "Jīntiān xīngqī sì.",
+                    "exampleMeaning": "Hôm nay là thứ năm."
+                },
+                {
+                    "word": "天",
+                    "pinyin": "tiān",
+                    "meaning": "ngày, trời",
+                    "example": "今天天气很好。",
+                    "examplePinyin": "Jīntiān tiānqì hěn hǎo.",
+                    "exampleMeaning": "Hôm nay thời tiết rất đẹp."
+                },
+                {
+                    "word": "生日",
+                    "pinyin": "shēngrì",
+                    "meaning": "sinh nhật",
+                    "example": "今天是我的生日。",
+                    "examplePinyin": "Jīntiān shì wǒ de shēngrì.",
+                    "exampleMeaning": "Hôm nay là sinh nhật của tôi."
+                },
+                {
+                    "word": "生",
+                    "pinyin": "shēng",
+                    "meaning": "sinh ra",
+                    "example": "我出生在越南。",
+                    "examplePinyin": "Wǒ chūshēng zài Yuènán.",
+                    "exampleMeaning": "Tôi sinh ra ở Việt Nam."
+                },
+                {
+                    "word": "日",
+                    "pinyin": "rì",
+                    "meaning": "ngày",
+                    "example": "生日快乐。",
+                    "examplePinyin": "Shēngrì kuàilè.",
+                    "exampleMeaning": "Chúc mừng sinh nhật."
+                },
+                {
+                    "word": "今年",
+                    "pinyin": "jīnnián",
+                    "meaning": "năm nay",
+                    "example": "今年我三十岁。",
+                    "examplePinyin": "Jīnnián wǒ sānshí suì.",
+                    "exampleMeaning": "Năm nay tôi 30 tuổi."
+                },
+                {
+                    "word": "年",
+                    "pinyin": "nián",
+                    "meaning": "năm",
+                    "example": "二零二六年。",
+                    "examplePinyin": "Èr líng èr liù nián.",
+                    "exampleMeaning": "Năm 2026."
+                },
+                {
+                    "word": "多",
+                    "pinyin": "duō",
+                    "meaning": "nhiều, hơn",
+                    "example": "你多大？",
+                    "examplePinyin": "Nǐ duō dà?",
+                    "exampleMeaning": "Bạn bao nhiêu tuổi?"
+                },
+                {
+                    "word": "大",
+                    "pinyin": "dà",
+                    "meaning": "lớn",
+                    "example": "这个房子很大。",
+                    "examplePinyin": "Zhège fángzi hěn dà.",
+                    "exampleMeaning": "Ngôi nhà này rất lớn."
+                },
+                {
+                    "word": "十八",
+                    "pinyin": "shíbā",
+                    "meaning": "mười tám",
+                    "example": "我十八岁。",
+                    "examplePinyin": "Wǒ shíbā suì.",
+                    "exampleMeaning": "Tôi 18 tuổi."
+                },
+                {
+                    "word": "岁",
+                    "pinyin": "suì",
+                    "meaning": "tuổi",
+                    "example": "你几岁？",
+                    "examplePinyin": "Nǐ jǐ suì?",
+                    "exampleMeaning": "Bạn bao nhiêu tuổi?"
+                },
+                {
+                    "word": "吃",
+                    "pinyin": "chī",
+                    "meaning": "ăn",
+                    "example": "我们去吃饭吧。",
+                    "examplePinyin": "Wǒmen qù chīfàn ba.",
+                    "exampleMeaning": "Chúng ta đi ăn nhé."
+                },
+                {
+                    "word": "饭",
+                    "pinyin": "fàn",
+                    "meaning": "cơm, bữa ăn",
+                    "example": "我吃晚饭了。",
+                    "examplePinyin": "Wǒ chī wǎnfàn le.",
+                    "exampleMeaning": "Tôi đã ăn tối rồi."
+                },
+                {
+                    "word": "怎么样",
+                    "pinyin": "zěnmeyàng",
+                    "meaning": "thế nào",
+                    "example": "这个菜怎么样？",
+                    "examplePinyin": "Zhège cài zěnmeyàng?",
+                    "exampleMeaning": "Món này thế nào?"
+                },
+                {
+                    "word": "太……了",
+                    "pinyin": "tài...le",
+                    "meaning": "quá ...",
+                    "example": "太好了！",
+                    "examplePinyin": "Tài hǎo le!",
+                    "exampleMeaning": "Tuyệt quá!"
+                },
+                {
+                    "word": "谢谢",
+                    "pinyin": "xièxie",
+                    "meaning": "cảm ơn",
+                    "example": "谢谢你。",
+                    "examplePinyin": "Xièxie nǐ.",
+                    "exampleMeaning": "Cảm ơn bạn."
+                },
+                {
+                    "word": "喜欢",
+                    "pinyin": "xǐhuan",
+                    "meaning": "thích",
+                    "example": "我喜欢中文。",
+                    "examplePinyin": "Wǒ xǐhuan Zhōngwén.",
+                    "exampleMeaning": "Tôi thích tiếng Trung."
+                },
+                {
+                    "word": "菜",
+                    "pinyin": "cài",
+                    "meaning": "món ăn, rau",
+                    "example": "这个菜很好吃。",
+                    "examplePinyin": "Zhège cài hěn hǎochī.",
+                    "exampleMeaning": "Món này rất ngon."
+                },
+                {
+                    "word": "还是",
+                    "pinyin": "háishì",
+                    "meaning": "hay là",
+                    "example": "你喝茶还是咖啡？",
+                    "examplePinyin": "Nǐ hē chá háishì kāfēi?",
+                    "exampleMeaning": "Bạn uống trà hay cà phê?"
+                },
+                {
+                    "word": "可是",
+                    "pinyin": "kěshì",
+                    "meaning": "nhưng",
+                    "example": "我想去，可是没时间。",
+                    "examplePinyin": "Wǒ xiǎng qù, kěshì méi shíjiān.",
+                    "exampleMeaning": "Tôi muốn đi nhưng không có thời gian."
+                },
+                {
+                    "word": "我们",
+                    "pinyin": "wǒmen",
+                    "meaning": "chúng tôi, chúng ta",
+                    "example": "我们是朋友。",
+                    "examplePinyin": "Wǒmen shì péngyou.",
+                    "exampleMeaning": "Chúng tôi là bạn."
+                },
+                {
+                    "word": "点",
+                    "pinyin": "diǎn",
+                    "meaning": "giờ",
+                    "example": "现在八点。",
+                    "examplePinyin": "Xiànzài bā diǎn.",
+                    "exampleMeaning": "Bây giờ là 8 giờ."
+                },
+                {
+                    "word": "半",
+                    "pinyin": "bàn",
+                    "meaning": "rưỡi, một nửa",
+                    "example": "七点半。",
+                    "examplePinyin": "Qī diǎn bàn.",
+                    "exampleMeaning": "7 giờ rưỡi."
+                },
+                {
+                    "word": "晚上",
+                    "pinyin": "wǎnshang",
+                    "meaning": "buổi tối",
+                    "example": "晚上见。",
+                    "examplePinyin": "Wǎnshang jiàn.",
+                    "exampleMeaning": "Tối gặp nhé."
+                },
+                {
+                    "word": "见",
+                    "pinyin": "jiàn",
+                    "meaning": "gặp",
+                    "example": "明天见。",
+                    "examplePinyin": "Míngtiān jiàn.",
+                    "exampleMeaning": "Mai gặp nhé."
+                },
+                {
+                    "word": "在",
+                    "pinyin": "zài",
+                    "meaning": "ở, tại",
+                    "example": "我在家。",
+                    "examplePinyin": "Wǒ zài jiā.",
+                    "exampleMeaning": "Tôi ở nhà."
+                },
+                {
+                    "word": "现在",
+                    "pinyin": "xiànzài",
+                    "meaning": "bây giờ",
+                    "example": "我现在很忙。",
+                    "examplePinyin": "Wǒ xiànzài hěn máng.",
+                    "exampleMeaning": "Bây giờ tôi rất bận."
+                },
+                {
+                    "word": "刻",
+                    "pinyin": "kè",
+                    "meaning": "15 phút",
+                    "example": "三点一刻。",
+                    "examplePinyin": "Sān diǎn yí kè.",
+                    "exampleMeaning": "3 giờ 15 phút."
+                },
+                {
+                    "word": "事（儿）",
+                    "pinyin": "shì(r)",
+                    "meaning": "việc, chuyện",
+                    "example": "我有事。",
+                    "examplePinyin": "Wǒ yǒu shì.",
+                    "exampleMeaning": "Tôi có việc."
+                },
+                {
+                    "word": "今天",
+                    "pinyin": "jīntiān",
+                    "meaning": "hôm nay",
+                    "example": "今天天气很好。",
+                    "examplePinyin": "Jīntiān tiānqì hěn hǎo.",
+                    "exampleMeaning": "Hôm nay thời tiết đẹp."
+                },
+                {
+                    "word": "很",
+                    "pinyin": "hěn",
+                    "meaning": "rất",
+                    "example": "我很高兴。",
+                    "examplePinyin": "Wǒ hěn gāoxìng.",
+                    "exampleMeaning": "Tôi rất vui."
+                },
+                {
+                    "word": "忙",
+                    "pinyin": "máng",
+                    "meaning": "bận",
+                    "example": "我今天很忙。",
+                    "examplePinyin": "Wǒ jīntiān hěn máng.",
+                    "exampleMeaning": "Hôm nay tôi rất bận."
+                },
+                {
+                    "word": "明天",
+                    "pinyin": "míngtiān",
+                    "meaning": "ngày mai",
+                    "example": "明天见。",
+                    "examplePinyin": "Míngtiān jiàn.",
+                    "exampleMeaning": "Mai gặp nhé."
+                },
+                {
+                    "word": "晚饭",
+                    "pinyin": "wǎnfàn",
+                    "meaning": "bữa tối",
+                    "example": "我们一起吃晚饭吧。",
+                    "examplePinyin": "Wǒmen yìqǐ chī wǎnfàn ba.",
+                    "exampleMeaning": "Chúng ta cùng ăn tối nhé."
+                },
+                {
+                    "word": "为什么",
+                    "pinyin": "wèishénme",
+                    "meaning": "tại sao",
+                    "example": "你为什么学习中文？",
+                    "examplePinyin": "Nǐ wèishénme xuéxí Zhōngwén?",
+                    "exampleMeaning": "Tại sao bạn học tiếng Trung?"
+                },
+                {
+                    "word": "为",
+                    "pinyin": "wèi",
+                    "meaning": "vì, vì lợi ích của",
+                    "example": "为朋友做事。",
+                    "examplePinyin": "Wèi péngyou zuò shì.",
+                    "exampleMeaning": "Làm việc vì bạn bè."
+                },
+                {
+                    "word": "因为",
+                    "pinyin": "yīnwèi",
+                    "meaning": "bởi vì",
+                    "example": "因为我喜欢中文。",
+                    "examplePinyin": "Yīnwèi wǒ xǐhuan Zhōngwén.",
+                    "exampleMeaning": "Bởi vì tôi thích tiếng Trung."
+                },
+                {
+                    "word": "还",
+                    "pinyin": "hái",
+                    "meaning": "còn, vẫn",
+                    "example": "我还没吃饭。",
+                    "examplePinyin": "Wǒ hái méi chīfàn.",
+                    "exampleMeaning": "Tôi vẫn chưa ăn cơm."
+                },
+                {
+                    "word": "同学",
+                    "pinyin": "tóngxué",
+                    "meaning": "bạn học",
+                    "example": "他是我的同学。",
+                    "examplePinyin": "Tā shì wǒ de tóngxué.",
+                    "exampleMeaning": "Anh ấy là bạn học của tôi."
+                },
+                {
+                    "word": "认识",
+                    "pinyin": "rènshi",
+                    "meaning": "quen biết, làm quen",
+                    "example": "很高兴认识你。",
+                    "examplePinyin": "Hěn gāoxìng rènshi nǐ.",
+                    "exampleMeaning": "Rất vui được làm quen với bạn."
+                },
+                {
+                    "word": "朋友",
+                    "pinyin": "péngyou",
+                    "meaning": "bạn bè",
+                    "example": "我们是朋友。",
+                    "examplePinyin": "Wǒmen shì péngyou.",
+                    "exampleMeaning": "Chúng tôi là bạn bè."
+                }
+            ]
+        }
+    ]
+}

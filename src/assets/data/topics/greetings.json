@@ -1,0 +1,305 @@
+{
+  "id": "greetings",
+  "order": 1,
+  "titleVi": "Chào hỏi",
+  "titleEn": "Greetings",
+  "icon": "👋",
+  "totalWords": 34,
+  "learnedWords": 12,
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Chào hỏi cơ bản",
+      "words": [
+        {
+          "word": "你",
+          "pinyin": "nǐ",
+          "meaning": "bạn",
+          "example": "你好。",
+          "examplePinyin": "Nǐ hǎo.",
+          "exampleMeaning": "Xin chào."
+        },
+        {
+          "word": "好",
+          "pinyin": "hǎo",
+          "meaning": "tốt, khỏe",
+          "example": "我很好。",
+          "examplePinyin": "Wǒ hěn hǎo.",
+          "exampleMeaning": "Tôi rất khỏe."
+        },
+        {
+          "word": "请",
+          "pinyin": "qǐng",
+          "meaning": "mời, xin vui lòng",
+          "example": "请坐。",
+          "examplePinyin": "Qǐng zuò.",
+          "exampleMeaning": "Mời ngồi."
+        },
+        {
+          "word": "问",
+          "pinyin": "wèn",
+          "meaning": "hỏi",
+          "example": "请问，你叫什么名字？",
+          "examplePinyin": "Qǐngwèn, nǐ jiào shénme míngzi?",
+          "exampleMeaning": "Xin hỏi, bạn tên gì?"
+        },
+        {
+          "word": "贵",
+          "pinyin": "guì",
+          "meaning": "quý, lịch sự",
+          "example": "你贵姓？",
+          "examplePinyin": "Nǐ guì xìng?",
+          "exampleMeaning": "Bạn họ gì?"
+        },
+        {
+          "word": "姓",
+          "pinyin": "xìng",
+          "meaning": "họ",
+          "example": "我姓王。",
+          "examplePinyin": "Wǒ xìng Wáng.",
+          "exampleMeaning": "Tôi họ Vương."
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "meaning": "tôi",
+          "example": "我是学生。",
+          "examplePinyin": "Wǒ shì xuésheng.",
+          "exampleMeaning": "Tôi là học sinh."
+        },
+        {
+          "word": "呢",
+          "pinyin": "ne",
+          "meaning": "thì sao",
+          "example": "你呢？",
+          "examplePinyin": "Nǐ ne?",
+          "exampleMeaning": "Còn bạn thì sao?"
+        },
+        {
+          "word": "小姐",
+          "pinyin": "xiǎojiě",
+          "meaning": "cô, tiểu thư",
+          "example": "她是李小姐。",
+          "examplePinyin": "Tā shì Lǐ xiǎojiě.",
+          "exampleMeaning": "Cô ấy là cô Lý."
+        },
+        {
+          "word": "叫",
+          "pinyin": "jiào",
+          "meaning": "tên là",
+          "example": "我叫小明。",
+          "examplePinyin": "Wǒ jiào Xiǎomíng.",
+          "exampleMeaning": "Tôi tên là Tiểu Minh."
+        },
+        {
+          "word": "什么",
+          "pinyin": "shénme",
+          "meaning": "gì",
+          "example": "你叫什么名字？",
+          "examplePinyin": "Nǐ jiào shénme míngzi?",
+          "exampleMeaning": "Bạn tên gì?"
+        },
+        {
+          "word": "名字",
+          "pinyin": "míngzi",
+          "meaning": "tên",
+          "example": "我的名字是安南。",
+          "examplePinyin": "Wǒ de míngzi shì Ānnán.",
+          "exampleMeaning": "Tên tôi là An Nam."
+        },
+        {
+          "word": "先生",
+          "pinyin": "xiānsheng",
+          "meaning": "ông, ngài",
+          "example": "王先生，你好。",
+          "examplePinyin": "Wáng xiānsheng, nǐ hǎo.",
+          "exampleMeaning": "Chào ông Vương."
+        },
+        {
+          "word": "是",
+          "pinyin": "shì",
+          "meaning": "là",
+          "example": "我是老师。",
+          "examplePinyin": "Wǒ shì lǎoshī.",
+          "exampleMeaning": "Tôi là giáo viên."
+        },
+        {
+          "word": "老师",
+          "pinyin": "lǎoshī",
+          "meaning": "giáo viên",
+          "example": "她是老师。",
+          "examplePinyin": "Tā shì lǎoshī.",
+          "exampleMeaning": "Cô ấy là giáo viên."
+        },
+        {
+          "word": "吗",
+          "pinyin": "ma",
+          "meaning": "trợ từ nghi vấn",
+          "example": "你是学生吗？",
+          "examplePinyin": "Nǐ shì xuésheng ma?",
+          "exampleMeaning": "Bạn là học sinh phải không?"
+        },
+        {
+          "word": "不",
+          "pinyin": "bù",
+          "meaning": "không",
+          "example": "我不是老师。",
+          "examplePinyin": "Wǒ bú shì lǎoshī.",
+          "exampleMeaning": "Tôi không phải giáo viên."
+        },
+        {
+          "word": "学生",
+          "pinyin": "xuésheng",
+          "meaning": "học sinh, sinh viên",
+          "example": "他是学生。",
+          "examplePinyin": "Tā shì xuésheng.",
+          "exampleMeaning": "Anh ấy là học sinh."
+        },
+        {
+          "word": "也",
+          "pinyin": "yě",
+          "meaning": "cũng",
+          "example": "我也是学生。",
+          "examplePinyin": "Wǒ yě shì xuésheng.",
+          "exampleMeaning": "Tôi cũng là học sinh."
+        },
+        {
+          "word": "人",
+          "pinyin": "rén",
+          "meaning": "người",
+          "example": "我是越南人。",
+          "examplePinyin": "Wǒ shì Yuènán rén.",
+          "exampleMeaning": "Tôi là người Việt Nam."
+        },
+        {
+          "word": "中国",
+          "pinyin": "Zhōngguó",
+          "meaning": "Trung Quốc",
+          "example": "她来自中国。",
+          "examplePinyin": "Tā láizì Zhōngguó.",
+          "exampleMeaning": "Cô ấy đến từ Trung Quốc."
+        },
+        {
+          "word": "北京",
+          "pinyin": "Běijīng",
+          "meaning": "Bắc Kinh",
+          "example": "我住在北京。",
+          "examplePinyin": "Wǒ zhù zài Běijīng.",
+          "exampleMeaning": "Tôi sống ở Bắc Kinh."
+        },
+        {
+          "word": "美国",
+          "pinyin": "Měiguó",
+          "meaning": "Mỹ",
+          "example": "他是美国人。",
+          "examplePinyin": "Tā shì Měiguó rén.",
+          "exampleMeaning": "Anh ấy là người Mỹ."
+        },
+        {
+          "word": "纽约",
+          "pinyin": "Niǔyuē",
+          "meaning": "New York",
+          "example": "纽约很大。",
+          "examplePinyin": "Niǔyuē hěn dà.",
+          "exampleMeaning": "New York rất lớn."
+        },
+        {
+          "word": "英国",
+          "pinyin": "Yīngguó",
+          "meaning": "Anh",
+          "example": "她去英国了。",
+          "examplePinyin": "Tā qù Yīngguó le.",
+          "exampleMeaning": "Cô ấy đã đi Anh."
+        },
+        {
+          "word": "法国",
+          "pinyin": "Fǎguó",
+          "meaning": "Pháp",
+          "example": "法国很漂亮。",
+          "examplePinyin": "Fǎguó hěn piàoliang.",
+          "exampleMeaning": "Nước Pháp rất đẹp."
+        },
+        {
+          "word": "德国",
+          "pinyin": "Déguó",
+          "meaning": "Đức",
+          "example": "他在德国工作。",
+          "examplePinyin": "Tā zài Déguó gōngzuò.",
+          "exampleMeaning": "Anh ấy làm việc ở Đức."
+        },
+        {
+          "word": "日本",
+          "pinyin": "Rìběn",
+          "meaning": "Nhật Bản",
+          "example": "我喜欢日本。",
+          "examplePinyin": "Wǒ xǐhuan Rìběn.",
+          "exampleMeaning": "Tôi thích Nhật Bản."
+        },
+        {
+          "word": "韩国",
+          "pinyin": "Hánguó",
+          "meaning": "Hàn Quốc",
+          "example": "韩国菜很好吃。",
+          "examplePinyin": "Hánguó cài hěn hǎochī.",
+          "exampleMeaning": "Món Hàn rất ngon."
+        },
+        {
+          "word": "加拿大",
+          "pinyin": "Jiānádà",
+          "meaning": "Canada",
+          "example": "她住在加拿大。",
+          "examplePinyin": "Tā zhù zài Jiānádà.",
+          "exampleMeaning": "Cô ấy sống ở Canada."
+        },
+        {
+          "word": "墨西哥",
+          "pinyin": "Mòxīgē",
+          "meaning": "Mexico",
+          "example": "他来自墨西哥。",
+          "examplePinyin": "Tā láizì Mòxīgē.",
+          "exampleMeaning": "Anh ấy đến từ Mexico."
+        },
+        {
+          "word": "印度",
+          "pinyin": "Yìndù",
+          "meaning": "Ấn Độ",
+          "example": "印度人口很多。",
+          "examplePinyin": "Yìndù rénkǒu hěn duō.",
+          "exampleMeaning": "Dân số Ấn Độ rất đông."
+        },
+        {
+          "word": "越南",
+          "pinyin": "Yuènán",
+          "meaning": "Việt Nam",
+          "example": "我是越南人。",
+          "examplePinyin": "Wǒ shì Yuènán rén.",
+          "exampleMeaning": "Tôi là người Việt Nam."
+        },
+        {
+          "word": "加州",
+          "pinyin": "Jiāzhōu",
+          "meaning": "California",
+          "example": "她住在加州。",
+          "examplePinyin": "Tā zhù zài Jiāzhōu.",
+          "exampleMeaning": "Cô ấy sống ở California."
+        },
+        {
+          "word": "夏威夷",
+          "pinyin": "Xiàwēiyí",
+          "meaning": "Hawaii",
+          "example": "我想去夏威夷。",
+          "examplePinyin": "Wǒ xiǎng qù Xiàwēiyí.",
+          "exampleMeaning": "Tôi muốn đi Hawaii."
+        },
+        {
+          "word": "上海",
+          "pinyin": "Shànghǎi",
+          "meaning": "Thượng Hải",
+          "example": "上海是大城市。",
+          "examplePinyin": "Shànghǎi shì dà chéngshì.",
+          "exampleMeaning": "Thượng Hải là thành phố lớn."
+        }
+      ]
+    }
+  ]
+}
