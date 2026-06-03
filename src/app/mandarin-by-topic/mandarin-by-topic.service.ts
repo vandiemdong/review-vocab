@@ -9,14 +9,16 @@ export class TopicService {
     'greetings',
     'family',
     'datesAndTime',
+    'makingAppointments',
     'hobbies',
     'visitingFriends',
     'shopping',
     'studyingChinese',
-    'transportation'
+    'transportation',
+    'schoolLife'
   ];
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) { }
 
   getTopics() {
     return forkJoin(
